@@ -1,0 +1,1308 @@
+Match,Time,Result,Player,Team,Opponent,X ball,Y ball,X player,Y player,Game State,Crossed?,Not from Cross,Indirectly from Cross,Directly from Cross
+Match 1,2:23,Off Target,Holicharan Narzary,NorthEast United FC,Kerala Blasters FC,2.0,40.0,26.0,17.0,0,Not from Cross,1,0,0
+Match 1,23:53,On Target,Koffi N'dri,NorthEast United FC,Kerala Blasters FC,4.0,35.0,25.0,42.0,0,Not from Cross,1,0,0
+Match 1,26:44,Off Target,Katsumi Yusa,NorthEast United FC,Kerala Blasters FC,1.0,37.0,20.0,47.0,0,Not from Cross,1,0,0
+Match 1,33:59,Off Target,Mohammed Rafi,Kerala Blasters FC,NorthEast United FC,4.0,30.0,17.0,24.0,0,Not from Cross,1,0,0
+Match 1,36:19,Off Target,Antonio German,Kerala Blasters FC,NorthEast United FC,4.0,27.0,29.0,36.0,0,Not from Cross,1,0,0
+Match 1,42:20,Off Target,Mohammed Rafi,Kerala Blasters FC,NorthEast United FC,3.0,31.0,15.0,33.0,0,Indirectly from Cross,0,1,0
+Match 1,42:52,On Target,Nicolas Velez,NorthEast United FC,Kerala Blasters FC,3.0,31.0,6.0,25.0,0,Directly from Cross,0,0,1
+Match 1,42:57,On Target,Rowllin Borges,NorthEast United FC,Kerala Blasters FC,3.0,31.0,7.0,24.0,0,Not from Cross,1,0,0
+Match 1,44:19,Off Target,Reagan Singh,NorthEast United FC,Kerala Blasters FC,1.0,27.0,27.0,19.0,0,Not from Cross,1,0,0
+Match 1,47:47,Off Target,Antonio German,Kerala Blasters FC,NorthEast United FC,NaN,NaN,8.0,33.0,0,Not from Cross,1,0,0
+Match 1,49:16,Off Target,Nicolas Velez,NorthEast United FC,Kerala Blasters FC,4.0,29.0,28.0,40.0,0,Not from Cross,1,0,0
+Match 1,50:55,Off Target,Antonio German,Kerala Blasters FC,NorthEast United FC,2.0,27.0,21.0,44.0,0,Not from Cross,1,0,0
+Match 1,52:51,Off Target,Kervens Belfort,Kerala Blasters FC,NorthEast United FC,1.0,28.0,25.0,37.0,0,Not from Cross,1,0,0
+Match 1,55:16,Goal,Katsumi Yusa,NorthEast United FC,Kerala Blasters FC,5.0,35.0,7.0,35.0,1,Indirectly from Cross,0,1,0
+Match 1,55:16,On Target,Katsumi Yusa,NorthEast United FC,Kerala Blasters FC,5.0,35.0,7.0,35.0,1,Indirectly from Cross,0,1,0
+Match 1,62:17,Off Target,Kervens Belfort,Kerala Blasters FC,NorthEast United FC,1.0,39.0,12.0,27.0,-1,Not from Cross,1,0,0
+Match 1,72:25,On Target,Emiliano Alfaro,NorthEast United FC,Kerala Blasters FC,7.0,33.0,15.0,26.0,1,Not from Cross,1,0,0
+Match 1,74:1,Off Target,Antonio German,Kerala Blasters FC,NorthEast United FC,1.0,37.0,24.0,42.0,-1,Not from Cross,1,0,0
+Match 1,83:1,Off Target,Mohammed Rafi,Kerala Blasters FC,NorthEast United FC,1.0,32.0,7.0,34.0,-1,Not from Cross,1,0,0
+Match 2,8:38,Off Target,John Riise,Chennaiyin FC,Atlético de Kolkata,14.0,33.0,30.0,21.0,0,Not from Cross,1,0,0
+Match 2,15:50,Off Target,Borja Fernández,Atlético de Kolkata,Chennaiyin FC,16.0,41.0,24.0,28.0,0,Not from Cross,1,0,0
+Match 2,19:14,Off Target,Sameehg Doutie,Atlético de Kolkata,Chennaiyin FC,15.0,29.0,35.0,42.0,0,Not from Cross,1,0,0
+Match 2,20:21,On Target,Hélder Postiga,Atlético de Kolkata,Chennaiyin FC,21.0,35.0,26.0,32.0,0,Not from Cross,1,0,0
+Match 2,21:27,Off Target,Davide Succi,Chennaiyin FC,Atlético de Kolkata,14.0,25.0,30.0,22.0,0,Not from Cross,1,0,0
+Match 2,22:12,On Target,Jeje Lalpekhlua,Chennaiyin FC,Atlético de Kolkata,16.0,30.0,32.0,31.0,0,Not from Cross,1,0,0
+Match 2,28:11,Off Target,Hélder Postiga,Atlético de Kolkata,Chennaiyin FC,16.0,35.0,33.0,29.0,0,Not from Cross,1,0,0
+Match 2,28:58,Off Target,Baljit Sahni,Chennaiyin FC,Atlético de Kolkata,14.0,26.0,31.0,21.0,0,Not from Cross,1,0,0
+Match 2,40:18,On Target,Javier Grande,Atlético de Kolkata,Chennaiyin FC,17.0,37.0,40.0,60.0,0,Not from Cross,1,0,0
+Match 2,40:42,On Target,Javier Grande,Atlético de Kolkata,Chennaiyin FC,16.0,40.0,17.0,67.0,0,Not from Cross,1,0,0
+Match 2,41:15,On Target,Hélder Postiga,Atlético de Kolkata,Chennaiyin FC,18.0,37.0,35.0,38.0,0,Not from Cross,1,0,0
+Match 2,50:20,On Target,John Riise,Chennaiyin FC,Atlético de Kolkata,18.0,39.0,26.0,14.0,0,Not from Cross,1,0,0
+Match 2,50:46,On Target,Javier Grande,Atlético de Kolkata,Chennaiyin FC,15.0,35.0,26.0,45.0,0,Not from Cross,1,0,0
+Match 2,57:46,Off Target,Hélder Postiga,Atlético de Kolkata,Chennaiyin FC,13.0,25.0,25.0,31.0,0,Not from Cross,1,0,0
+Match 2,59:9,On Target,Sameehg Doutie,Atlético de Kolkata,Chennaiyin FC,14.0,31.0,21.0,27.0,0,Not from Cross,1,0,0
+Match 2,59:9,Goal,Sameehg Doutie,Atlético de Kolkata,Chennaiyin FC,14.0,30.0,20.0,28.0,1,Not from Cross,1,0,0
+Match 2,62:54,Off Target,Hélder Postiga,Atlético de Kolkata,Chennaiyin FC,15.0,32.0,38.0,18.0,1,Not from Cross,1,0,0
+Match 2,65:45,Off Target,Pritam Kotal,Atlético de Kolkata,Chennaiyin FC,14.0,33.0,33.0,19.0,1,Not from Cross,1,0,0
+Match 2,66:49,On Target,Jayesh Rane,Chennaiyin FC,Atlético de Kolkata,91.0,37.0,88.0,40.0,-1,Not from Cross,1,0,0
+Match 2,66:49,Goal,Jayesh Rane,Chennaiyin FC,Atlético de Kolkata,5.0,37.0,14.0,31.0,0,Not from Cross,1,0,0
+Match 2,70:44,On Target,Hans Mulder,Chennaiyin FC,Atlético de Kolkata,17.0,40.0,35.0,43.0,0,Not from Cross,1,0,0
+Match 2,70:44,Goal,Hans Mulder,Chennaiyin FC,Atlético de Kolkata,16.0,40.0,36.0,42.0,1,Not from Cross,1,0,0
+Match 2,72:41,On Target,Hélder Postiga,Atlético de Kolkata,Chennaiyin FC,15.0,33.0,22.0,32.0,-1,Directly from Cross,0,0,1
+Match 2,74:16,Off Target,Iain Hume,Atlético de Kolkata,Chennaiyin FC,14.0,27.0,19.0,45.0,-1,Indirectly from Cross,0,1,0
+Match 2,77:34,On Target,Iain Hume,Atlético de Kolkata,Chennaiyin FC,16.0,32.0,21.0,45.0,-1,Not from Cross,1,0,0
+Match 2,83:52,Off Target,MacPherlin Omagbemi,Chennaiyin FC,Atlético de Kolkata,17.0,35.0,21.0,33.0,1,Not from Cross,1,0,0
+Match 2,86:21,On Target,Iain Hume,Atlético de Kolkata,Chennaiyin FC,14.0,36.0,20.0,34.0,-1,Not from Cross,1,0,0
+Match 2,88:41,Off Target,Jayesh Rane,Chennaiyin FC,Atlético de Kolkata,17.0,35.0,25.0,52.0,0,Not from Cross,1,0,0
+Match 3,10:50,On Target,Arata Izumi,FC Pune City,Mumbai City FC,11.48,36.22,17.83,40.38,0,Indirectly from Cross,0,1,0
+Match 3,16:1,On Target,Jonatan Lucca,FC Pune City,Mumbai City FC,11.23,38.43,20.51,44.06,0,Not from Cross,1,0,0
+Match 3,23:3,On Target,Pronay Halder,Mumbai City FC,FC Pune City,9.63,29.86,31.06,24.48,0,Not from Cross,1,0,0
+Match 3,31:12,Off Target,Lucian Goian,Mumbai City FC,FC Pune City,1.71,27.66,8.79,33.04,0,Not from Cross,1,0,0
+Match 3,38:28,On Target,Gustavo Oberman,FC Pune City,Mumbai City FC,11.72,37.94,16.36,44.3,0,Not from Cross,1,0,0
+Match 3,45:48,On Target,Krisztián Vadócz,Mumbai City FC,FC Pune City,3.66,35.73,6.59,36.22,0,Not from Cross,1,0,0
+Match 3,49:24,Off Target,Sehnaj Singh,Mumbai City FC,FC Pune City,5.13,30.59,20.76,32.31,0,Not from Cross,1,0,0
+Match 3,62:3,Off Target,L'aihsanga Ralte,Mumbai City FC,FC Pune City,8.3,30.59,19.05,52.38,0,Not from Cross,1,0,0
+Match 3,66:6,On Target,Lenny Rodrigues,FC Pune City,Mumbai City FC,11.97,31.33,21.24,30.1,0,Not from Cross,1,0,0
+Match 3,68:57,Goal,Matías Defederico,Mumbai City FC,FC Pune City,5.86,34.51,26.86,41.36,1,Not from Cross,1,0,0
+Match 3,68:57,On Target,Matías Defederico,Mumbai City FC,FC Pune City,4.88,36.71,20.51,41.85,1,Not from Cross,1,0,0
+Match 3,70:16,Off Target,Jesus Tato,FC Pune City,Mumbai City FC,2.2,27.17,21.98,41.61,-1,Not from Cross,1,0,0
+Match 3,73:15,On Target,Jesus Tato,FC Pune City,Mumbai City FC,2.93,28.64,6.84,23.99,-1,Not from Cross,1,0,0
+Match 3,75:41,On Target,Otacilio Alves,Mumbai City FC,FC Pune City,8.06,37.2,20.27,41.61,1,Not from Cross,1,0,0
+Match 3,81:22,On Target,Jesus Tato,FC Pune City,Mumbai City FC,4.15,27.66,14.41,21.29,-1,Not from Cross,1,0,0
+Match 3,83:51,Off Target,Léo Costa,Mumbai City FC,FC Pune City,5.13,31.08,29.06,49.2,1,Not from Cross,1,0,0
+Match 3,90:7,Off Target,Rahul Bheke,FC Pune City,Mumbai City FC,1.71,39.65,26.37,22.03,-1,Not from Cross,1,0,0
+Match 3,91:0,On Target,Jackichand Singh,Mumbai City FC,FC Pune City,101.58,33.04,100.12,26.19,1,Not from Cross,1,0,0
+Match 3,92:0,On Target,Krisztián Vadócz,Mumbai City FC,FC Pune City,7.33,37.45,22.22,38.43,1,Directly from Cross,0,0,1
+Match 4,7:26,On Target,Rafael Dumas,FC Goa,NorthEast United FC,4.88,32.31,7.81,27.9,0,Not from Cross,1,0,0
+Match 4,11:52,On Target,Katsumi Yusa,NorthEast United FC,FC Goa,4.4,26.92,9.52,21.29,0,Not from Cross,1,0,0
+Match 4,19:38,Off Target,Koffi N'dri,NorthEast United FC,FC Goa,1.22,24.48,24.91,42.1,0,Not from Cross,1,0,0
+Match 4,20:29,On Target,Emiliano Alfaro,NorthEast United FC,FC Goa,1.22,32.55,4.15,31.08,0,Not from Cross,1,0,0
+Match 4,20:29,Goal,Emiliano Alfaro,NorthEast United FC,FC Goa,0.98,32.55,4.88,31.08,1,Not from Cross,1,0,0
+Match 4,38:40,On Target,Joffre Gonzalez,FC Goa,NorthEast United FC,5.13,36.96,14.65,34.51,-1,Indirectly from Cross,0,1,0
+Match 4,38:49,Off Target,Fulganco Cardozo,FC Goa,NorthEast United FC,3.91,43.57,20.51,44.3,-1,Not from Cross,1,0,0
+Match 4,43:20,Off Target,Rafael Luiz,FC Goa,NorthEast United FC,4.15,29.62,28.33,39.16,-1,Not from Cross,1,0,0
+Match 4,54:37,On Target,Trindade Goncalves,FC Goa,NorthEast United FC,2.44,35.24,27.35,32.8,-1,Not from Cross,1,0,0
+Match 4,58:44,On Target,Mandar Dessai,FC Goa,NorthEast United FC,2.44,30.35,17.58,38.92,-1,Not from Cross,1,0,0
+Match 4,58:50,On Target,Trindade Goncalves,FC Goa,NorthEast United FC,2.2,30.1,24.66,44.3,-1,Not from Cross,1,0,0
+Match 4,61:6,Off Target,Joffre Gonzalez,FC Goa,NorthEast United FC,1.47,26.92,27.59,31.08,-1,Not from Cross,1,0,0
+Match 4,62:33,On Target,Emiliano Alfaro,NorthEast United FC,FC Goa,4.15,37.69,13.67,25.45,1,Not from Cross,1,0,0
+Match 4,62:33,Goal,Emiliano Alfaro,NorthEast United FC,FC Goa,3.66,37.45,12.45,23.74,2,Not from Cross,1,0,0
+Match 4,68:36,Off Target,Trindade Goncalves,FC Goa,NorthEast United FC,1.22,32.31,30.03,30.84,-2,Not from Cross,1,0,0
+Match 4,74:10,On Target,Reinaldo Oliveira,FC Goa,NorthEast United FC,2.69,30.1,13.19,23.5,-2,Not from Cross,1,0,0
+Match 4,81:10,On Target,Emiliano Alfaro,NorthEast United FC,FC Goa,8.3,36.22,16.12,35.0,2,Indirectly from Cross,0,1,0
+Match 4,83:4,Off Target,Julio Cesar,FC Goa,NorthEast United FC,1.22,26.43,26.62,32.55,-2,Not from Cross,1,0,0
+Match 4,89:15,Off Target,Julio Cesar,FC Goa,NorthEast United FC,0.49,32.06,13.67,40.38,-2,Not from Cross,1,0,0
+Match 4,92:0,On Target,Trindade Goncalves,FC Goa,NorthEast United FC,2.44,34.51,30.03,43.81,-2,Not from Cross,1,0,0
+Match 5,4:55,Off Target,Hélder Postiga,Atlético de Kolkata,Kerala Blasters FC,1.0,29.0,13.0,32.0,0,Directly from Cross,0,0,1
+Match 5,6:13,Off Target,Duckens Nazon,Kerala Blasters FC,Atlético de Kolkata,5.0,41.0,18.0,30.0,0,Not from Cross,1,0,0
+Match 5,10:16,Off Target,Javier Grande,Atlético de Kolkata,Kerala Blasters FC,3.0,27.0,29.0,46.0,0,Not from Cross,1,0,0
+Match 5,26:56,On Target,Sameehg Doutie,Atlético de Kolkata,Kerala Blasters FC,8.0,33.0,15.0,24.0,0,Not from Cross,1,0,0
+Match 5,26:57,On Target,Javier Grande,Atlético de Kolkata,Kerala Blasters FC,9.0,32.0,17.0,30.0,0,Not from Cross,1,0,0
+Match 5,27:38,Off Target,Antonio German,Kerala Blasters FC,Atlético de Kolkata,9.0,35.0,17.0,38.0,0,Not from Cross,1,0,0
+Match 5,29:40,On Target,Jewel Shaikh,Atlético de Kolkata,Kerala Blasters FC,10.0,34.0,33.0,40.0,0,Not from Cross,1,0,0
+Match 5,31:53,Off Target,Antonio German,Kerala Blasters FC,Atlético de Kolkata,10.0,32.0,25.0,43.0,0,Not from Cross,1,0,0
+Match 5,33:26,Off Target,Mohammed Rafique,Kerala Blasters FC,Atlético de Kolkata,11.0,43.0,26.0,49.0,0,Not from Cross,1,0,0
+Match 5,34:53,Off Target,Borja Fernández,Atlético de Kolkata,Kerala Blasters FC,7.0,40.0,55.0,12.0,0,Not from Cross,1,0,0
+Match 5,49:30,Off Target,Juan Belencoso,Atlético de Kolkata,Kerala Blasters FC,11.0,43.0,21.0,40.0,0,Indirectly from Cross,0,1,0
+Match 5,53:11,On Target,Javier Grande,Atlético de Kolkata,Kerala Blasters FC,11.0,40.0,29.0,40.0,0,Not from Cross,1,0,0
+Match 5,53:11,Goal,Javier Grande,Atlético de Kolkata,Kerala Blasters FC,9.0,40.0,30.0,39.0,1,Not from Cross,1,0,0
+Match 5,61:49,Off Target,Javier Grande,Atlético de Kolkata,Kerala Blasters FC,10.0,31.0,28.0,53.0,1,Not from Cross,1,0,0
+Match 5,75:55,Off Target,Jewel Shaikh,Atlético de Kolkata,Kerala Blasters FC,10.0,38.0,23.0,40.0,1,Not from Cross,1,0,0
+Match 5,90:0,Off Target,Cedric Hengbart,Kerala Blasters FC,Atlético de Kolkata,7.0,28.0,12.0,28.0,-1,Not from Cross,1,0,0
+Match 6,2:35,On Target,Baljit Sahni,Chennaiyin FC,Delhi Dynamos FC,11.59,38.43,28.44,26.19,0,Not from Cross,1,0,0
+Match 6,8:45,Off Target,MacPherlin Omagbemi,Chennaiyin FC,Delhi Dynamos FC,9.41,37.45,21.0,37.69,0,Not from Cross,1,0,0
+Match 6,9:39,Off Target,Bernard Mendy,Chennaiyin FC,Delhi Dynamos FC,8.53,34.27,13.56,38.67,0,Not from Cross,1,0,0
+Match 6,10:55,On Target,Jeje Lalpekhlua,Chennaiyin FC,Delhi Dynamos FC,12.91,38.43,26.03,39.16,0,Not from Cross,1,0,0
+Match 6,11:39,On Target,Kean Lewis,Delhi Dynamos FC,Chennaiyin FC,10.28,33.78,24.5,40.14,0,Not from Cross,1,0,0
+Match 6,11:53,Off Target,MacPherlin Omagbemi,Chennaiyin FC,Delhi Dynamos FC,10.28,44.06,30.62,44.79,0,Not from Cross,1,0,0
+Match 6,12:50,On Target,Kean Lewis,Delhi Dynamos FC,Chennaiyin FC,9.41,32.31,26.91,44.3,0,Not from Cross,1,0,0
+Match 6,13:47,Off Target,M'rajuddin Wadoo,Chennaiyin FC,Delhi Dynamos FC,10.94,28.64,35.0,26.19,0,Not from Cross,1,0,0
+Match 6,15:6,On Target,Marcelo Pereira,Delhi Dynamos FC,Chennaiyin FC,9.41,32.55,27.13,32.8,0,Not from Cross,1,0,0
+Match 6,21:53,On Target,Jayesh Rane,Chennaiyin FC,Delhi Dynamos FC,12.47,39.16,28.66,52.13,0,Not from Cross,1,0,0
+Match 6,26:16,On Target,Marcelo Pereira,Delhi Dynamos FC,Chennaiyin FC,6.34,34.76,16.19,32.31,0,Not from Cross,1,0,0
+Match 6,29:21,Off Target,Jayesh Rane,Chennaiyin FC,Delhi Dynamos FC,10.06,37.69,20.12,59.48,-1,Not from Cross,1,0,0
+Match 6,32:15,On Target,MacPherlin Omagbemi,Chennaiyin FC,Delhi Dynamos FC,9.62,39.9,23.19,45.52,-1,Not from Cross,1,0,0
+Match 6,32:15,Goal,MacPherlin Omagbemi,Chennaiyin FC,Delhi Dynamos FC,11.59,40.14,22.31,48.22,0,Not from Cross,1,0,0
+Match 6,34:33,On Target,Marcelo Pereira,Delhi Dynamos FC,Chennaiyin FC,7.88,35.73,24.94,39.9,0,Not from Cross,1,0,0
+Match 6,34:33,Goal,Marcelo Pereira,Delhi Dynamos FC,Chennaiyin FC,7.0,35.73,26.25,38.92,1,Not from Cross,1,0,0
+Match 6,37:24,Off Target,Kean Lewis,Delhi Dynamos FC,Chennaiyin FC,6.56,25.94,21.0,32.06,1,Not from Cross,1,0,0
+Match 6,40:24,On Target,Marcelo Pereira,Delhi Dynamos FC,Chennaiyin FC,7.44,30.84,28.44,15.17,1,Not from Cross,1,0,0
+Match 6,60:43,Off Target,MacPherlin Omagbemi,Chennaiyin FC,Delhi Dynamos FC,7.88,27.17,16.19,29.86,-1,Indirectly from Cross,0,1,0
+Match 6,68:55,Off Target,Milan Singh,Delhi Dynamos FC,Chennaiyin FC,10.28,34.76,34.56,32.31,1,Not from Cross,1,0,0
+Match 6,84:15,On Target,Badara Badji,Delhi Dynamos FC,Chennaiyin FC,11.59,35.24,18.81,34.27,1,Indirectly from Cross,0,1,0
+Match 6,84:15,Goal,Badara Badji,Delhi Dynamos FC,Chennaiyin FC,10.72,35.98,18.37,34.27,2,Indirectly from Cross,0,1,0
+Match 6,90:51,Off Target,Badara Badji,Delhi Dynamos FC,Chennaiyin FC,10.5,30.1,24.06,37.45,2,Not from Cross,1,0,0
+Match 7,2:34,On Target,Diego Forlán,Mumbai City FC,NorthEast United FC,10.94,39.65,29.75,62.17,0,Not from Cross,1,0,0
+Match 7,11:53,Off Target,Koffi N'dri,NorthEast United FC,Mumbai City FC,6.34,25.45,28.88,41.61,0,Not from Cross,1,0,0
+Match 7,13:0,Off Target,Matías Defederico,Mumbai City FC,NorthEast United FC,8.75,41.12,27.56,52.13,0,Not from Cross,1,0,0
+Match 7,15:42,On Target,Koffi N'dri,NorthEast United FC,Mumbai City FC,7.88,30.35,26.03,34.51,0,Not from Cross,1,0,0
+Match 7,19:54,On Target,Aiborlang Khongjee,Mumbai City FC,NorthEast United FC,10.28,39.65,34.12,17.13,0,Not from Cross,1,0,0
+Match 7,21:47,On Target,Koffi N'dri,NorthEast United FC,Mumbai City FC,7.22,30.35,24.94,35.73,0,Indirectly from Cross,0,1,0
+Match 7,26:47,Off Target,Sehnaj Singh,Mumbai City FC,NorthEast United FC,8.53,29.37,37.62,24.48,0,Not from Cross,1,0,0
+Match 7,40:29,Off Target,Katsumi Yusa,NorthEast United FC,Mumbai City FC,6.34,29.86,20.56,35.73,0,Not from Cross,1,0,0
+Match 7,45:9,On Target,Emiliano Alfaro,NorthEast United FC,Mumbai City FC,12.25,32.06,16.63,32.55,0,Not from Cross,1,0,0
+Match 7,51:9,Off Target,Matías Defederico,Mumbai City FC,NorthEast United FC,6.78,25.21,20.34,39.9,0,Not from Cross,1,0,0
+Match 7,55:53,On Target,Diego Forlán,Mumbai City FC,NorthEast United FC,6.56,32.31,17.28,32.55,0,Not from Cross,1,0,0
+Match 7,74:27,On Target,Emiliano Alfaro,NorthEast United FC,Mumbai City FC,10.94,35.24,15.97,21.29,-1,Not from Cross,1,0,0
+Match 7,77:13,On Target,Katsumi Yusa,NorthEast United FC,Mumbai City FC,10.72,40.63,17.94,48.95,-1,Not from Cross,1,0,0
+Match 7,79:14,Off Target,Holicharan Narzary,NorthEast United FC,Mumbai City FC,9.19,31.82,32.81,16.15,-1,Not from Cross,1,0,0
+Match 7,82:21,On Target,Otacilio Alves,Mumbai City FC,NorthEast United FC,8.09,30.35,29.09,24.23,1,Not from Cross,1,0,0
+Match 8,7:58,On Target,Rafael Luiz,FC Goa,FC Pune City,15.09,35.0,24.5,44.79,0,Not from Cross,1,0,0
+Match 8,10:14,Off Target,Rafael Luiz,FC Goa,FC Pune City,6.34,23.99,20.34,23.01,0,Not from Cross,1,0,0
+Match 8,25:49,On Target,Jonatan Lucca,FC Pune City,FC Goa,10.06,39.9,35.66,37.45,0,Not from Cross,1,0,0
+Match 8,25:55,On Target,Arata Izumi,FC Pune City,FC Goa,8.97,40.38,18.37,40.14,0,Not from Cross,1,0,0
+Match 8,25:55,Goal,Arata Izumi,FC Pune City,FC Goa,8.75,39.65,16.62,38.67,1,Not from Cross,1,0,0
+Match 8,28:5,Off Target,Sanjay Balmuchu,FC Goa,FC Pune City,6.13,40.63,40.03,31.57,-1,Not from Cross,1,0,0
+Match 8,33:6,On Target,Rafael Luiz,FC Goa,FC Pune City,7.0,35.73,18.16,24.48,-1,Not from Cross,1,0,0
+Match 8,33:6,Goal,Rafael Luiz,FC Goa,FC Pune City,6.34,35.73,18.16,25.21,0,Not from Cross,1,0,0
+Match 8,36:44,Off Target,Joffre Gonzalez,FC Goa,FC Pune City,6.34,29.62,30.63,23.01,0,Not from Cross,1,0,0
+Match 8,41:12,On Target,Lucio,FC Goa,FC Pune City,8.75,29.62,17.06,26.68,0,Not from Cross,1,0,0
+Match 8,44:58,On Target,Mohamed Sissoko,FC Pune City,FC Goa,17.28,39.9,31.28,37.94,0,Not from Cross,1,0,0
+Match 8,51:32,On Target,Rafael Luiz,FC Goa,FC Pune City,10.28,35.0,34.78,34.27,0,Not from Cross,1,0,0
+Match 8,53:51,On Target,Romeo Fernandes,FC Goa,FC Pune City,10.5,39.65,18.16,44.06,0,Not from Cross,1,0,0
+Match 8,54:37,Off Target,Romeo Fernandes,FC Goa,FC Pune City,8.09,31.33,19.47,22.76,0,Not from Cross,1,0,0
+Match 8,61:21,On Target,Anibal Rodriguez,FC Pune City,FC Goa,15.31,27.41,19.25,23.01,0,Not from Cross,1,0,0
+Match 8,61:44,On Target,Jonatan Lucca,FC Pune City,FC Goa,7.88,32.31,32.38,28.39,0,Not from Cross,1,0,0
+Match 8,69:58,On Target,Trindade Goncalves,FC Goa,FC Pune City,8.53,37.45,20.12,41.61,0,Indirectly from Cross,0,1,0
+Match 8,71:27,Off Target,Rafael Luiz,FC Goa,FC Pune City,8.31,38.18,19.03,36.22,0,Not from Cross,1,0,0
+Match 8,71:57,Off Target,Julio Cesar,FC Goa,FC Pune City,8.53,27.66,33.47,48.95,0,Not from Cross,1,0,0
+Match 8,79:5,On Target,Joffre Gonzalez,FC Goa,FC Pune City,12.25,36.71,37.62,20.07,0,Not from Cross,1,0,0
+Match 8,83:32,On Target,Rafael Luiz,FC Goa,FC Pune City,11.16,37.2,34.34,42.34,0,Not from Cross,1,0,0
+Match 8,89:51,Off Target,Julio Cesar,FC Goa,FC Pune City,8.09,38.18,32.37,20.8,0,Not from Cross,1,0,0
+Match 8,90:23,On Target,Momar Ndoye,FC Pune City,FC Goa,6.56,35.73,21.66,38.67,0,Not from Cross,1,0,0
+Match 8,90:23,Goal,Momar Ndoye,FC Pune City,FC Goa,6.56,35.0,21.22,38.18,1,Not from Cross,1,0,0
+Match 8,93:0,On Target,Sahil Tavora,FC Goa,FC Pune City,15.75,41.61,28.22,48.95,-1,Not from Cross,1,0,0
+Match 8,94:0,Off Target,Sahil Tavora,FC Goa,FC Pune City,8.31,40.38,25.37,47.73,-1,Not from Cross,1,0,0
+Match 9,12:50,Off Target,Michael Chopra,Kerala Blasters FC,Delhi Dynamos FC,8.09,29.37,30.62,31.82,0,Not from Cross,1,0,0
+Match 9,16:2,Off Target,Milan Singh,Delhi Dynamos FC,Kerala Blasters FC,6.78,39.65,28.0,20.07,0,Not from Cross,1,0,0
+Match 9,25:29,On Target,Milan Singh,Delhi Dynamos FC,Kerala Blasters FC,7.88,29.86,31.06,28.39,0,Not from Cross,1,0,0
+Match 9,28:41,Off Target,L'awnkima,Delhi Dynamos FC,Kerala Blasters FC,5.91,23.01,30.63,28.39,0,Not from Cross,1,0,0
+Match 9,39:31,Off Target,Mohammed Rafique,Kerala Blasters FC,Delhi Dynamos FC,8.53,44.06,31.28,40.14,0,Not from Cross,1,0,0
+Match 9,40:47,Off Target,Antonio German,Kerala Blasters FC,Delhi Dynamos FC,15.97,32.8,33.47,43.32,0,Not from Cross,1,0,0
+Match 9,45:35,On Target,Michael Chopra,Kerala Blasters FC,Delhi Dynamos FC,10.94,34.76,16.84,24.48,0,Not from Cross,1,0,0
+Match 9,61:19,On Target,Marcelo Pereira,Delhi Dynamos FC,Kerala Blasters FC,10.94,37.2,15.97,11.26,0,Not from Cross,1,0,0
+Match 10,2:48,Off Target,Léo Costa,Mumbai City FC,Atlético de Kolkata,5.69,35.24,26.91,30.1,0,Not from Cross,1,0,0
+Match 10,3:42,Off Target,Krisztián Vadócz,Mumbai City FC,Atlético de Kolkata,4.81,34.02,28.44,26.68,0,Not from Cross,1,0,0
+Match 10,6:3,On Target,Sameehg Doutie,Atlético de Kolkata,Mumbai City FC,11.81,37.69,20.34,33.53,0,Indirectly from Cross,0,1,0
+Match 10,10:2,On Target,Matías Defederico,Mumbai City FC,Atlético de Kolkata,8.09,32.06,29.31,26.92,0,Indirectly from Cross,0,1,0
+Match 10,11:49,Off Target,Krisztián Vadócz,Mumbai City FC,Atlético de Kolkata,5.69,32.31,11.16,32.06,0,Not from Cross,1,0,0
+Match 10,12:43,On Target,Boithang Haokip,Mumbai City FC,Atlético de Kolkata,8.09,35.73,16.84,40.63,0,Not from Cross,1,0,0
+Match 10,12:59,Off Target,Léo Costa,Mumbai City FC,Atlético de Kolkata,6.34,43.08,26.69,24.72,0,Not from Cross,1,0,0
+Match 10,20:29,Off Target,Borja Fernández,Atlético de Kolkata,Mumbai City FC,10.72,44.06,28.44,28.88,0,Not from Cross,1,0,0
+Match 10,23:35,On Target,Javier Grande,Atlético de Kolkata,Mumbai City FC,12.25,36.71,26.69,63.64,0,Not from Cross,1,0,0
+Match 10,25:15,Off Target,Krisztián Vadócz,Mumbai City FC,Atlético de Kolkata,6.34,41.36,18.81,32.06,0,Not from Cross,1,0,0
+Match 10,27:18,On Target,Matías Defederico,Mumbai City FC,Atlético de Kolkata,7.44,30.84,26.03,34.51,0,Not from Cross,1,0,0
+Match 10,27:18,Goal,Matías Defederico,Mumbai City FC,Atlético de Kolkata,6.56,30.84,27.13,34.76,1,Not from Cross,1,0,0
+Match 10,42:37,Off Target,Juan Belencoso,Atlético de Kolkata,Mumbai City FC,10.94,43.32,17.94,36.22,-1,Not from Cross,1,0,0
+Match 10,47:11,On Target,Juan Belencoso,Atlético de Kolkata,Mumbai City FC,9.19,34.51,18.38,16.64,-1,Not from Cross,1,0,0
+Match 10,47:48,Off Target,Krisztián Vadócz,Mumbai City FC,Atlético de Kolkata,17.56,26.34,34.76,47.8,1,Not from Cross,1,0,0
+Match 10,53:16,Off Target,Léo Costa,Mumbai City FC,Atlético de Kolkata,11.77,46.59,28.78,27.07,1,Not from Cross,1,0,0
+Match 10,58:21,On Target,Léo Costa,Mumbai City FC,Atlético de Kolkata,10.06,34.27,35.87,55.31,1,Not from Cross,1,0,0
+Match 10,64:50,Off Target,Sameehg Doutie,Atlético de Kolkata,Mumbai City FC,17.92,32.2,17.2,24.15,-1,Directly from Cross,0,0,1
+Match 10,76:23,Off Target,Stephen Pearson,Atlético de Kolkata,Mumbai City FC,5.25,32.8,13.34,44.3,-1,Not from Cross,1,0,0
+Match 10,77:59,Off Target,Juan Belencoso,Atlético de Kolkata,Mumbai City FC,5.69,39.9,15.53,29.62,-1,Directly from Cross,0,0,1
+Match 10,83:1,Goal,Javier Grande,Atlético de Kolkata,Mumbai City FC,7.81,30.1,24.17,42.59,0,Not from Cross,1,0,0
+Match 10,83:1,On Target,Javier Grande,Atlético de Kolkata,Mumbai City FC,7.33,30.1,24.17,41.12,0,Not from Cross,1,0,0
+Match 10,84:30,Off Target,Juan Belencoso,Atlético de Kolkata,Mumbai City FC,5.03,29.62,13.56,32.31,0,Not from Cross,1,0,0
+Match 10,87:33,On Target,José Arroyo,Atlético de Kolkata,Mumbai City FC,15.75,35.85,21.0,33.9,0,Not from Cross,1,0,0
+Match 10,87:43,On Target,Stephen Pearson,Atlético de Kolkata,Mumbai City FC,15.75,36.1,20.09,46.83,0,Not from Cross,1,0,0
+Match 11,5:27,On Target,Jonatan Lucca,FC Pune City,NorthEast United FC,7.33,37.69,31.01,26.68,0,Not from Cross,1,0,0
+Match 11,6:42,Off Target,Koffi N'dri,NorthEast United FC,FC Pune City,2.69,40.38,34.43,9.79,0,Not from Cross,1,0,0
+Match 11,13:46,Off Target,Koffi N'dri,NorthEast United FC,FC Pune City,0.49,39.9,28.57,40.87,0,Not from Cross,1,0,0
+Match 11,17:53,On Target,Nicolas Velez,NorthEast United FC,FC Pune City,15.97,36.22,21.44,39.16,0,Directly from Cross,0,0,1
+Match 11,18:37,Off Target,Jesus Tato,FC Pune City,NorthEast United FC,5.37,35.98,36.38,55.8,0,Not from Cross,1,0,0
+Match 11,19:59,Off Target,Koffi N'dri,NorthEast United FC,FC Pune City,0.49,33.04,15.14,30.59,0,Not from Cross,1,0,0
+Match 11,22:54,Off Target,Mohamed Sissoko,FC Pune City,NorthEast United FC,4.88,28.15,17.83,38.92,0,Not from Cross,1,0,0
+Match 11,28:37,Off Target,Holicharan Narzary,NorthEast United FC,FC Pune City,2.2,27.17,12.94,26.68,0,Not from Cross,1,0,0
+Match 11,29:44,Off Target,Lenny Rodrigues,FC Pune City,NorthEast United FC,6.59,34.76,30.52,21.29,0,Not from Cross,1,0,0
+Match 11,45:10,Off Target,Jonatan Lucca,FC Pune City,NorthEast United FC,5.86,44.55,29.3,33.29,0,Not from Cross,1,0,0
+Match 11,51:54,On Target,Jonatan Lucca,FC Pune City,NorthEast United FC,3.91,35.73,22.22,42.1,0,Not from Cross,1,0,0
+Match 11,53:30,Off Target,Lenny Rodrigues,FC Pune City,NorthEast United FC,2.69,38.92,27.1,34.02,0,Not from Cross,1,0,0
+Match 11,56:47,On Target,Koffi N'dri,NorthEast United FC,FC Pune City,7.08,37.94,27.35,46.01,0,Not from Cross,1,0,0
+Match 11,57:33,Off Target,Nicolas Velez,NorthEast United FC,FC Pune City,7.57,45.28,25.4,24.97,0,Not from Cross,1,0,0
+Match 11,60:58,On Target,Arata Izumi,FC Pune City,NorthEast United FC,2.2,32.31,26.37,31.08,0,Not from Cross,1,0,0
+Match 11,61:25,Off Target,Nicolas Velez,NorthEast United FC,FC Pune City,4.88,38.43,21.98,35.49,0,Not from Cross,1,0,0
+Match 11,68:6,Off Target,Jonatan Lucca,FC Pune City,NorthEast United FC,3.17,37.69,24.17,38.43,0,Not from Cross,1,0,0
+Match 11,69:30,Off Target,Jonatan Lucca,FC Pune City,NorthEast United FC,1.95,29.86,21.24,29.62,0,Not from Cross,1,0,0
+Match 11,79:25,On Target,Emiliano Alfaro,NorthEast United FC,FC Pune City,6.35,39.41,14.16,34.76,0,Not from Cross,1,0,0
+Match 11,79:25,Goal,Emiliano Alfaro,NorthEast United FC,FC Pune City,5.86,39.65,13.43,35.73,1,Not from Cross,1,0,0
+Match 11,82:30,Off Target,Dramane Traore,FC Pune City,NorthEast United FC,0.98,23.25,16.36,32.8,-1,Directly from Cross,0,0,1
+Match 11,83:35,Off Target,Dramane Traore,FC Pune City,NorthEast United FC,1.47,21.54,15.38,35.24,-1,Not from Cross,1,0,0
+Match 11,83:50,On Target,Jesus Tato,FC Pune City,NorthEast United FC,11.23,35.0,20.27,41.61,-1,Not from Cross,1,0,0
+Match 11,86:34,On Target,Nicolas Velez,NorthEast United FC,FC Pune City,7.33,35.98,16.36,25.94,1,Not from Cross,1,0,0
+Match 11,90:0,On Target,Koffi N'dri,NorthEast United FC,FC Pune City,6.59,40.14,18.31,48.71,1,Directly from Cross,0,0,1
+Match 12,15:22,On Target,Hans Mulder,Chennaiyin FC,FC Goa,5.13,35.0,27.59,40.63,0,Not from Cross,1,0,0
+Match 12,15:22,Goal,Hans Mulder,Chennaiyin FC,FC Goa,4.4,34.76,26.37,41.12,1,Not from Cross,1,0,0
+Match 12,22:4,On Target,Rafael Dumas,FC Goa,Chennaiyin FC,2.93,32.8,12.21,33.53,-1,Directly from Cross,0,0,1
+Match 12,26:13,On Target,M'rajuddin Wadoo,Chennaiyin FC,FC Goa,4.15,34.02,26.13,28.64,1,Not from Cross,1,0,0
+Match 12,26:13,Goal,M'rajuddin Wadoo,Chennaiyin FC,FC Goa,6.59,34.51,24.91,25.94,2,Not from Cross,1,0,0
+Match 12,35:59,Off Target,Rafael Luiz,FC Goa,Chennaiyin FC,-0.98,32.31,8.79,33.04,-2,Indirectly from Cross,0,1,0
+Match 12,42:41,Off Target,Rafael Luiz,FC Goa,Chennaiyin FC,2.44,27.66,19.78,45.77,-2,Not from Cross,1,0,0
+Match 12,49:33,Off Target,Rafael Luiz,FC Goa,Chennaiyin FC,4.4,31.82,16.85,27.41,-2,Not from Cross,1,0,0
+Match 12,54:10,Off Target,Davide Succi,Chennaiyin FC,FC Goa,1.47,25.45,12.45,24.48,2,Not from Cross,1,0,0
+Match 12,68:45,On Target,Raju Gaikwad,FC Goa,Chennaiyin FC,6.59,41.85,14.41,46.75,-2,Not from Cross,1,0,0
+Match 12,78:16,Off Target,Baljit Sahni,Chennaiyin FC,FC Goa,1.22,27.17,5.62,25.21,2,Not from Cross,1,0,0
+Match 12,79:35,Off Target,Trindade Goncalves,FC Goa,Chennaiyin FC,4.15,38.92,31.74,40.87,-2,Not from Cross,1,0,0
+Match 12,87:0,On Target,Trindade Goncalves,FC Goa,Chennaiyin FC,7.33,41.12,17.83,49.93,-2,Not from Cross,1,0,0
+Match 13,1:32,On Target,Mohammed Rafi,Kerala Blasters FC,Mumbai City FC,6.12,37.52,13.78,38.62,0,Not from Cross,1,0,0
+Match 13,2:51,On Target,Lucian Goian,Mumbai City FC,Kerala Blasters FC,NaN,NaN,9.28,33.29,0,Not from Cross,1,0,0
+Match 13,3:49,Off Target,Mohammed Rafi,Kerala Blasters FC,Mumbai City FC,4.59,32.26,11.59,23.7,0,Not from Cross,1,0,0
+Match 13,17:34,Off Target,Kervens Belfort,Kerala Blasters FC,Mumbai City FC,14.44,41.69,20.12,53.32,0,Not from Cross,1,0,0
+Match 13,25:55,Off Target,Mehtab Hossain,Kerala Blasters FC,Mumbai City FC,6.56,45.64,29.75,33.13,0,Not from Cross,1,0,0
+Match 13,29:9,Off Target,Josu Currais,Kerala Blasters FC,Mumbai City FC,5.69,29.62,28.66,49.59,0,Not from Cross,1,0,0
+Match 13,41:56,Off Target,Cedric Hengbart,Kerala Blasters FC,Mumbai City FC,3.94,35.77,13.56,34.67,0,Not from Cross,1,0,0
+Match 13,45:50,On Target,Michael Chopra,Kerala Blasters FC,Mumbai City FC,6.34,35.77,12.69,28.75,0,Directly from Cross,0,0,1
+Match 13,47:0,Off Target,Mohammed Rafi,Kerala Blasters FC,Mumbai City FC,5.03,41.91,14.87,38.62,0,Not from Cross,1,0,0
+Match 13,48:53,Off Target,Josu Currais,Kerala Blasters FC,Mumbai City FC,1.97,39.06,23.19,18.43,0,Not from Cross,1,0,0
+Match 13,50:58,Off Target,Sehnaj Singh,Mumbai City FC,Kerala Blasters FC,5.03,46.52,30.19,30.28,0,Not from Cross,1,0,0
+Match 13,53:7,On Target,Azrack Mahamat,Kerala Blasters FC,Mumbai City FC,2.63,33.35,15.75,33.13,0,Not from Cross,1,0,0
+Match 13,58:26,On Target,Michael Chopra,Kerala Blasters FC,Mumbai City FC,1.53,29.84,6.34,33.79,0,Not from Cross,1,0,0
+Match 13,58:26,Goal,Michael Chopra,Kerala Blasters FC,Mumbai City FC,1.22,29.13,5.62,32.31,1,Not from Cross,1,0,0
+Match 13,68:55,Off Target,Mohammed Rafi,Kerala Blasters FC,Mumbai City FC,0.22,38.84,24.94,26.11,1,Not from Cross,1,0,0
+Match 13,69:35,On Target,Sony Norde,Mumbai City FC,Kerala Blasters FC,7.87,37.96,18.16,46.74,-1,Not from Cross,1,0,0
+Match 13,90:35,Off Target,Josu Currais,Kerala Blasters FC,Mumbai City FC,0.88,38.18,28.88,56.83,1,Not from Cross,1,0,0
+Match 14,2:5,On Target,Marcelo Pereira,Delhi Dynamos FC,NorthEast United FC,4.88,36.96,29.55,21.29,0,Not from Cross,1,0,0
+Match 14,17:7,Off Target,Marcos Tébar,Delhi Dynamos FC,NorthEast United FC,4.15,43.81,12.94,41.36,0,Not from Cross,1,0,0
+Match 14,19:46,On Target,Milan Singh,Delhi Dynamos FC,NorthEast United FC,5.13,40.14,31.99,34.76,0,Not from Cross,1,0,0
+Match 14,19:57,On Target,Kean Lewis,Delhi Dynamos FC,NorthEast United FC,4.88,40.14,10.01,47.24,0,Not from Cross,1,0,0
+Match 14,20:12,Off Target,Marcelo Pereira,Delhi Dynamos FC,NorthEast United FC,2.69,34.27,13.67,24.23,0,Not from Cross,1,0,0
+Match 14,25:37,Off Target,Katsumi Yusa,NorthEast United FC,Delhi Dynamos FC,1.95,38.92,12.45,23.5,0,Not from Cross,1,0,0
+Match 14,25:56,Off Target,Emiliano Alfaro,NorthEast United FC,Delhi Dynamos FC,1.71,23.5,13.19,33.53,0,Not from Cross,1,0,0
+Match 14,28:32,Off Target,Rowllin Borges,NorthEast United FC,Delhi Dynamos FC,0.98,38.67,30.77,32.8,0,Not from Cross,1,0,0
+Match 14,32:48,Off Target,Nicolas Velez,NorthEast United FC,Delhi Dynamos FC,1.22,25.7,28.81,36.47,0,Not from Cross,1,0,0
+Match 14,34:21,On Target,Koffi N'dri,NorthEast United FC,Delhi Dynamos FC,3.42,33.29,28.33,40.14,0,Not from Cross,1,0,0
+Match 14,38:32,On Target,Kean Lewis,Delhi Dynamos FC,NorthEast United FC,4.15,37.69,11.48,46.01,0,Not from Cross,1,0,0
+Match 14,38:32,Goal,Kean Lewis,Delhi Dynamos FC,NorthEast United FC,3.66,35.0,10.99,45.03,1,Not from Cross,1,0,0
+Match 14,42:50,On Target,Koffi N'dri,NorthEast United FC,Delhi Dynamos FC,1.71,35.24,28.81,33.78,-1,Not from Cross,1,0,0
+Match 14,45:0,On Target,Emiliano Alfaro,NorthEast United FC,Delhi Dynamos FC,1.95,35.73,5.86,40.38,-1,Directly from Cross,0,0,1
+Match 14,49:11,On Target,Richard Gadze,Delhi Dynamos FC,NorthEast United FC,5.13,28.88,11.48,24.97,1,Not from Cross,1,0,0
+Match 14,51:28,On Target,Emiliano Alfaro,NorthEast United FC,Delhi Dynamos FC,6.84,38.18,13.43,37.94,-1,Not from Cross,1,0,0
+Match 14,51:32,On Target,Emiliano Alfaro,NorthEast United FC,Delhi Dynamos FC,3.66,37.45,15.14,37.69,-1,Not from Cross,1,0,0
+Match 14,51:32,Goal,Emiliano Alfaro,NorthEast United FC,Delhi Dynamos FC,3.66,37.45,15.14,37.69,0,Not from Cross,1,0,0
+Match 14,56:9,On Target,Richard Gadze,Delhi Dynamos FC,NorthEast United FC,4.15,27.41,7.57,21.78,0,Not from Cross,1,0,0
+Match 14,57:25,Off Target,Holicharan Narzary,NorthEast United FC,Delhi Dynamos FC,3.91,40.38,15.38,45.77,0,Not from Cross,1,0,0
+Match 14,62:5,Off Target,Emiliano Alfaro,NorthEast United FC,Delhi Dynamos FC,3.91,31.82,14.9,24.72,0,Not from Cross,1,0,0
+Match 14,66:13,On Target,Kean Lewis,Delhi Dynamos FC,NorthEast United FC,2.93,32.8,17.09,44.55,0,Not from Cross,1,0,0
+Match 14,76:24,Off Target,Marcelo Pereira,Delhi Dynamos FC,NorthEast United FC,0.73,30.35,28.57,21.05,0,Not from Cross,1,0,0
+Match 14,80:30,On Target,Marcelo Pereira,Delhi Dynamos FC,NorthEast United FC,3.42,31.82,27.1,24.72,0,Not from Cross,1,0,0
+Match 14,86:9,Off Target,Emerson Moura,Delhi Dynamos FC,NorthEast United FC,1.47,38.92,8.3,32.55,0,Not from Cross,1,0,0
+Match 14,90:9,Off Target,Richard Gadze,Delhi Dynamos FC,NorthEast United FC,0.73,38.43,5.86,44.55,0,Not from Cross,1,0,0
+Match 14,91:0,Off Target,Florent Malouda,Delhi Dynamos FC,NorthEast United FC,1.47,41.36,17.58,33.53,0,Directly from Cross,0,0,1
+Match 15,1:55,Off Target,Sanjay Balmuchu,FC Goa,Atlético de Kolkata,-1.07,34.0,21.64,19.08,0,Not from Cross,1,0,0
+Match 15,6:53,On Target,Sameehg Doutie,Atlético de Kolkata,FC Goa,5.13,37.2,15.87,38.43,0,Not from Cross,1,0,0
+Match 15,6:53,Goal,Sameehg Doutie,Atlético de Kolkata,FC Goa,5.37,37.94,18.56,36.47,1,Not from Cross,1,0,0
+Match 15,16:58,On Target,Trindade Goncalves,FC Goa,Atlético de Kolkata,7.21,28.77,11.51,24.62,-1,Not from Cross,1,0,0
+Match 15,19:18,Off Target,Javier Grande,Atlético de Kolkata,FC Goa,5.07,29.85,21.49,36.15,1,Not from Cross,1,0,0
+Match 15,28:15,On Target,Joffre Gonzalez,FC Goa,Atlético de Kolkata,5.37,33.85,25.18,37.38,-1,Not from Cross,1,0,0
+Match 15,35:37,Off Target,Rafael Luiz,FC Goa,Atlético de Kolkata,2.93,39.41,10.74,21.54,-1,Not from Cross,1,0,0
+Match 15,37:54,On Target,Stephen Pearson,Atlético de Kolkata,FC Goa,5.53,34.46,9.36,30.15,1,Directly from Cross,0,0,1
+Match 15,39:1,On Target,Robin Singh,FC Goa,Atlético de Kolkata,4.76,36.31,14.89,39.23,-1,Not from Cross,1,0,0
+Match 15,45:0,Off Target,Trindade Goncalves,FC Goa,Atlético de Kolkata,2.3,38.77,9.98,29.54,-1,Directly from Cross,0,0,1
+Match 15,52:5,Off Target,Borja Fernández,Atlético de Kolkata,FC Goa,1.07,31.85,23.33,15.38,1,Not from Cross,1,0,0
+Match 15,58:29,On Target,Javier Grande,Atlético de Kolkata,FC Goa,3.07,32.0,24.41,43.23,1,Not from Cross,1,0,0
+Match 15,62:40,Off Target,Javier Grande,Atlético de Kolkata,FC Goa,0.0,30.77,23.18,47.23,1,Not from Cross,1,0,0
+Match 15,71:36,On Target,Iain Hume,Atlético de Kolkata,FC Goa,3.68,33.23,22.57,19.69,1,Not from Cross,1,0,0
+Match 15,77:29,On Target,Joffre Gonzalez,FC Goa,Atlético de Kolkata,3.66,35.98,11.72,36.71,-1,Not from Cross,1,0,0
+Match 15,79:40,Off Target,Sameehg Doutie,Atlético de Kolkata,FC Goa,-0.77,35.08,11.21,22.92,0,Not from Cross,1,0,0
+Match 15,85:20,On Target,Bikramjit Singh,Atlético de Kolkata,FC Goa,3.68,32.62,17.35,33.23,0,Not from Cross,1,0,0
+Match 15,89:51,Off Target,Borja Fernández,Atlético de Kolkata,FC Goa,2.46,26.92,21.34,37.69,0,Not from Cross,1,0,0
+Match 16,3:25,On Target,Cedric Hengbart,Kerala Blasters FC,FC Pune City,2.2,29.37,11.72,32.55,0,Not from Cross,1,0,0
+Match 16,3:25,Goal,Cedric Hengbart,Kerala Blasters FC,FC Pune City,2.69,30.1,12.21,32.06,1,Not from Cross,1,0,0
+Match 16,15:5,Off Target,Jesus Tato,FC Pune City,Kerala Blasters FC,7.08,43.57,19.53,33.29,-1,Not from Cross,1,0,0
+Match 16,18:43,Off Target,Dramane Traore,FC Pune City,Kerala Blasters FC,2.44,38.43,15.63,37.2,-1,Not from Cross,1,0,0
+Match 16,24:1,Off Target,Dramane Traore,FC Pune City,Kerala Blasters FC,6.1,31.08,19.53,33.04,-1,Not from Cross,1,0,0
+Match 16,28:30,Off Target,Mohammed Rafi,Kerala Blasters FC,FC Pune City,1.95,38.92,28.33,36.96,1,Not from Cross,1,0,0
+Match 16,36:58,Off Target,Mehtab Hossain,Kerala Blasters FC,FC Pune City,0.98,38.67,26.86,31.08,1,Not from Cross,1,0,0
+Match 16,40:38,Off Target,Dramane Traore,FC Pune City,Kerala Blasters FC,3.17,37.45,15.14,37.69,-1,Not from Cross,1,0,0
+Match 16,48:0,On Target,Michael Chopra,Kerala Blasters FC,FC Pune City,4.88,32.55,21.73,23.99,1,Not from Cross,1,0,0
+Match 16,53:38,On Target,Mohammed Rafi,Kerala Blasters FC,FC Pune City,14.9,38.92,20.02,44.55,1,Not from Cross,1,0,0
+Match 16,54:47,Off Target,Mehtab Hossain,Kerala Blasters FC,FC Pune City,8.3,40.38,32.48,33.29,1,Not from Cross,1,0,0
+Match 16,55:20,Off Target,Jesus Tato,FC Pune City,Kerala Blasters FC,1.71,26.92,9.28,20.56,-1,Not from Cross,1,0,0
+Match 16,60:17,Off Target,Rahul Bheke,FC Pune City,Kerala Blasters FC,0.73,27.9,21.73,23.25,-1,Not from Cross,1,0,0
+Match 16,64:52,Off Target,Dramane Traore,FC Pune City,Kerala Blasters FC,0.98,27.66,8.06,26.92,-1,Not from Cross,1,0,0
+Match 16,67:37,Off Target,Jonatan Lucca,FC Pune City,Kerala Blasters FC,1.71,27.41,10.99,27.9,-1,Not from Cross,1,0,0
+Match 16,68:47,On Target,Mohamed Sissoko,FC Pune City,Kerala Blasters FC,2.44,34.76,18.31,32.55,-1,Not from Cross,1,0,0
+Match 16,68:47,Goal,Mohamed Sissoko,FC Pune City,Kerala Blasters FC,0.73,35.24,19.05,32.31,0,Not from Cross,1,0,0
+Match 16,72:36,On Target,Farukh Chaudhary,Kerala Blasters FC,FC Pune City,6.59,36.96,12.21,33.04,0,Not from Cross,1,0,0
+Match 17,1:41,Off Target,Léo Costa,Mumbai City FC,Delhi Dynamos FC,5.13,42.83,15.63,43.57,0,Not from Cross,1,0,0
+Match 17,7:45,Off Target,Léo Costa,Mumbai City FC,Delhi Dynamos FC,5.13,29.86,26.13,46.01,0,Not from Cross,1,0,0
+Match 17,9:47,Off Target,David Addy,Delhi Dynamos FC,Mumbai City FC,6.35,31.08,26.62,43.08,0,Not from Cross,1,0,0
+Match 17,14:35,Off Target,Florent Malouda,Delhi Dynamos FC,Mumbai City FC,2.2,39.41,15.14,37.94,0,Not from Cross,1,0,0
+Match 17,16:59,On Target,Anwar Ali,Mumbai City FC,Delhi Dynamos FC,6.35,38.18,14.41,37.45,0,Not from Cross,1,0,0
+Match 17,21:17,On Target,Sony Norde,Mumbai City FC,Delhi Dynamos FC,11.97,36.71,27.35,28.39,0,Not from Cross,1,0,0
+Match 17,26:14,On Target,L'aihsanga Ralte,Mumbai City FC,Delhi Dynamos FC,6.84,39.9,11.72,51.89,0,Indirectly from Cross,0,1,0
+Match 17,29:7,Off Target,Anwar Ali,Mumbai City FC,Delhi Dynamos FC,5.62,41.85,14.16,42.1,0,Not from Cross,1,0,0
+Match 17,30:23,Off Target,David Addy,Delhi Dynamos FC,Mumbai City FC,2.44,26.19,26.62,40.87,0,Not from Cross,1,0,0
+Match 17,33:31,On Target,Krisztián Vadócz,Mumbai City FC,Delhi Dynamos FC,6.1,35.0,12.94,42.83,0,Not from Cross,1,0,0
+Match 17,33:31,Goal,Krisztián Vadócz,Mumbai City FC,Delhi Dynamos FC,6.1,35.0,12.94,42.83,1,Not from Cross,1,0,0
+Match 17,38:41,Off Target,Sony Norde,Mumbai City FC,Delhi Dynamos FC,3.62,38.91,24.44,46.55,1,Not from Cross,1,0,0
+Match 17,38:50,On Target,Krisztián Vadócz,Mumbai City FC,Delhi Dynamos FC,5.25,37.08,10.94,37.3,1,Not from Cross,1,0,0
+Match 17,38:51,Goal,Krisztián Vadócz,Mumbai City FC,Delhi Dynamos FC,4.37,37.3,12.47,34.67,2,Not from Cross,1,0,0
+Match 17,40:11,Off Target,Emerson Moura,Delhi Dynamos FC,Mumbai City FC,2.93,27.66,29.06,42.34,-2,Not from Cross,1,0,0
+Match 17,51:52,On Target,Richard Gadze,Delhi Dynamos FC,Mumbai City FC,4.64,35.0,14.16,38.18,-2,Not from Cross,1,0,0
+Match 17,51:52,Goal,Richard Gadze,Delhi Dynamos FC,Mumbai City FC,4.64,35.0,14.16,38.18,-1,Not from Cross,1,0,0
+Match 17,60:24,Off Target,Léo Costa,Mumbai City FC,Delhi Dynamos FC,4.64,28.64,14.9,34.76,1,Not from Cross,1,0,0
+Match 17,64:39,Off Target,Lucian Goian,Mumbai City FC,Delhi Dynamos FC,1.71,27.41,33.21,28.64,1,Not from Cross,1,0,0
+Match 17,66:57,Off Target,Otacilio Alves,Mumbai City FC,Delhi Dynamos FC,0.0,34.51,23.93,27.9,1,Not from Cross,1,0,0
+Match 17,69:38,On Target,Sony Norde,Mumbai City FC,Delhi Dynamos FC,2.2,35.73,8.3,37.45,1,Not from Cross,1,0,0
+Match 17,69:38,Goal,Sony Norde,Mumbai City FC,Delhi Dynamos FC,2.2,35.73,8.3,37.45,2,Not from Cross,1,0,0
+Match 17,71:26,On Target,Ibrahima Niasse,Delhi Dynamos FC,Mumbai City FC,6.35,37.94,13.67,37.69,-2,Not from Cross,1,0,0
+Match 17,76:30,On Target,Badara Badji,Delhi Dynamos FC,Mumbai City FC,5.37,37.2,6.59,42.83,-2,Not from Cross,1,0,0
+Match 17,76:30,Goal,Badara Badji,Delhi Dynamos FC,Mumbai City FC,4.64,37.2,6.84,43.81,-1,Not from Cross,1,0,0
+Match 17,82:28,On Target,Marcelo Pereira,Delhi Dynamos FC,Mumbai City FC,3.91,40.38,14.9,36.96,-1,Not from Cross,1,0,0
+Match 17,85:30,On Target,Matías Defederico,Mumbai City FC,Delhi Dynamos FC,1.71,33.04,15.87,16.15,0,Not from Cross,1,0,0
+Match 17,85:53,Off Target,Matías Defederico,Mumbai City FC,Delhi Dynamos FC,0.98,28.39,19.53,42.59,0,Not from Cross,1,0,0
+Match 17,91:0,Off Target,Matías Defederico,Mumbai City FC,Delhi Dynamos FC,2.44,27.41,31.99,14.44,0,Directly from Cross,0,0,1
+Match 17,93:0,Off Target,Marcelo Pereira,Delhi Dynamos FC,Mumbai City FC,3.66,44.06,29.06,58.5,0,Not from Cross,1,0,0
+Match 18,10:43,Off Target,Koffi N'dri,NorthEast United FC,Chennaiyin FC,3.66,26.43,29.06,35.24,0,Not from Cross,1,0,0
+Match 18,28:45,On Target,Maurizio Peluso,Chennaiyin FC,NorthEast United FC,6.59,39.41,34.92,36.47,0,Not from Cross,1,0,0
+Match 18,29:2,Off Target,Hans Mulder,Chennaiyin FC,NorthEast United FC,3.91,37.2,12.21,36.47,0,Not from Cross,1,0,0
+Match 18,31:40,Off Target,Gustavo Lazzaretti,NorthEast United FC,Chennaiyin FC,0.98,28.88,9.28,30.59,0,Not from Cross,1,0,0
+Match 18,42:9,On Target,Maurizio Peluso,Chennaiyin FC,NorthEast United FC,6.35,37.69,19.29,51.4,0,Not from Cross,1,0,0
+Match 18,49:34,On Target,Davide Succi,Chennaiyin FC,NorthEast United FC,2.2,31.33,15.38,31.82,0,Indirectly from Cross,0,1,0
+Match 18,49:34,Goal,Davide Succi,Chennaiyin FC,NorthEast United FC,1.47,29.62,13.92,30.84,1,Indirectly from Cross,0,1,0
+Match 18,57:31,Off Target,Koffi N'dri,NorthEast United FC,Chennaiyin FC,5.86,30.59,32.23,28.39,-1,Not from Cross,1,0,0
+Match 18,58:13,Off Target,Maurizio Peluso,Chennaiyin FC,NorthEast United FC,2.69,40.14,24.66,45.03,1,Not from Cross,1,0,0
+Match 18,60:50,Off Target,Maurizio Peluso,Chennaiyin FC,NorthEast United FC,0.24,33.04,22.22,43.32,1,Not from Cross,1,0,0
+Match 18,68:18,On Target,Koffi N'dri,NorthEast United FC,Chennaiyin FC,8.06,37.94,18.07,31.82,-1,Not from Cross,1,0,0
+Match 18,73:40,On Target,Maurizio Peluso,Chennaiyin FC,NorthEast United FC,3.17,33.53,37.12,38.18,1,Not from Cross,1,0,0
+Match 18,75:7,On Target,Koffi N'dri,NorthEast United FC,Chennaiyin FC,6.1,34.51,29.06,19.83,-1,Not from Cross,1,0,0
+Match 18,84:33,On Target,Sumeet Passi,NorthEast United FC,Chennaiyin FC,6.1,39.65,15.63,32.06,-1,Not from Cross,1,0,0
+Match 18,90:0,Off Target,Emiliano Alfaro,NorthEast United FC,Chennaiyin FC,5.37,41.61,18.07,41.36,-1,Directly from Cross,0,0,1
+Match 18,92:0,Off Target,Hans Mulder,Chennaiyin FC,NorthEast United FC,0.98,38.18,16.12,20.56,1,Directly from Cross,0,0,1
+Match 19,10:47,Off Target,Julio Cesar,FC Goa,Mumbai City FC,4.4,43.81,32.72,25.7,0,Not from Cross,1,0,0
+Match 19,18:56,Off Target,Diego Forlán,Mumbai City FC,FC Goa,0.24,35.49,38.34,41.12,0,Not from Cross,1,0,0
+Match 19,27:44,Off Target,Trindade Goncalves,FC Goa,Mumbai City FC,3.66,44.06,32.72,34.02,0,Not from Cross,1,0,0
+Match 19,30:56,On Target,Julio Cesar,FC Goa,Mumbai City FC,10.99,34.02,27.84,12.48,0,Not from Cross,1,0,0
+Match 19,37:0,Off Target,Rakesh Oram,Mumbai City FC,FC Goa,1.71,26.92,22.71,14.44,0,Not from Cross,1,0,0
+Match 19,40:58,Goal,R'harlyson Felisbino,FC Goa,Mumbai City FC,4.17,38.62,12.82,45.54,1,Not from Cross,1,0,0
+Match 19,40:59,On Target,R'harlyson Felisbino,FC Goa,Mumbai City FC,4.81,38.62,12.02,44.41,1,Not from Cross,1,0,0
+Match 19,43:30,Off Target,Diego Forlán,Mumbai City FC,FC Goa,0.73,32.31,29.79,32.06,-1,Not from Cross,1,0,0
+Match 19,46:34,On Target,Robin Singh,FC Goa,Mumbai City FC,5.37,32.55,10.99,33.29,1,Not from Cross,1,0,0
+Match 19,47:37,Off Target,Diego Forlán,Mumbai City FC,FC Goa,4.15,32.31,30.77,28.39,-1,Not from Cross,1,0,0
+Match 19,53:55,Off Target,Matías Defederico,Mumbai City FC,FC Goa,4.4,43.81,15.87,25.21,-1,Indirectly from Cross,0,1,0
+Match 19,56:11,Off Target,Julio Cesar,FC Goa,Mumbai City FC,0.98,32.06,15.38,32.8,1,Not from Cross,1,0,0
+Match 19,58:2,Off Target,Julio Cesar,FC Goa,Mumbai City FC,1.47,31.33,10.26,45.77,1,Not from Cross,1,0,0
+Match 19,62:0,On Target,Jackichand Singh,Mumbai City FC,FC Goa,5.37,37.45,23.69,52.87,-1,Directly from Cross,0,0,1
+Match 19,86:24,Off Target,Diego Forlán,Mumbai City FC,FC Goa,3.91,43.57,35.65,48.71,-1,Not from Cross,1,0,0
+Match 19,88:43,On Target,Julio Cesar,FC Goa,Mumbai City FC,2.93,30.59,18.56,54.09,1,Not from Cross,1,0,0
+Match 20,22:50,On Target,Marcelo Pereira,Delhi Dynamos FC,Atlético de Kolkata,3.42,29.37,30.77,27.66,0,Not from Cross,1,0,0
+Match 20,23:58,On Target,Marcelo Pereira,Delhi Dynamos FC,Atlético de Kolkata,3.66,35.73,15.87,46.01,0,Not from Cross,1,0,0
+Match 20,32:18,On Target,Juan Belencoso,Atlético de Kolkata,Delhi Dynamos FC,6.59,38.43,18.8,36.71,0,Not from Cross,1,0,0
+Match 20,32:51,Off Target,Richard Gadze,Delhi Dynamos FC,Atlético de Kolkata,4.15,37.2,27.59,31.08,0,Not from Cross,1,0,0
+Match 20,35:5,On Target,Florent Malouda,Delhi Dynamos FC,Atlético de Kolkata,4.15,34.51,14.9,37.94,0,Not from Cross,1,0,0
+Match 20,35:10,On Target,Richard Gadze,Delhi Dynamos FC,Atlético de Kolkata,4.15,30.35,13.43,25.7,0,Not from Cross,1,0,0
+Match 20,35:15,On Target,Marcos Tébar,Delhi Dynamos FC,Atlético de Kolkata,5.86,30.35,9.28,28.64,0,Not from Cross,1,0,0
+Match 20,35:16,On Target,Rupert Nongrum,Delhi Dynamos FC,Atlético de Kolkata,7.81,32.06,10.99,30.35,0,Not from Cross,1,0,0
+Match 20,39:49,Off Target,Juan Belencoso,Atlético de Kolkata,Delhi Dynamos FC,5.62,43.08,13.67,36.47,0,Not from Cross,1,0,0
+Match 20,42:29,Off Target,Iain Hume,Atlético de Kolkata,Delhi Dynamos FC,5.37,31.08,27.59,35.73,0,Not from Cross,1,0,0
+Match 20,45:24,Off Target,Milan Singh,Delhi Dynamos FC,Atlético de Kolkata,1.47,26.92,24.66,34.51,0,Not from Cross,1,0,0
+Match 20,46:40,On Target,Richard Gadze,Delhi Dynamos FC,Atlético de Kolkata,9.03,37.94,23.69,37.69,0,Not from Cross,1,0,0
+Match 20,47:47,Off Target,Sameehg Doutie,Atlético de Kolkata,Delhi Dynamos FC,-0.24,35.49,15.63,19.34,0,Not from Cross,1,0,0
+Match 20,48:56,Off Target,Iain Hume,Atlético de Kolkata,Delhi Dynamos FC,1.47,36.47,7.81,30.59,0,Not from Cross,1,0,0
+Match 20,61:53,Off Target,Lalrindika Ralte,Atlético de Kolkata,Delhi Dynamos FC,2.44,27.9,11.48,26.43,0,Not from Cross,1,0,0
+Match 20,63:56,On Target,José Arroyo,Atlético de Kolkata,Delhi Dynamos FC,4.15,31.08,11.72,33.04,0,Directly from Cross,0,0,1
+Match 20,65:32,Off Target,Rubén Rocha,Delhi Dynamos FC,Atlético de Kolkata,5.62,42.1,17.34,43.81,0,Not from Cross,1,0,0
+Match 20,68:44,On Target,José Arroyo,Atlético de Kolkata,Delhi Dynamos FC,4.15,32.31,11.48,32.31,0,Not from Cross,1,0,0
+Match 20,75:50,Off Target,Marcelo Pereira,Delhi Dynamos FC,Atlético de Kolkata,4.15,42.34,16.36,36.71,0,Not from Cross,1,0,0
+Match 20,78:21,On Target,Iain Hume,Atlético de Kolkata,Delhi Dynamos FC,1.22,35.0,11.72,32.06,0,Not from Cross,1,0,0
+Match 20,84:3,Off Target,Iain Hume,Atlético de Kolkata,Delhi Dynamos FC,0.24,27.41,27.1,25.94,1,Not from Cross,1,0,0
+Match 20,91:0,On Target,Rubén Rocha,Delhi Dynamos FC,Atlético de Kolkata,6.1,38.67,12.94,37.2,-1,Not from Cross,1,0,0
+Match 21,2:44,On Target,Hans Mulder,Chennaiyin FC,FC Pune City,5.86,31.82,17.34,37.94,0,Not from Cross,1,0,0
+Match 21,4:49,Off Target,Jeje Lalpekhlua,Chennaiyin FC,FC Pune City,2.2,40.38,29.55,20.07,0,Not from Cross,1,0,0
+Match 21,28:28,On Target,Jeje Lalpekhlua,Chennaiyin FC,FC Pune City,2.93,30.35,27.59,31.08,0,Not from Cross,1,0,0
+Match 21,28:28,Goal,Jeje Lalpekhlua,Chennaiyin FC,FC Pune City,2.93,30.35,27.59,31.08,1,Not from Cross,1,0,0
+Match 21,31:1,Off Target,Jesus Tato,FC Pune City,Chennaiyin FC,4.88,41.61,12.45,33.29,-1,Not from Cross,1,0,0
+Match 21,40:34,Off Target,Jonatan Lucca,FC Pune City,Chennaiyin FC,3.17,35.98,27.1,43.57,-1,Not from Cross,1,0,0
+Match 21,42:21,Off Target,Mohamed Sissoko,FC Pune City,Chennaiyin FC,13.19,67.55,17.34,32.06,-1,Not from Cross,1,0,0
+Match 21,48:57,On Target,MacPherlin Omagbemi,Chennaiyin FC,FC Pune City,8.06,36.96,16.12,29.13,1,Not from Cross,1,0,0
+Match 21,49:10,On Target,Hans Mulder,Chennaiyin FC,FC Pune City,6.35,37.94,13.43,42.34,1,Not from Cross,1,0,0
+Match 21,49:32,Off Target,Jayesh Rane,Chennaiyin FC,FC Pune City,5.37,43.08,27.84,53.6,1,Not from Cross,1,0,0
+Match 21,51:43,Off Target,Jonatan Lucca,FC Pune City,Chennaiyin FC,1.95,26.19,19.78,37.94,-1,Not from Cross,1,0,0
+Match 21,53:24,Off Target,Mohamed Sissoko,FC Pune City,Chennaiyin FC,2.93,26.43,24.17,35.49,-1,Not from Cross,1,0,0
+Match 21,56:10,Off Target,Jonatan Lucca,FC Pune City,Chennaiyin FC,0.98,37.94,25.4,39.9,-1,Not from Cross,1,0,0
+Match 21,59:17,Off Target,Dramane Traore,FC Pune City,Chennaiyin FC,0.0,32.31,25.4,40.63,-1,Not from Cross,1,0,0
+Match 21,63:7,Off Target,Dramane Traore,FC Pune City,Chennaiyin FC,0.73,26.43,19.53,25.21,-1,Not from Cross,1,0,0
+Match 21,79:24,Off Target,MacPherlin Omagbemi,Chennaiyin FC,FC Pune City,5.37,43.08,22.47,35.73,1,Not from Cross,1,0,0
+Match 21,82:55,On Target,Anibal Rodriguez,FC Pune City,Chennaiyin FC,2.2,36.47,27.59,42.1,-1,Not from Cross,1,0,0
+Match 21,83:1,Goal,Anibal Rodriguez,FC Pune City,Chennaiyin FC,2.2,36.47,27.59,42.1,0,Not from Cross,1,0,0
+Match 21,89:16,On Target,Anibal Rodriguez,FC Pune City,Chennaiyin FC,3.42,32.55,25.4,47.73,0,Not from Cross,1,0,0
+Match 21,91:0,On Target,Davide Succi,Chennaiyin FC,FC Pune City,7.57,38.67,16.12,34.27,0,Directly from Cross,0,0,1
+Match 22,1:59,Off Target,Mohammed Rafique,Kerala Blasters FC,FC Goa,0.49,39.65,31.01,32.8,0,Not from Cross,1,0,0
+Match 22,10:13,On Target,Kervens Belfort,Kerala Blasters FC,FC Goa,3.42,34.76,26.86,39.16,0,Not from Cross,1,0,0
+Match 22,15:13,Off Target,Mohammed Rafi,Kerala Blasters FC,FC Goa,0.98,39.65,12.7,23.25,0,Not from Cross,1,0,0
+Match 22,19:21,Off Target,Kervens Belfort,Kerala Blasters FC,FC Goa,0.73,36.71,8.06,35.73,0,Not from Cross,1,0,0
+Match 22,21:17,Off Target,Mohammed Rafique,Kerala Blasters FC,FC Goa,1.47,38.92,23.93,25.7,0,Indirectly from Cross,0,1,0
+Match 22,24:26,On Target,Julio Cesar,FC Goa,Kerala Blasters FC,4.64,35.24,9.77,32.8,0,Not from Cross,1,0,0
+Match 22,24:26,Goal,Julio Cesar,FC Goa,Kerala Blasters FC,4.64,35.24,9.77,32.8,1,Not from Cross,1,0,0
+Match 22,32:55,Off Target,Mohammed Rafi,Kerala Blasters FC,FC Goa,1.47,26.68,11.23,32.55,-1,Directly from Cross,0,0,1
+Match 22,35:59,On Target,Sandesh Jhingan,Kerala Blasters FC,FC Goa,1.71,35.73,7.08,29.37,-1,Directly from Cross,0,0,1
+Match 22,43:48,On Target,Joffre Gonzalez,FC Goa,Kerala Blasters FC,4.4,37.94,18.56,43.81,1,Not from Cross,1,0,0
+Match 22,46:25,On Target,Mohammed Rafi,Kerala Blasters FC,FC Goa,4.4,40.14,10.26,36.71,-1,Indirectly from Cross,0,1,0
+Match 22,46:25,Goal,Mohammed Rafi,Kerala Blasters FC,FC Goa,4.4,40.14,10.26,36.71,0,Indirectly from Cross,0,1,0
+Match 22,47:42,Off Target,R'harlyson Felisbino,FC Goa,Kerala Blasters FC,1.47,36.22,28.08,42.83,0,Not from Cross,1,0,0
+Match 22,51:8,Off Target,Keenan Almeida,FC Goa,Kerala Blasters FC,1.47,27.41,13.92,27.9,0,Not from Cross,1,0,0
+Match 22,54:6,Off Target,Julio Cesar,FC Goa,Kerala Blasters FC,0.49,27.41,26.86,25.94,0,Indirectly from Cross,0,1,0
+Match 22,58:59,On Target,Josu Currais,Kerala Blasters FC,FC Goa,5.62,37.45,44.93,57.52,0,Not from Cross,1,0,0
+Match 22,61:30,Off Target,Kervens Belfort,Kerala Blasters FC,FC Goa,2.93,37.94,28.81,55.56,0,Not from Cross,1,0,0
+Match 22,63:54,On Target,Julio Cesar,FC Goa,Kerala Blasters FC,1.95,29.62,32.23,15.91,0,Not from Cross,1,0,0
+Match 22,74:40,On Target,Josu Currais,Kerala Blasters FC,FC Goa,4.88,38.18,32.23,54.83,0,Not from Cross,1,0,0
+Match 22,75:22,Off Target,Michael Chopra,Kerala Blasters FC,FC Goa,3.91,45.03,25.88,23.5,0,Not from Cross,1,0,0
+Match 22,80:21,On Target,Michael Chopra,Kerala Blasters FC,FC Goa,4.4,36.96,16.36,35.0,0,Not from Cross,1,0,0
+Match 22,84:37,On Target,Kervens Belfort,Kerala Blasters FC,FC Goa,4.88,39.9,25.15,51.64,0,Not from Cross,1,0,0
+Match 22,84:37,Goal,Kervens Belfort,Kerala Blasters FC,FC Goa,4.88,39.65,28.33,55.31,1,Not from Cross,1,0,0
+Match 22,95:0,On Target,Rafael Dumas,FC Goa,Kerala Blasters FC,1.95,35.73,12.21,28.15,-1,Not from Cross,1,0,0
+Match 23,6:31,Off Target,Sony Norde,Mumbai City FC,Atlético de Kolkata,1.71,27.17,26.13,33.04,0,Not from Cross,1,0,0
+Match 23,8:56,Off Target,Sony Norde,Mumbai City FC,Atlético de Kolkata,3.17,27.41,25.64,28.88,0,Not from Cross,1,0,0
+Match 23,12:58,Off Target,Gerson Vieira,Mumbai City FC,Atlético de Kolkata,1.47,38.92,15.87,18.85,0,Not from Cross,1,0,0
+Match 23,14:45,Off Target,Diego Forlán,Mumbai City FC,Atlético de Kolkata,2.44,27.41,25.15,32.06,0,Not from Cross,1,0,0
+Match 23,25:22,Off Target,Javier Grande,Atlético de Kolkata,Mumbai City FC,4.4,35.24,28.81,42.59,0,Not from Cross,1,0,0
+Match 23,32:14,Off Target,Krisztián Vadócz,Mumbai City FC,Atlético de Kolkata,2.2,39.16,18.07,29.86,0,Not from Cross,1,0,0
+Match 23,34:3,On Target,Sony Norde,Mumbai City FC,Atlético de Kolkata,0.24,30.59,15.63,30.1,0,Not from Cross,1,0,0
+Match 23,54:35,Off Target,Sony Norde,Mumbai City FC,Atlético de Kolkata,6.1,42.83,26.37,34.51,0,Not from Cross,1,0,0
+Match 23,62:21,On Target,Sameehg Doutie,Atlético de Kolkata,Mumbai City FC,5.62,31.33,12.7,28.39,0,Not from Cross,1,0,0
+Match 23,63:52,Off Target,Sony Norde,Mumbai City FC,Atlético de Kolkata,5.37,42.59,27.84,31.08,0,Not from Cross,1,0,0
+Match 23,68:32,Off Target,Sameehg Doutie,Atlético de Kolkata,Mumbai City FC,1.22,26.43,24.66,20.07,0,Not from Cross,1,0,0
+Match 23,71:38,On Target,Iain Hume,Atlético de Kolkata,Mumbai City FC,5.37,31.33,16.6,42.1,0,Not from Cross,1,0,0
+Match 23,78:39,Off Target,Krisztián Vadócz,Mumbai City FC,Atlético de Kolkata,4.64,44.55,26.62,35.73,0,Not from Cross,1,0,0
+Match 23,79:41,On Target,Diego Forlán,Mumbai City FC,Atlético de Kolkata,5.25,35.77,11.16,28.97,0,Not from Cross,1,0,0
+Match 23,79:41,Goal,Diego Forlán,Mumbai City FC,Atlético de Kolkata,5.25,35.77,11.16,28.97,1,Not from Cross,1,0,0
+Match 23,85:35,On Target,Iain Hume,Atlético de Kolkata,Mumbai City FC,3.17,30.35,5.86,25.7,-1,Not from Cross,1,0,0
+Match 23,92:0,On Target,Javier Grande,Atlético de Kolkata,Mumbai City FC,2.69,34.51,21.98,24.48,-1,Not from Cross,1,0,0
+Match 24,2:49,Off Target,David Addy,Delhi Dynamos FC,FC Pune City,5.13,31.08,27.59,48.71,0,Not from Cross,1,0,0
+Match 24,12:54,On Target,Milan Singh,Delhi Dynamos FC,FC Pune City,5.86,36.96,17.83,39.9,0,Not from Cross,1,0,0
+Match 24,20:19,On Target,Souvik C'kraborty,Delhi Dynamos FC,FC Pune City,7.57,38.18,28.33,33.04,0,Not from Cross,1,0,0
+Match 24,22:4,On Target,Richard Gadze,Delhi Dynamos FC,FC Pune City,6.35,39.65,19.53,46.5,0,Not from Cross,1,0,0
+Match 24,22:34,On Target,Rubén Rocha,Delhi Dynamos FC,FC Pune City,6.59,39.16,16.85,37.2,0,Not from Cross,1,0,0
+Match 24,29:42,On Target,Narayan Das,FC Pune City,Delhi Dynamos FC,4.15,30.84,27.1,24.23,0,Not from Cross,1,0,0
+Match 24,36:25,On Target,Richard Gadze,Delhi Dynamos FC,FC Pune City,5.62,42.59,12.94,50.17,0,Not from Cross,1,0,0
+Match 24,39:50,Off Target,Dramane Traore,FC Pune City,Delhi Dynamos FC,2.69,39.65,10.99,35.0,0,Not from Cross,1,0,0
+Match 24,41:7,Off Target,Narayan Das,FC Pune City,Delhi Dynamos FC,2.44,41.12,33.21,46.99,0,Not from Cross,1,0,0
+Match 24,44:20,On Target,Emerson Moura,Delhi Dynamos FC,FC Pune City,5.37,37.2,21.73,62.9,0,Not from Cross,1,0,0
+Match 24,45:18,On Target,Dramane Traore,FC Pune City,Delhi Dynamos FC,4.4,33.29,31.5,42.34,0,Not from Cross,1,0,0
+Match 24,45:0,Goal,Jesus Tato,FC Pune City,Delhi Dynamos FC,2.2,30.1,6.35,39.65,1,Directly from Cross,0,0,1
+Match 24,46:0,On Target,Jesus Tato,FC Pune City,Delhi Dynamos FC,1.95,30.84,6.1,37.69,1,Not from Cross,1,0,0
+Match 24,47:19,Off Target,Richard Gadze,Delhi Dynamos FC,FC Pune City,2.9,27.09,7.78,32.55,-1,Not from Cross,1,0,0
+Match 24,47:52,On Target,Rubén Rocha,Delhi Dynamos FC,FC Pune City,3.08,35.82,11.04,27.09,-1,Not from Cross,1,0,0
+Match 24,49:1,Off Target,Richard Gadze,Delhi Dynamos FC,FC Pune City,2.9,39.09,9.96,32.18,-1,Not from Cross,1,0,0
+Match 24,53:10,Off Target,Marcelo Pereira,Delhi Dynamos FC,FC Pune City,2.72,27.64,7.97,21.09,-1,Not from Cross,1,0,0
+Match 24,65:2,Off Target,Marcelo Pereira,Delhi Dynamos FC,FC Pune City,2.44,32.55,20.51,21.78,-1,Not from Cross,1,0,0
+Match 24,65:52,Off Target,Bruno Pelissari,Delhi Dynamos FC,FC Pune City,2.69,40.38,25.15,42.1,-1,Not from Cross,1,0,0
+Match 24,75:40,Off Target,Souvik C'kraborty,Delhi Dynamos FC,FC Pune City,2.9,26.73,15.93,31.27,-1,Not from Cross,1,0,0
+Match 24,77:0,Off Target,Mohamed Sissoko,FC Pune City,Delhi Dynamos FC,5.07,29.82,31.32,38.73,1,Not from Cross,1,0,0
+Match 24,79:43,On Target,Milan Singh,Delhi Dynamos FC,FC Pune City,2.44,35.49,8.79,28.64,-1,Not from Cross,1,0,0
+Match 24,79:43,Goal,Milan Singh,Delhi Dynamos FC,FC Pune City,2.72,34.91,8.69,27.45,0,Not from Cross,1,0,0
+Match 24,85:27,Off Target,Richard Gadze,Delhi Dynamos FC,FC Pune City,2.35,38.73,28.78,38.55,0,Not from Cross,1,0,0
+Match 24,91:0,On Target,Rahul Bheke,FC Pune City,Delhi Dynamos FC,5.86,37.69,15.14,37.69,0,Not from Cross,1,0,0
+Match 25,6:9,On Target,Javier Grande,Atlético de Kolkata,NorthEast United FC,3.42,34.51,24.91,14.69,0,Not from Cross,1,0,0
+Match 25,14:0,On Target,Robert Cullen,NorthEast United FC,Atlético de Kolkata,5.37,41.85,13.92,49.93,0,Not from Cross,1,0,0
+Match 25,23:10,On Target,Prabir Das,Atlético de Kolkata,NorthEast United FC,2.44,31.57,27.1,31.57,0,Not from Cross,1,0,0
+Match 25,30:38,On Target,Juan Belencoso,Atlético de Kolkata,NorthEast United FC,9.77,29.62,16.36,26.92,0,Indirectly from Cross,0,1,0
+Match 25,31:16,Off Target,Borja Fernández,Atlético de Kolkata,NorthEast United FC,3.17,35.98,27.84,25.21,0,Not from Cross,1,0,0
+Match 25,37:36,Off Target,Nirmal Chettri,NorthEast United FC,Atlético de Kolkata,5.37,30.35,27.1,26.68,0,Not from Cross,1,0,0
+Match 25,39:16,On Target,Emiliano Alfaro,NorthEast United FC,Atlético de Kolkata,5.62,34.27,11.23,40.38,0,Directly from Cross,0,0,1
+Match 25,39:16,Goal,Emiliano Alfaro,NorthEast United FC,Atlético de Kolkata,5.13,34.51,11.72,39.41,1,Directly from Cross,0,0,1
+Match 25,50:4,Off Target,Juan Belencoso,Atlético de Kolkata,NorthEast United FC,4.88,31.08,13.19,33.78,-1,Not from Cross,1,0,0
+Match 25,51:15,On Target,Hélder Postiga,Atlético de Kolkata,NorthEast United FC,17.34,38.18,20.27,39.41,-1,Not from Cross,1,0,0
+Match 25,51:54,On Target,Javier Grande,Atlético de Kolkata,NorthEast United FC,5.86,35.49,19.29,23.99,-1,Not from Cross,1,0,0
+Match 25,52:12,Off Target,Hélder Postiga,Atlético de Kolkata,NorthEast United FC,5.37,30.84,40.29,34.02,-1,Not from Cross,1,0,0
+Match 25,53:22,Off Target,Hélder Postiga,Atlético de Kolkata,NorthEast United FC,6.1,44.3,20.51,37.45,-1,Not from Cross,1,0,0
+Match 25,63:51,On Target,Hélder Postiga,Atlético de Kolkata,NorthEast United FC,4.88,40.38,11.23,40.63,-1,Directly from Cross,0,0,1
+Match 25,63:51,Goal,Hélder Postiga,Atlético de Kolkata,NorthEast United FC,5.86,39.9,11.48,40.38,0,Directly from Cross,0,0,1
+Match 25,82:20,On Target,Juan Belencoso,Atlético de Kolkata,NorthEast United FC,NaN,NaN,NaN,NaN,0,Not from Cross,1,0,0
+Match 25,82:20,Goal,Juan Belencoso,Atlético de Kolkata,NorthEast United FC,5.62,37.69,12.94,35.24,1,Not from Cross,1,0,0
+Match 25,84:8,Off Target,Katsumi Yusa,NorthEast United FC,Atlético de Kolkata,3.17,38.67,11.23,26.92,-1,Not from Cross,1,0,0
+Match 25,88:34,Off Target,Katsumi Yusa,NorthEast United FC,Atlético de Kolkata,2.69,32.31,10.99,32.55,-1,Not from Cross,1,0,0
+Match 25,90:1,On Target,Reagan Singh,NorthEast United FC,Atlético de Kolkata,3.91,33.29,26.13,29.86,-1,Not from Cross,1,0,0
+Match 25,94:0,On Target,Reagan Singh,NorthEast United FC,Atlético de Kolkata,2.93,34.76,11.23,29.13,-1,Directly from Cross,0,0,1
+Match 25,94:0,Off Target,Bikramjit Singh,Atlético de Kolkata,NorthEast United FC,5.13,43.81,27.1,41.61,1,Directly from Cross,0,0,1
+Match 26,2:56,On Target,MacPherlin Omagbemi,Chennaiyin FC,Kerala Blasters FC,5.37,39.41,12.94,52.87,0,Not from Cross,1,0,0
+Match 26,25:43,On Target,Eli Sabiá,Chennaiyin FC,Kerala Blasters FC,10.01,39.16,16.6,40.38,0,Not from Cross,1,0,0
+Match 26,27:13,Off Target,Bernard Mendy,Chennaiyin FC,Kerala Blasters FC,3.91,42.83,12.45,46.99,0,Not from Cross,1,0,0
+Match 26,43:44,Off Target,Siam Hanghal,Chennaiyin FC,Kerala Blasters FC,3.42,34.51,33.94,36.96,0,Not from Cross,1,0,0
+Match 26,54:29,Off Target,M'rajuddin Wadoo,Chennaiyin FC,Kerala Blasters FC,2.44,38.18,34.43,29.62,0,Not from Cross,1,0,0
+Match 26,56:52,Off Target,Kervens Belfort,Kerala Blasters FC,Chennaiyin FC,3.91,30.35,14.16,41.12,0,Not from Cross,1,0,0
+Match 26,59:48,Off Target,Didier Kadio,Kerala Blasters FC,Chennaiyin FC,3.91,46.5,30.03,32.31,0,Not from Cross,1,0,0
+Match 26,60:42,Off Target,Kervens Belfort,Kerala Blasters FC,Chennaiyin FC,3.66,28.88,12.7,46.26,0,Not from Cross,1,0,0
+Match 26,64:33,Off Target,Siam Hanghal,Chennaiyin FC,Kerala Blasters FC,0.73,40.14,30.77,41.36,0,Not from Cross,1,0,0
+Match 26,72:6,Off Target,Kervens Belfort,Kerala Blasters FC,Chennaiyin FC,3.17,28.88,13.43,39.9,0,Directly from Cross,0,0,1
+Match 26,80:41,On Target,Duckens Nazon,Kerala Blasters FC,Chennaiyin FC,10.74,36.47,27.84,30.59,0,Not from Cross,1,0,0
+Match 26,87:6,Off Target,Josu Currais,Kerala Blasters FC,Chennaiyin FC,3.17,40.14,17.58,52.38,0,Not from Cross,1,0,0
+Match 26,89:8,Off Target,Mohammed Rafique,Kerala Blasters FC,Chennaiyin FC,3.91,44.55,29.06,43.32,0,Not from Cross,1,0,0
+Match 26,90:17,On Target,Duckens Nazon,Kerala Blasters FC,Chennaiyin FC,7.08,36.71,26.13,22.76,0,Not from Cross,1,0,0
+Match 27,5:10,On Target,Rafael Luiz,FC Goa,Delhi Dynamos FC,3.0,33.0,14.0,18.0,0,Not from Cross,1,0,0
+Match 27,14:13,Off Target,Richard Gadze,Delhi Dynamos FC,FC Goa,6.0,45.0,33.0,51.0,0,Not from Cross,1,0,0
+Match 27,16:55,Off Target,Julio Cesar,FC Goa,Delhi Dynamos FC,2.0,25.0,9.0,43.0,0,Not from Cross,1,0,0
+Match 27,23:32,On Target,Richard Gadze,Delhi Dynamos FC,FC Goa,7.0,35.0,13.0,24.0,0,Not from Cross,1,0,0
+Match 27,26:23,Off Target,Mandar Dessai,FC Goa,Delhi Dynamos FC,2.0,37.0,25.0,45.0,0,Not from Cross,1,0,0
+Match 27,29:37,Off Target,Richard Gadze,Delhi Dynamos FC,FC Goa,5.0,31.0,15.0,29.0,0,Not from Cross,1,0,0
+Match 27,34:48,Off Target,Bruno Pelissari,Delhi Dynamos FC,FC Goa,5.0,44.0,29.0,46.0,0,Not from Cross,1,0,0
+Match 27,45:14,On Target,Richard Gadze,Delhi Dynamos FC,FC Goa,5.0,35.0,16.0,32.0,0,Not from Cross,1,0,0
+Match 27,45:0,On Target,Trindade Goncalves,FC Goa,Delhi Dynamos FC,5.0,32.0,27.0,30.0,0,Not from Cross,1,0,0
+Match 27,47:0,On Target,Romeo Fernandes,FC Goa,Delhi Dynamos FC,3.0,35.0,10.0,19.0,0,Not from Cross,1,0,0
+Match 27,56:47,On Target,Bruno Pelissari,Delhi Dynamos FC,FC Goa,4.0,35.0,29.0,33.0,0,Not from Cross,1,0,0
+Match 27,58:57,Off Target,Julio Cesar,FC Goa,Delhi Dynamos FC,6.0,31.0,14.0,43.0,0,Not from Cross,1,0,0
+Match 27,64:44,On Target,Marcelo Pereira,Delhi Dynamos FC,FC Goa,3.0,31.0,13.0,20.0,0,Not from Cross,1,0,0
+Match 27,66:18,On Target,Luciano Sobrosa,FC Goa,Delhi Dynamos FC,5.0,39.0,17.0,30.0,0,Not from Cross,1,0,0
+Match 27,68:54,Off Target,Rafael Luiz,FC Goa,Delhi Dynamos FC,5.0,35.0,17.0,49.0,0,Not from Cross,1,0,0
+Match 27,72:14,On Target,Marcelo Pereira,Delhi Dynamos FC,FC Goa,2.0,30.0,9.0,42.0,0,Not from Cross,1,0,0
+Match 27,72:14,Goal,Marcelo Pereira,Delhi Dynamos FC,FC Goa,2.0,31.0,10.0,42.0,1,Not from Cross,1,0,0
+Match 27,76:46,On Target,Richard Gadze,Delhi Dynamos FC,FC Goa,3.0,35.0,9.0,27.0,1,Not from Cross,1,0,0
+Match 27,76:46,Goal,Richard Gadze,Delhi Dynamos FC,FC Goa,2.0,34.0,10.0,28.0,2,Not from Cross,1,0,0
+Match 27,92:0,On Target,Badara Badji,Delhi Dynamos FC,FC Goa,6.0,29.0,10.0,23.0,2,Not from Cross,1,0,0
+Match 28,5:52,On Target,Jerry L'rinzuala,Chennaiyin FC,Mumbai City FC,8.55,36.47,26.62,49.44,0,Not from Cross,1,0,0
+Match 28,17:17,Off Target,Thoi Singh,Chennaiyin FC,Mumbai City FC,4.64,30.59,14.16,36.22,0,Not from Cross,1,0,0
+Match 28,22:55,On Target,Maurizio Peluso,Chennaiyin FC,Mumbai City FC,6.84,40.14,28.81,55.56,0,Not from Cross,1,0,0
+Match 28,31:39,Off Target,Maurizio Peluso,Chennaiyin FC,Mumbai City FC,5.37,27.9,14.16,50.42,0,Not from Cross,1,0,0
+Match 28,34:23,Off Target,Maurizio Peluso,Chennaiyin FC,Mumbai City FC,5.86,28.15,15.87,51.64,0,Not from Cross,1,0,0
+Match 28,36:32,Off Target,Diego Forlán,Mumbai City FC,Chennaiyin FC,0.24,36.47,25.15,41.36,0,Not from Cross,1,0,0
+Match 28,40:20,Off Target,Siam Hanghal,Chennaiyin FC,Mumbai City FC,5.62,33.04,36.63,44.3,0,Not from Cross,1,0,0
+Match 28,50:40,On Target,Siam Hanghal,Chennaiyin FC,Mumbai City FC,3.91,29.86,24.91,30.84,0,Not from Cross,1,0,0
+Match 28,51:50,On Target,Jeje Lalpekhlua,Chennaiyin FC,Mumbai City FC,0.0,33.04,6.59,26.92,0,Not from Cross,1,0,0
+Match 28,51:50,Goal,Jeje Lalpekhlua,Chennaiyin FC,Mumbai City FC,0.0,33.04,6.59,26.92,1,Not from Cross,1,0,0
+Match 28,56:49,Off Target,Jeje Lalpekhlua,Chennaiyin FC,Mumbai City FC,-0.24,35.49,8.3,36.47,1,Not from Cross,1,0,0
+Match 28,57:50,Off Target,L'aihsanga Ralte,Mumbai City FC,Chennaiyin FC,4.88,31.57,17.09,51.64,-1,Not from Cross,1,0,0
+Match 28,67:9,On Target,Otacilio Alves,Mumbai City FC,Chennaiyin FC,7.08,39.65,24.66,29.37,-1,Not from Cross,1,0,0
+Match 28,70:36,On Target,Bernard Mendy,Chennaiyin FC,Mumbai City FC,4.15,31.82,29.06,34.76,1,Not from Cross,1,0,0
+Match 28,70:0,On Target,MacPherlin Omagbemi,Chennaiyin FC,Mumbai City FC,4.15,32.31,11.72,28.64,1,Not from Cross,1,0,0
+Match 28,71:49,Off Target,MacPherlin Omagbemi,Chennaiyin FC,Mumbai City FC,0.0,39.16,11.97,31.33,1,Not from Cross,1,0,0
+Match 28,74:52,Off Target,Raphael Augusto,Chennaiyin FC,Mumbai City FC,1.47,37.45,27.84,40.14,1,Not from Cross,1,0,0
+Match 28,77:36,Off Target,Lucian Goian,Mumbai City FC,Chennaiyin FC,3.91,40.63,14.16,36.96,-1,Not from Cross,1,0,0
+Match 28,81:31,Off Target,Diego Forlán,Mumbai City FC,Chennaiyin FC,4.64,35.24,32.72,46.99,-1,Not from Cross,1,0,0
+Match 28,88:31,On Target,Léo Costa,Mumbai City FC,Chennaiyin FC,4.88,35.0,30.28,51.4,-1,Not from Cross,1,0,0
+Match 28,88:31,Goal,Léo Costa,Mumbai City FC,Chennaiyin FC,4.88,35.0,30.28,51.4,0,Not from Cross,1,0,0
+Match 28,92:0,Off Target,Siam Hanghal,Chennaiyin FC,Mumbai City FC,-0.49,32.8,14.9,20.07,0,Not from Cross,1,0,0
+Match 29,6:7,Off Target,Rafael Luiz,FC Goa,FC Pune City,6.0,32.0,12.0,19.0,0,Not from Cross,1,0,0
+Match 29,9:51,Off Target,Joffre Gonzalez,FC Goa,FC Pune City,5.0,43.0,17.0,55.0,0,Not from Cross,1,0,0
+Match 29,24:48,Off Target,Rafael Luiz,FC Goa,FC Pune City,6.0,43.0,11.0,39.0,0,Not from Cross,1,0,0
+Match 29,32:26,On Target,Rafael Luiz,FC Goa,FC Pune City,5.0,40.0,25.0,48.0,0,Not from Cross,1,0,0
+Match 29,32:26,Goal,Rafael Luiz,FC Goa,FC Pune City,6.0,41.0,26.0,49.0,1,Not from Cross,1,0,0
+Match 29,36:14,On Target,Jesus Tato,FC Pune City,FC Goa,2.0,32.0,3.0,63.0,-1,Not from Cross,1,0,0
+Match 29,37:29,Off Target,Rahul Bheke,FC Pune City,FC Goa,2.0,25.0,29.0,24.0,-1,Not from Cross,1,0,0
+Match 29,46:0,On Target,Jonatan Lucca,FC Pune City,FC Goa,3.0,34.0,25.0,34.0,-1,Not from Cross,1,0,0
+Match 29,47:0,On Target,Jesus Tato,FC Pune City,FC Goa,3.0,30.0,8.0,30.0,-1,Directly from Cross,0,0,1
+Match 29,51:10,On Target,Robin Singh,FC Goa,FC Pune City,3.0,30.0,21.0,22.0,1,Not from Cross,1,0,0
+Match 29,53:40,Off Target,Anibal Rodriguez,FC Pune City,FC Goa,5.0,31.0,30.0,49.0,-1,Not from Cross,1,0,0
+Match 29,55:52,Off Target,Gouramangi M'rangthem,FC Pune City,FC Goa,6.0,44.0,17.0,44.0,-1,Indirectly from Cross,0,1,0
+Match 29,60:25,Off Target,Joffre Gonzalez,FC Goa,FC Pune City,2.0,31.0,9.0,38.0,1,Not from Cross,1,0,0
+Match 29,63:25,Off Target,Mohamed Sissoko,FC Pune City,FC Goa,6.0,45.0,29.0,32.0,-1,Not from Cross,1,0,0
+Match 29,75:57,On Target,Jonatan Lucca,FC Pune City,FC Goa,7.0,39.0,25.0,64.0,-1,Not from Cross,1,0,0
+Match 29,76:8,Off Target,Rahul Bheke,FC Pune City,FC Goa,6.0,40.0,15.0,37.0,-1,Not from Cross,1,0,0
+Match 29,78:30,Off Target,Romeo Fernandes,FC Goa,FC Pune City,2.0,27.0,6.0,24.0,1,Not from Cross,1,0,0
+Match 29,85:25,On Target,Rafael Luiz,FC Goa,FC Pune City,3.0,28.0,9.0,19.0,1,Not from Cross,1,0,0
+Match 29,85:56,Off Target,Rafael Luiz,FC Goa,FC Pune City,2.0,39.0,13.0,32.0,1,Not from Cross,1,0,0
+Match 29,93:0,Off Target,Bruno Arias,FC Pune City,FC Goa,5.0,35.0,31.0,38.0,-1,Not from Cross,1,0,0
+Match 30,9:58,Off Target,Florent Malouda,Delhi Dynamos FC,Kerala Blasters FC,6.0,37.0,32.0,28.0,0,Not from Cross,1,0,0
+Match 30,10:48,Off Target,Marcelo Pereira,Delhi Dynamos FC,Kerala Blasters FC,5.0,39.0,19.0,38.0,0,Not from Cross,1,0,0
+Match 30,17:38,Off Target,Didier Kadio,Kerala Blasters FC,Delhi Dynamos FC,3.0,39.0,27.0,34.0,0,Not from Cross,1,0,0
+Match 30,30:14,Off Target,Marcelo Pereira,Delhi Dynamos FC,Kerala Blasters FC,6.0,32.0,16.0,24.0,0,Not from Cross,1,0,0
+Match 30,31:51,Off Target,Richard Gadze,Delhi Dynamos FC,Kerala Blasters FC,6.0,32.0,19.0,31.0,0,Not from Cross,1,0,0
+Match 30,37:55,Off Target,Kervens Belfort,Kerala Blasters FC,Delhi Dynamos FC,2.0,38.0,13.0,45.0,0,Not from Cross,1,0,0
+Match 30,42:16,Off Target,Didier Kadio,Kerala Blasters FC,Delhi Dynamos FC,3.0,39.0,15.0,32.0,0,Not from Cross,1,0,0
+Match 30,51:42,Off Target,Mohammed Rafi,Kerala Blasters FC,Delhi Dynamos FC,5.0,28.0,18.0,31.0,0,Not from Cross,1,0,0
+Match 30,56:30,On Target,Kean Lewis,Delhi Dynamos FC,Kerala Blasters FC,3.0,31.0,13.0,35.0,0,Not from Cross,1,0,0
+Match 30,56:30,Goal,Kean Lewis,Delhi Dynamos FC,Kerala Blasters FC,3.0,30.0,15.0,34.0,1,Not from Cross,1,0,0
+Match 30,60:53,On Target,Marcelo Pereira,Delhi Dynamos FC,Kerala Blasters FC,2.0,30.0,5.0,23.0,1,Directly from Cross,0,0,1
+Match 30,60:53,Goal,Marcelo Pereira,Delhi Dynamos FC,Kerala Blasters FC,2.0,31.0,4.0,23.0,2,Directly from Cross,0,0,1
+Match 30,68:41,On Target,Marcelo Pereira,Delhi Dynamos FC,Kerala Blasters FC,3.0,32.0,6.0,21.0,2,Not from Cross,1,0,0
+Match 30,68:53,Off Target,Richard Gadze,Delhi Dynamos FC,Kerala Blasters FC,2.0,33.0,11.0,28.0,2,Not from Cross,1,0,0
+Match 30,77:4,Off Target,C'glensana Konsham,Delhi Dynamos FC,Kerala Blasters FC,1.0,32.0,10.0,27.0,2,Not from Cross,1,0,0
+Match 30,80:59,On Target,Antonio German,Kerala Blasters FC,Delhi Dynamos FC,6.0,37.0,28.0,27.0,-2,Not from Cross,1,0,0
+Match 31,7:2,Off Target,Jackichand Singh,Mumbai City FC,NorthEast United FC,5.37,42.83,15.87,32.06,0,Not from Cross,1,0,0
+Match 31,14:44,Off Target,Léo Costa,Mumbai City FC,NorthEast United FC,4.88,39.41,9.52,44.79,0,Indirectly from Cross,0,1,0
+Match 31,20:25,Off Target,Holicharan Narzary,NorthEast United FC,Mumbai City FC,2.44,38.92,10.74,45.28,0,Not from Cross,1,0,0
+Match 31,30:46,On Target,Emiliano Alfaro,NorthEast United FC,Mumbai City FC,2.69,30.35,11.72,32.06,0,Not from Cross,1,0,0
+Match 31,31:27,Off Target,Emiliano Alfaro,NorthEast United FC,Mumbai City FC,0.49,27.41,12.21,25.94,0,Not from Cross,1,0,0
+Match 31,45:6,On Target,Jackichand Singh,Mumbai City FC,NorthEast United FC,4.64,39.16,13.67,43.81,0,Not from Cross,1,0,0
+Match 31,45:6,Goal,Jackichand Singh,Mumbai City FC,NorthEast United FC,4.4,40.63,14.16,44.79,1,Not from Cross,1,0,0
+Match 31,45:0,Off Target,Léo Costa,Mumbai City FC,NorthEast United FC,5.62,43.08,28.81,46.26,1,Not from Cross,1,0,0
+Match 31,47:55,Off Target,Jackichand Singh,Mumbai City FC,NorthEast United FC,3.42,26.19,11.97,46.75,1,Not from Cross,1,0,0
+Match 31,55:55,Off Target,Jackichand Singh,Mumbai City FC,NorthEast United FC,2.2,39.41,12.45,35.98,1,Not from Cross,1,0,0
+Match 31,57:40,Off Target,Krisztián Vadócz,Mumbai City FC,NorthEast United FC,2.93,26.19,10.74,27.66,1,Directly from Cross,0,0,1
+Match 31,72:33,Off Target,Léo Costa,Mumbai City FC,NorthEast United FC,2.69,39.16,25.64,35.73,1,Not from Cross,1,0,0
+Match 31,76:57,On Target,Seityasen Singh,NorthEast United FC,Mumbai City FC,7.81,41.12,11.48,42.59,-1,Not from Cross,1,0,0
+Match 31,77:20,On Target,Katsumi Yusa,NorthEast United FC,Mumbai City FC,9.28,42.1,15.87,44.06,-1,Not from Cross,1,0,0
+Match 31,77:46,On Target,Seityasen Singh,NorthEast United FC,Mumbai City FC,5.37,35.73,9.52,34.27,-1,Not from Cross,1,0,0
+Match 31,79:26,Off Target,Matías Defederico,Mumbai City FC,NorthEast United FC,2.69,25.94,6.59,43.08,1,Not from Cross,1,0,0
+Match 31,93:0,On Target,L'aihsanga Ralte,Mumbai City FC,NorthEast United FC,2.44,31.08,16.6,45.28,1,Not from Cross,1,0,0
+Match 32,7:41,Off Target,Dramane Traore,FC Pune City,Atlético de Kolkata,0.49,39.16,23.69,43.08,0,Not from Cross,1,0,0
+Match 32,8:20,Off Target,Hélder Postiga,Atlético de Kolkata,FC Pune City,3.66,32.31,32.97,22.27,0,Not from Cross,1,0,0
+Match 32,18:58,On Target,Eduardo Ferreira,FC Pune City,Atlético de Kolkata,3.91,35.49,6.84,36.47,0,Not from Cross,1,0,0
+Match 32,29:22,Off Target,Jonatan Lucca,FC Pune City,Atlético de Kolkata,1.95,26.19,27.59,40.14,0,Not from Cross,1,0,0
+Match 32,40:59,Goal,Eduardo Ferreira,FC Pune City,Atlético de Kolkata,1.95,31.57,6.35,35.49,1,Not from Cross,1,0,0
+Match 32,41:21,On Target,Eduardo Ferreira,FC Pune City,Atlético de Kolkata,1.47,31.57,7.08,36.47,1,Not from Cross,1,0,0
+Match 32,56:6,On Target,Anibal Rodriguez,FC Pune City,Atlético de Kolkata,4.15,35.0,14.41,37.45,1,Not from Cross,1,0,0
+Match 32,65:52,Off Target,Lenny Rodrigues,FC Pune City,Atlético de Kolkata,3.91,44.06,32.23,25.45,2,Not from Cross,1,0,0
+Match 32,66:19,On Target,Bidyananda Singh,Atlético de Kolkata,FC Pune City,3.42,39.41,6.59,44.79,-2,Not from Cross,1,0,0
+Match 32,69:50,On Target,Iain Hume,Atlético de Kolkata,FC Pune City,2.44,35.24,13.92,32.55,-2,Not from Cross,1,0,0
+Match 32,69:52,On Target,Iain Hume,Atlético de Kolkata,FC Pune City,0.73,31.57,7.81,33.29,-2,Not from Cross,1,0,0
+Match 32,69:52,Goal,Iain Hume,Atlético de Kolkata,FC Pune City,1.47,31.82,7.57,32.55,-1,Not from Cross,1,0,0
+Match 32,72:19,Off Target,Sameehg Doutie,Atlético de Kolkata,FC Pune City,0.73,39.41,15.14,32.31,-1,Directly from Cross,0,0,1
+Match 32,72:57,On Target,Hélder Postiga,Atlético de Kolkata,FC Pune City,2.93,33.53,25.88,23.99,-1,Not from Cross,1,0,0
+Match 32,81:36,Off Target,Anibal Rodriguez,FC Pune City,Atlético de Kolkata,6.59,43.08,36.38,21.05,1,Not from Cross,1,0,0
+Match 32,90:0,Off Target,Borja Fernández,Atlético de Kolkata,FC Pune City,0.49,28.39,16.36,44.79,-1,Not from Cross,1,0,0
+Match 33,9:30,On Target,Rafael Luiz,FC Goa,Kerala Blasters FC,2.0,32.0,8.0,27.0,0,Not from Cross,1,0,0
+Match 33,9:30,Goal,Rafael Luiz,FC Goa,Kerala Blasters FC,2.0,33.0,9.0,28.0,1,Not from Cross,1,0,0
+Match 33,13:30,Off Target,Kervens Belfort,Kerala Blasters FC,FC Goa,4.0,32.0,12.0,37.0,-1,Not from Cross,1,0,0
+Match 33,17:43,Off Target,Kervens Belfort,Kerala Blasters FC,FC Goa,4.0,43.0,11.0,38.0,-1,Not from Cross,1,0,0
+Match 33,18:30,Off Target,R'harlyson Felisbino,FC Goa,Kerala Blasters FC,1.0,26.0,30.0,35.0,1,Not from Cross,1,0,0
+Match 33,24:16,On Target,Mohammed Rafique,Kerala Blasters FC,FC Goa,5.0,33.0,7.0,25.0,-1,Not from Cross,1,0,0
+Match 33,38:27,Off Target,Kervens Belfort,Kerala Blasters FC,FC Goa,4.0,31.0,15.0,30.0,-1,Not from Cross,1,0,0
+Match 33,47:0,Off Target,Josu Currais,Kerala Blasters FC,FC Goa,3.0,29.0,30.0,25.0,-1,Not from Cross,1,0,0
+Match 33,46:31,On Target,Mohammed Rafique,Kerala Blasters FC,FC Goa,99.0,39.0,93.0,42.0,-1,Not from Cross,1,0,0
+Match 33,48:35,On Target,Kervens Belfort,Kerala Blasters FC,FC Goa,103.0,40.0,92.0,38.0,-1,Not from Cross,1,0,0
+Match 33,50:25,Off Target,R'harlyson Felisbino,FC Goa,Kerala Blasters FC,100.0,39.0,84.0,57.0,0,Not from Cross,1,0,0
+Match 33,54:12,Off Target,Didier Kadio,Kerala Blasters FC,FC Goa,105.0,41.0,76.0,44.0,0,Not from Cross,1,0,0
+Match 33,55:39,Off Target,Kervens Belfort,Kerala Blasters FC,FC Goa,104.0,31.0,94.0,31.0,0,Not from Cross,1,0,0
+Match 33,70:9,Off Target,Mohammed Rafi,Kerala Blasters FC,FC Goa,0.0,27.0,11.0,33.0,0,Not from Cross,1,0,0
+Match 33,71:46,On Target,Mohammed Rafique,Kerala Blasters FC,FC Goa,9.0,26.0,13.0,23.0,0,Not from Cross,1,0,0
+Match 33,76:17,Off Target,Kervens Belfort,Kerala Blasters FC,FC Goa,1.0,29.0,27.0,32.0,0,Not from Cross,1,0,0
+Match 33,80:4,On Target,Josu Currais,Kerala Blasters FC,FC Goa,1.0,32.0,30.0,31.0,0,Not from Cross,1,0,0
+Match 33,87:11,On Target,Antonio German,Kerala Blasters FC,FC Goa,2.0,31.0,27.0,19.0,0,Not from Cross,1,0,0
+Match 33,90:0,Off Target,Kervens Belfort,Kerala Blasters FC,FC Goa,1.0,28.0,17.0,39.0,0,Directly from Cross,0,0,1
+Match 33,92:0,Off Target,Antonio German,Kerala Blasters FC,FC Goa,0.0,38.0,24.0,42.0,0,Not from Cross,1,0,0
+Match 33,94:0,On Target,Kervens Belfort,Kerala Blasters FC,FC Goa,3.0,31.0,16.0,32.0,0,Directly from Cross,0,0,1
+Match 33,98:0,On Target,CK Vineeth,Kerala Blasters FC,FC Goa,1.0,35.0,7.0,32.0,0,Directly from Cross,0,0,1
+Match 33,98:0,Goal,CK Vineeth,Kerala Blasters FC,FC Goa,1.0,35.0,6.0,33.0,1,Directly from Cross,0,0,1
+Match 34,13:50,On Target,Raphael Augusto,Chennaiyin FC,Delhi Dynamos FC,3.0,32.0,25.0,39.0,0,Not from Cross,1,0,0
+Match 34,15:57,On Target,Florent Malouda,Delhi Dynamos FC,Chennaiyin FC,8.0,37.0,21.0,41.0,0,Not from Cross,1,0,0
+Match 34,15:59,Goal,Richard Gadze,Delhi Dynamos FC,Chennaiyin FC,5.0,40.0,14.0,43.0,1,Not from Cross,1,0,0
+Match 34,15:59,On Target,Richard Gadze,Delhi Dynamos FC,Chennaiyin FC,6.0,40.0,12.0,45.0,1,Not from Cross,1,0,0
+Match 34,22:36,Off Target,MacPherlin Omagbemi,Chennaiyin FC,Delhi Dynamos FC,3.0,25.0,24.0,19.0,-1,Not from Cross,1,0,0
+Match 34,24:13,On Target,Richard Gadze,Delhi Dynamos FC,Chennaiyin FC,8.0,39.0,25.0,40.0,1,Not from Cross,1,0,0
+Match 34,25:48,On Target,Florent Malouda,Delhi Dynamos FC,Chennaiyin FC,7.0,39.0,24.0,41.0,1,Not from Cross,1,0,0
+Match 34,25:48,Goal,Florent Malouda,Delhi Dynamos FC,Chennaiyin FC,5.0,40.0,24.0,41.0,2,Not from Cross,1,0,0
+Match 34,27:11,Off Target,Jerry L'rinzuala,Chennaiyin FC,Delhi Dynamos FC,2.0,27.0,24.0,39.0,-2,Not from Cross,1,0,0
+Match 34,37:30,On Target,Bernard Mendy,Chennaiyin FC,Delhi Dynamos FC,2.0,30.0,15.0,25.0,-2,Not from Cross,1,0,0
+Match 34,37:30,Goal,Bernard Mendy,Chennaiyin FC,Delhi Dynamos FC,3.0,30.0,16.0,24.0,-1,Not from Cross,1,0,0
+Match 34,43:31,Off Target,Hans Mulder,Chennaiyin FC,Delhi Dynamos FC,3.0,35.0,10.0,36.0,-1,Not from Cross,1,0,0
+Match 34,46:52,Off Target,Jeje Lalpekhlua,Chennaiyin FC,Delhi Dynamos FC,6.0,45.0,26.0,27.0,-1,Not from Cross,1,0,0
+Match 34,48:2,Off Target,Baljit Sahni,Chennaiyin FC,Delhi Dynamos FC,5.0,31.0,15.0,50.0,-1,Not from Cross,1,0,0
+Match 34,53:47,On Target,Florent Malouda,Delhi Dynamos FC,Chennaiyin FC,4.0,35.0,24.0,30.0,1,Not from Cross,1,0,0
+Match 34,54:30,On Target,Kean Lewis,Delhi Dynamos FC,Chennaiyin FC,2.0,30.0,14.0,42.0,1,Not from Cross,1,0,0
+Match 34,54:30,Goal,Kean Lewis,Delhi Dynamos FC,Chennaiyin FC,3.0,31.0,14.0,41.0,2,Not from Cross,1,0,0
+Match 34,57:41,Off Target,Richard Gadze,Delhi Dynamos FC,Chennaiyin FC,2.0,39.0,5.0,25.0,2,Directly from Cross,0,0,1
+Match 34,63:18,On Target,Badara Badji,Delhi Dynamos FC,Chennaiyin FC,3.0,36.0,18.0,34.0,2,Not from Cross,1,0,0
+Match 34,69:0,Off Target,Hans Mulder,Chennaiyin FC,Delhi Dynamos FC,6.0,31.0,28.0,29.0,-2,Not from Cross,1,0,0
+Match 34,70:39,Off Target,Jeje Lalpekhlua,Chennaiyin FC,Delhi Dynamos FC,5.0,34.0,16.0,28.0,-2,Not from Cross,1,0,0
+Match 34,77:14,Off Target,Marcelo Pereira,Delhi Dynamos FC,Chennaiyin FC,2.0,45.0,10.0,33.0,2,Directly from Cross,0,0,1
+Match 34,85:13,On Target,Florent Malouda,Delhi Dynamos FC,Chennaiyin FC,2.0,35.0,6.0,36.0,2,Not from Cross,1,0,0
+Match 34,85:13,Goal,Florent Malouda,Delhi Dynamos FC,Chennaiyin FC,2.0,35.0,7.0,35.0,3,Not from Cross,1,0,0
+Match 34,90:24,Off Target,Badara Badji,Delhi Dynamos FC,Chennaiyin FC,2.0,27.0,11.0,24.0,3,Not from Cross,1,0,0
+Match 34,90:50,Off Target,Davide Succi,Chennaiyin FC,Delhi Dynamos FC,5.0,32.0,27.0,30.0,-3,Not from Cross,1,0,0
+Match 34,91:0,On Target,Marcelo Pereira,Delhi Dynamos FC,Chennaiyin FC,3.0,35.0,8.0,45.0,3,Not from Cross,1,0,0
+Match 34,92:0,On Target,Uttam Rai,Chennaiyin FC,Delhi Dynamos FC,9.0,38.0,30.0,41.0,-3,Not from Cross,1,0,0
+Match 34,93:0,Off Target,Uttam Rai,Chennaiyin FC,Delhi Dynamos FC,6.0,43.0,20.0,42.0,-3,Directly from Cross,0,0,1
+Match 35,7:5,On Target,Anibal Rodriguez,FC Pune City,Mumbai City FC,7.33,39.41,26.62,44.79,0,Not from Cross,1,0,0
+Match 35,12:20,Off Target,Sehnaj Singh,Mumbai City FC,FC Pune City,2.2,25.94,21.73,24.48,0,Not from Cross,1,0,0
+Match 35,15:35,Off Target,Lenny Rodrigues,FC Pune City,Mumbai City FC,4.64,32.31,28.08,44.06,0,Not from Cross,1,0,0
+Match 35,35:13,On Target,Matías Defederico,Mumbai City FC,FC Pune City,4.15,32.06,17.09,10.28,0,Not from Cross,1,0,0
+Match 35,49:6,Off Target,Aiborlang Khongjee,Mumbai City FC,FC Pune City,4.88,31.08,27.59,28.88,0,Not from Cross,1,0,0
+Match 35,56:3,Off Target,Lucian Goian,Mumbai City FC,FC Pune City,5.62,32.06,9.28,30.1,0,Not from Cross,1,0,0
+Match 35,59:33,Off Target,Thiago Cunha,Mumbai City FC,FC Pune City,5.13,44.55,12.21,46.99,0,Not from Cross,1,0,0
+Match 35,63:6,Off Target,Krisztián Vadócz,Mumbai City FC,FC Pune City,5.37,48.71,14.16,39.9,0,Directly from Cross,0,0,1
+Match 35,75:44,On Target,Diego Forlán,Mumbai City FC,FC Pune City,5.86,35.49,25.88,51.64,0,Not from Cross,1,0,0
+Match 35,83:51,On Target,Jonatan Lucca,FC Pune City,Mumbai City FC,3.42,35.73,21.24,44.06,0,Not from Cross,1,0,0
+Match 35,85:20,On Target,Diego Forlán,Mumbai City FC,FC Pune City,7.08,33.29,16.85,28.39,0,Not from Cross,1,0,0
+Match 35,87:3,Off Target,Jesus Tato,FC Pune City,Mumbai City FC,2.44,38.67,10.5,27.41,0,Not from Cross,1,0,0
+Match 35,89:20,On Target,Eugeneson Lyngdoh,FC Pune City,Mumbai City FC,3.17,31.57,10.01,27.66,0,Not from Cross,1,0,0
+Match 35,89:20,Goal,Eugeneson Lyngdoh,FC Pune City,Mumbai City FC,2.44,33.04,8.3,29.13,1,Not from Cross,1,0,0
+Match 35,90:46,Off Target,Sehnaj Singh,Mumbai City FC,FC Pune City,5.86,45.28,27.59,25.45,-1,Not from Cross,1,0,0
+Match 36,3:32,On Target,Mailson Alves,NorthEast United FC,FC Goa,6.35,37.2,10.99,37.94,0,Not from Cross,1,0,0
+Match 36,5:13,Off Target,Romeo Fernandes,FC Goa,NorthEast United FC,1.71,38.18,14.41,29.13,0,Not from Cross,1,0,0
+Match 36,15:16,On Target,Katsumi Yusa,NorthEast United FC,FC Goa,8.06,38.43,36.14,41.36,0,Not from Cross,1,0,0
+Match 36,15:54,On Target,Rowllin Borges,NorthEast United FC,FC Goa,6.35,38.18,12.94,36.71,0,Not from Cross,1,0,0
+Match 36,32:27,Off Target,Robin Singh,FC Goa,NorthEast United FC,1.47,38.92,16.12,41.36,0,Not from Cross,1,0,0
+Match 36,36:15,On Target,Rafael Luiz,FC Goa,NorthEast United FC,5.86,32.06,26.37,23.5,0,Not from Cross,1,0,0
+Match 36,38:43,Off Target,Gustavo Lazzaretti,NorthEast United FC,FC Goa,3.91,41.85,10.5,35.0,0,Not from Cross,1,0,0
+Match 36,38:56,Off Target,Mailson Alves,NorthEast United FC,FC Goa,4.15,37.94,10.5,36.47,0,Not from Cross,1,0,0
+Match 36,40:8,On Target,Robert Cullen,NorthEast United FC,FC Goa,6.84,37.69,15.87,53.36,0,Indirectly from Cross,0,1,0
+Match 36,41:58,Off Target,Nicolas Velez,NorthEast United FC,FC Goa,3.17,41.12,16.36,34.51,0,Not from Cross,1,0,0
+Match 36,48:47,Off Target,Robert Cullen,NorthEast United FC,FC Goa,1.47,22.76,25.88,37.2,0,Not from Cross,1,0,0
+Match 36,50:18,On Target,Seityasen Singh,NorthEast United FC,FC Goa,0.24,33.29,11.48,21.29,0,Not from Cross,1,0,0
+Match 36,50:18,Goal,Seityasen Singh,NorthEast United FC,FC Goa,1.47,33.04,9.52,21.29,1,Not from Cross,1,0,0
+Match 36,60:30,Off Target,Nicolas Velez,NorthEast United FC,FC Goa,0.0,37.69,26.86,36.96,1,Not from Cross,1,0,0
+Match 36,62:43,Off Target,Rowllin Borges,NorthEast United FC,FC Goa,2.2,26.68,13.43,26.92,1,Not from Cross,1,0,0
+Match 36,62:53,On Target,Robin Singh,FC Goa,NorthEast United FC,3.91,36.71,11.72,35.73,-1,Not from Cross,1,0,0
+Match 36,62:53,Goal,Robin Singh,FC Goa,NorthEast United FC,4.64,37.2,11.72,35.73,0,Not from Cross,1,0,0
+Match 36,68:22,On Target,Nicolas Velez,NorthEast United FC,FC Goa,2.2,30.84,9.03,26.43,0,Not from Cross,1,0,0
+Match 36,70:5,On Target,Rowllin Borges,NorthEast United FC,FC Goa,3.42,32.06,14.9,32.06,0,Directly from Cross,0,0,1
+Match 36,81:30,On Target,Koffi N'dri,NorthEast United FC,FC Goa,2.69,32.06,22.22,30.84,0,Not from Cross,1,0,0
+Match 36,90:0,On Target,Koffi N'dri,NorthEast United FC,FC Goa,2.69,32.8,17.58,31.82,0,Not from Cross,1,0,0
+Match 36,93:0,On Target,Romeo Fernandes,FC Goa,NorthEast United FC,4.88,35.98,11.48,31.08,0,Not from Cross,1,0,0
+Match 36,93:0,Goal,Romeo Fernandes,FC Goa,NorthEast United FC,4.88,35.98,11.48,31.08,1,Not from Cross,1,0,0
+Match 37,2:12,On Target,Jeje Lalpekhlua,Chennaiyin FC,Kerala Blasters FC,5.0,32.0,15.0,32.0,0,Not from Cross,1,0,0
+Match 37,6:21,Off Target,Raphael Augusto,Chennaiyin FC,Kerala Blasters FC,1.0,27.0,25.0,40.0,0,Not from Cross,1,0,0
+Match 37,7:4,Off Target,Eli Sabiá,Chennaiyin FC,Kerala Blasters FC,2.0,27.0,10.0,30.0,0,Not from Cross,1,0,0
+Match 37,8:49,Off Target,Jayesh Rane,Chennaiyin FC,Kerala Blasters FC,2.0,25.0,17.0,28.0,0,Not from Cross,1,0,0
+Match 37,22:37,On Target,Bernard Mendy,Chennaiyin FC,Kerala Blasters FC,1.0,31.0,11.0,39.0,0,Not from Cross,1,0,0
+Match 37,22:37,Goal,Bernard Mendy,Chennaiyin FC,Kerala Blasters FC,1.0,31.0,11.0,39.0,1,Not from Cross,1,0,0
+Match 37,30:54,Off Target,MacPherlin Omagbemi,Chennaiyin FC,Kerala Blasters FC,1.0,38.0,7.0,37.0,1,Not from Cross,1,0,0
+Match 37,40:31,Off Target,Josu Currais,Kerala Blasters FC,Chennaiyin FC,4.0,39.0,6.0,7.0,-1,Not from Cross,1,0,0
+Match 37,45:21,Off Target,MacPherlin Omagbemi,Chennaiyin FC,Kerala Blasters FC,2.0,38.0,7.0,27.0,1,Not from Cross,1,0,0
+Match 37,51:3,On Target,Didier Kadio,Kerala Blasters FC,Chennaiyin FC,2.0,31.0,11.0,26.0,-1,Not from Cross,1,0,0
+Match 37,53:17,Off Target,Pratik Chaudhari,Kerala Blasters FC,Chennaiyin FC,2.0,26.0,16.0,27.0,-1,Not from Cross,1,0,0
+Match 37,60:56,On Target,CK Vineeth,Kerala Blasters FC,Chennaiyin FC,3.0,36.0,13.0,51.0,-1,Not from Cross,1,0,0
+Match 37,65:30,Off Target,Didier Kadio,Kerala Blasters FC,Chennaiyin FC,2.0,27.0,22.0,50.0,-1,Not from Cross,1,0,0
+Match 37,66:59,On Target,Didier Kadio,Kerala Blasters FC,Chennaiyin FC,1.0,33.0,7.0,33.0,-1,Not from Cross,1,0,0
+Match 37,67:3,Goal,Didier Kadio,Kerala Blasters FC,Chennaiyin FC,1.0,33.0,7.0,33.0,0,Not from Cross,1,0,0
+Match 37,80:16,On Target,CK Vineeth,Kerala Blasters FC,Chennaiyin FC,3.0,30.0,10.0,29.0,0,Not from Cross,1,0,0
+Match 37,82:38,On Target,MacPherlin Omagbemi,Chennaiyin FC,Kerala Blasters FC,10.0,43.0,17.0,48.0,0,Not from Cross,1,0,0
+Match 37,83:55,Off Target,Zakeer Mundampara,Chennaiyin FC,Kerala Blasters FC,6.0,30.0,30.0,40.0,0,Directly from Cross,0,0,1
+Match 37,85:43,On Target,CK Vineeth,Kerala Blasters FC,Chennaiyin FC,1.0,35.0,9.0,21.0,0,Indirectly from Cross,0,1,0
+Match 37,85:43,Goal,CK Vineeth,Kerala Blasters FC,Chennaiyin FC,1.0,34.0,9.0,23.0,1,Indirectly from Cross,0,1,0
+Match 37,89:19,On Target,CK Vineeth,Kerala Blasters FC,Chennaiyin FC,1.0,29.0,21.0,20.0,1,Not from Cross,1,0,0
+Match 37,89:19,Goal,CK Vineeth,Kerala Blasters FC,Chennaiyin FC,1.0,30.0,22.0,20.0,2,Not from Cross,1,0,0
+Match 37,92:0,On Target,Jayesh Rane,Chennaiyin FC,Kerala Blasters FC,8.0,37.0,30.0,27.0,-2,Not from Cross,1,0,0
+Match 38,4:56,Off Target,Borja Fernández,Atlético de Kolkata,Delhi Dynamos FC,0.49,31.57,24.66,30.1,0,Not from Cross,1,0,0
+Match 38,17:34,On Target,Iain Hume,Atlético de Kolkata,Delhi Dynamos FC,1.47,30.59,20.76,28.64,0,Not from Cross,1,0,0
+Match 38,17:34,Goal,Iain Hume,Atlético de Kolkata,Delhi Dynamos FC,0.73,30.1,20.76,29.37,1,Not from Cross,1,0,0
+Match 38,24:19,Off Target,Ibrahima Niasse,Delhi Dynamos FC,Atlético de Kolkata,5.37,31.82,10.26,33.78,-1,Not from Cross,1,0,0
+Match 38,24:52,On Target,Sameehg Doutie,Atlético de Kolkata,Delhi Dynamos FC,2.93,32.31,13.92,31.57,1,Not from Cross,1,0,0
+Match 38,31:27,Off Target,Hélder Postiga,Atlético de Kolkata,Delhi Dynamos FC,1.22,37.2,12.21,21.54,1,Not from Cross,1,0,0
+Match 38,34:20,Off Target,Hélder Postiga,Atlético de Kolkata,Delhi Dynamos FC,1.95,37.69,6.84,37.45,1,Indirectly from Cross,0,1,0
+Match 38,46:0,Off Target,Florent Malouda,Delhi Dynamos FC,Atlético de Kolkata,4.4,33.29,31.26,45.77,-1,Not from Cross,1,0,0
+Match 38,59:10,Off Target,David Addy,Delhi Dynamos FC,Atlético de Kolkata,0.98,37.69,31.5,23.99,-1,Not from Cross,1,0,0
+Match 38,61:37,On Target,Florent Malouda,Delhi Dynamos FC,Atlético de Kolkata,2.69,30.59,12.7,32.55,-1,Not from Cross,1,0,0
+Match 38,62:24,On Target,Javier Grande,Atlético de Kolkata,Delhi Dynamos FC,6.1,37.2,26.37,30.1,1,Not from Cross,1,0,0
+Match 38,63:21,On Target,Milan Singh,Delhi Dynamos FC,Atlético de Kolkata,0.98,32.31,25.64,25.94,-1,Not from Cross,1,0,0
+Match 38,63:21,Goal,Milan Singh,Delhi Dynamos FC,Atlético de Kolkata,1.22,32.55,24.66,26.68,0,Not from Cross,1,0,0
+Match 38,71:47,On Target,Javier Grande,Atlético de Kolkata,Delhi Dynamos FC,4.64,39.16,31.01,42.34,0,Not from Cross,1,0,0
+Match 38,72:2,Goal,Javier Grande,Atlético de Kolkata,Delhi Dynamos FC,4.64,39.16,31.01,42.34,1,Not from Cross,1,0,0
+Match 38,73:8,Off Target,Marcelo Pereira,Delhi Dynamos FC,Atlético de Kolkata,2.69,25.45,48.35,44.79,-1,Not from Cross,1,0,0
+Match 38,74:15,On Target,Florent Malouda,Delhi Dynamos FC,Atlético de Kolkata,0.98,30.1,12.94,35.98,-1,Not from Cross,1,0,0
+Match 38,74:15,Goal,Florent Malouda,Delhi Dynamos FC,Atlético de Kolkata,2.2,30.35,12.45,36.22,0,Not from Cross,1,0,0
+Match 38,75:29,Off Target,Hélder Postiga,Atlético de Kolkata,Delhi Dynamos FC,4.88,42.59,24.17,29.62,0,Not from Cross,1,0,0
+Match 38,78:40,Off Target,Kean Lewis,Delhi Dynamos FC,Atlético de Kolkata,2.44,25.94,23.93,39.65,0,Not from Cross,1,0,0
+Match 38,79:46,Off Target,Lalrindika Ralte,Atlético de Kolkata,Delhi Dynamos FC,5.37,44.06,12.45,44.55,0,Not from Cross,1,0,0
+Match 38,82:4,Off Target,Robert L'hlamuana,Atlético de Kolkata,Delhi Dynamos FC,5.62,29.86,31.01,39.65,0,Not from Cross,1,0,0
+Match 38,93:0,Off Target,José Arroyo,Atlético de Kolkata,Delhi Dynamos FC,2.69,33.78,12.21,33.78,0,Not from Cross,1,0,0
+Match 39,9:40,On Target,Davide Succi,Chennaiyin FC,FC Pune City,6.59,35.24,12.7,29.86,0,Not from Cross,1,0,0
+Match 39,21:45,Off Target,Raphael Augusto,Chennaiyin FC,FC Pune City,4.64,31.82,28.57,36.47,0,Not from Cross,1,0,0
+Match 39,24:57,Off Target,Davide Succi,Chennaiyin FC,FC Pune City,5.86,44.3,27.59,23.99,0,Not from Cross,1,0,0
+Match 39,26:44,Off Target,Anibal Rodriguez,FC Pune City,Chennaiyin FC,2.2,39.41,28.08,40.38,0,Not from Cross,1,0,0
+Match 39,31:23,Off Target,Lenny Rodrigues,FC Pune City,Chennaiyin FC,2.44,40.38,22.22,18.36,0,Not from Cross,1,0,0
+Match 39,43:33,On Target,Davide Succi,Chennaiyin FC,FC Pune City,7.81,37.69,15.63,36.22,0,Indirectly from Cross,0,1,0
+Match 39,44:33,On Target,Jeje Lalpekhlua,Chennaiyin FC,FC Pune City,5.37,40.14,10.99,35.98,0,Indirectly from Cross,0,1,0
+Match 39,44:33,Goal,Jeje Lalpekhlua,Chennaiyin FC,FC Pune City,5.62,39.9,11.48,35.98,1,Indirectly from Cross,0,1,0
+Match 39,48:40,On Target,Jonatan Lucca,FC Pune City,Chennaiyin FC,7.08,40.14,24.66,57.52,-1,Not from Cross,1,0,0
+Match 39,49:59,On Target,Jonatan Lucca,FC Pune City,Chennaiyin FC,5.62,39.41,29.06,44.06,-1,Indirectly from Cross,0,1,0
+Match 39,51:33,On Target,Davide Succi,Chennaiyin FC,FC Pune City,2.93,35.24,10.74,31.33,1,Indirectly from Cross,0,1,0
+Match 39,51:33,Goal,Davide Succi,Chennaiyin FC,FC Pune City,2.93,35.49,10.01,32.55,2,Indirectly from Cross,0,1,0
+Match 39,55:38,Off Target,Narayan Das,FC Pune City,Chennaiyin FC,4.88,42.1,10.99,54.34,-2,Not from Cross,1,0,0
+Match 39,75:52,Off Target,Hans Mulder,Chennaiyin FC,FC Pune City,2.2,35.73,27.59,42.1,2,Not from Cross,1,0,0
+Match 39,84:22,Off Target,Dramane Traore,FC Pune City,Chennaiyin FC,5.62,44.3,12.45,39.16,-2,Not from Cross,1,0,0
+Match 40,4:53,On Target,Sunil Chhetri,Mumbai City FC,FC Goa,6.35,34.02,25.88,29.37,0,Not from Cross,1,0,0
+Match 40,6:30,On Target,Diego Forlán,Mumbai City FC,FC Goa,7.08,38.43,30.28,61.92,0,Not from Cross,1,0,0
+Match 40,22:37,Off Target,Romeo Fernandes,FC Goa,Mumbai City FC,2.69,26.92,6.84,21.78,0,Not from Cross,1,0,0
+Match 40,27:38,On Target,Diego Forlán,Mumbai City FC,FC Goa,6.84,37.45,17.34,29.86,0,Not from Cross,1,0,0
+Match 40,33:59,Off Target,R'harlyson Felisbino,FC Goa,Mumbai City FC,2.44,37.45,23.2,12.73,0,Not from Cross,1,0,0
+Match 40,37:27,Off Target,Sony Norde,Mumbai City FC,FC Goa,5.62,30.1,27.35,48.46,0,Not from Cross,1,0,0
+Match 40,38:28,On Target,Diego Forlán,Mumbai City FC,FC Goa,5.37,37.45,29.79,47.24,0,Not from Cross,1,0,0
+Match 40,51:49,On Target,Romeo Fernandes,FC Goa,Mumbai City FC,6.84,41.12,10.01,43.08,0,Not from Cross,1,0,0
+Match 40,56:3,Off Target,Gerson Vieira,Mumbai City FC,FC Goa,2.44,35.0,6.35,32.8,0,Not from Cross,1,0,0
+Match 40,62:43,On Target,Sunil Chhetri,Mumbai City FC,FC Goa,8.3,28.15,15.14,21.54,0,Not from Cross,1,0,0
+Match 40,64:48,Off Target,Sony Norde,Mumbai City FC,FC Goa,2.44,26.19,23.69,35.0,0,Not from Cross,1,0,0
+Match 40,65:50,On Target,Diego Forlán,Mumbai City FC,FC Goa,3.17,30.59,8.55,36.71,0,Not from Cross,1,0,0
+Match 40,74:35,Off Target,Krisztián Vadócz,Mumbai City FC,FC Goa,1.95,19.83,25.15,27.9,0,Not from Cross,1,0,0
+Match 40,78:48,Off Target,Robin Singh,FC Goa,Mumbai City FC,5.62,44.55,9.52,42.59,0,Not from Cross,1,0,0
+Match 40,79:50,Off Target,Diego Forlán,Mumbai City FC,FC Goa,1.71,32.31,25.88,31.33,0,Not from Cross,1,0,0
+Match 40,80:43,On Target,Diego Forlán,Mumbai City FC,FC Goa,2.44,30.84,23.69,27.66,0,Not from Cross,1,0,0
+Match 40,82:31,Off Target,Otacilio Alves,Mumbai City FC,FC Goa,2.44,24.97,15.38,41.12,0,Not from Cross,1,0,0
+Match 40,83:54,On Target,Sunil Chhetri,Mumbai City FC,FC Goa,2.44,30.59,18.31,33.78,0,Not from Cross,1,0,0
+Match 40,85:19,Off Target,Trindade Goncalves,FC Goa,Mumbai City FC,5.13,25.45,26.86,31.33,0,Not from Cross,1,0,0
+Match 40,91:0,On Target,Julio Cesar,FC Goa,Mumbai City FC,17.83,41.61,26.13,48.22,0,Not from Cross,1,0,0
+Match 40,91:0,Off Target,Julio Cesar,FC Goa,Mumbai City FC,5.62,43.57,20.51,44.79,0,Not from Cross,1,0,0
+Match 40,92:0,Off Target,Otacilio Alves,Mumbai City FC,FC Goa,2.69,35.0,21.98,40.63,0,Not from Cross,1,0,0
+Match 40,92:0,On Target,Julio Cesar,FC Goa,Mumbai City FC,9.03,37.2,13.92,35.0,0,Not from Cross,1,0,0
+Match 41,5:27,On Target,Nicolas Velez,NorthEast United FC,Atlético de Kolkata,0.73,30.59,5.62,35.24,0,Not from Cross,1,0,0
+Match 41,5:27,Goal,Nicolas Velez,NorthEast United FC,Atlético de Kolkata,0.49,29.62,5.86,35.0,1,Not from Cross,1,0,0
+Match 41,25:59,On Target,Lalrindika Ralte,Atlético de Kolkata,NorthEast United FC,7.57,41.12,20.27,50.17,-1,Not from Cross,1,0,0
+Match 41,27:58,Off Target,Hélder Postiga,Atlético de Kolkata,NorthEast United FC,4.4,32.55,17.58,28.88,-1,Directly from Cross,0,0,1
+Match 41,36:24,On Target,Henrique Sereno,Atlético de Kolkata,NorthEast United FC,6.84,35.0,17.83,34.51,-1,Not from Cross,1,0,0
+Match 41,39:51,On Target,Stephen Pearson,Atlético de Kolkata,NorthEast United FC,9.03,35.73,19.78,38.18,-1,Not from Cross,1,0,0
+Match 41,53:29,On Target,Javier Grande,Atlético de Kolkata,NorthEast United FC,2.2,30.84,3.17,62.41,-1,Not from Cross,1,0,0
+Match 41,65:24,Off Target,Nicolas Velez,NorthEast United FC,Atlético de Kolkata,5.62,28.88,19.29,46.99,1,Not from Cross,1,0,0
+Match 41,66:46,Off Target,Borja Fernández,Atlético de Kolkata,NorthEast United FC,1.95,38.43,31.01,39.41,-1,Not from Cross,1,0,0
+Match 41,72:30,On Target,Emiliano Alfaro,NorthEast United FC,Atlético de Kolkata,5.62,38.18,14.41,39.16,1,Not from Cross,1,0,0
+Match 41,77:35,On Target,Javier Grande,Atlético de Kolkata,NorthEast United FC,3.66,33.78,23.44,37.69,-1,Not from Cross,1,0,0
+Match 41,82:23,On Target,Emiliano Alfaro,NorthEast United FC,Atlético de Kolkata,5.37,39.41,11.23,35.0,1,Not from Cross,1,0,0
+Match 41,90:46,On Target,Iain Hume,Atlético de Kolkata,NorthEast United FC,1.95,30.1,5.37,29.37,-1,Indirectly from Cross,0,1,0
+Match 41,90:46,Goal,Iain Hume,Atlético de Kolkata,NorthEast United FC,0.98,30.35,4.88,28.64,0,Indirectly from Cross,0,1,0
+Match 42,3:53,On Target,Eduardo Ferreira,FC Pune City,Delhi Dynamos FC,5.86,35.24,12.94,32.06,0,Not from Cross,1,0,0
+Match 42,14:51,On Target,Florent Malouda,Delhi Dynamos FC,FC Pune City,10.74,37.2,14.16,37.94,0,Not from Cross,1,0,0
+Match 42,16:4,Off Target,Marcelo Pereira,Delhi Dynamos FC,FC Pune City,2.44,20.56,24.91,25.94,0,Not from Cross,1,0,0
+Match 42,19:55,Off Target,Florent Malouda,Delhi Dynamos FC,FC Pune City,2.2,35.73,24.17,36.47,0,Not from Cross,1,0,0
+Match 42,20:40,On Target,Momar Ndoye,FC Pune City,Delhi Dynamos FC,6.59,42.83,10.99,52.13,0,Not from Cross,1,0,0
+Match 42,25:48,On Target,Mohamed Sissoko,FC Pune City,Delhi Dynamos FC,5.86,35.24,18.8,37.2,0,Not from Cross,1,0,0
+Match 42,28:10,Off Target,Momar Ndoye,FC Pune City,Delhi Dynamos FC,6.84,42.1,11.72,48.95,0,Not from Cross,1,0,0
+Match 42,29:30,Off Target,Emerson Moura,Delhi Dynamos FC,FC Pune City,2.44,39.41,10.5,26.43,0,Not from Cross,1,0,0
+Match 42,32:38,Off Target,Marcelo Pereira,Delhi Dynamos FC,FC Pune City,2.69,20.07,9.52,21.78,0,Directly from Cross,0,0,1
+Match 42,40:25,On Target,Jonatan Lucca,FC Pune City,Delhi Dynamos FC,6.1,39.41,28.33,62.9,0,Not from Cross,1,0,0
+Match 42,44:2,On Target,Kean Lewis,Delhi Dynamos FC,FC Pune City,2.44,35.24,8.3,31.82,0,Not from Cross,1,0,0
+Match 42,44:2,Goal,Kean Lewis,Delhi Dynamos FC,FC Pune City,2.44,35.49,9.28,30.59,1,Not from Cross,1,0,0
+Match 42,45:0,On Target,Momar Ndoye,FC Pune City,Delhi Dynamos FC,9.28,35.0,12.45,35.98,-1,Directly from Cross,0,0,1
+Match 42,51:18,Off Target,Anibal Rodriguez,FC Pune City,Delhi Dynamos FC,2.44,8.08,26.86,45.03,-1,Not from Cross,1,0,0
+Match 42,51:47,On Target,Anibal Rodriguez,FC Pune City,Delhi Dynamos FC,3.17,29.86,11.23,22.76,-1,Not from Cross,1,0,0
+Match 42,55:9,On Target,Anibal Rodriguez,FC Pune City,Delhi Dynamos FC,2.69,35.0,8.79,33.53,-1,Not from Cross,1,0,0
+Match 42,55:9,Goal,Anibal Rodriguez,FC Pune City,Delhi Dynamos FC,2.44,35.49,8.55,33.29,0,Not from Cross,1,0,0
+Match 42,57:40,Off Target,Jonatan Lucca,FC Pune City,Delhi Dynamos FC,2.44,32.31,23.93,39.16,0,Not from Cross,1,0,0
+Match 42,62:37,On Target,Mohamed Sissoko,FC Pune City,Delhi Dynamos FC,2.44,34.76,6.35,32.8,0,Indirectly from Cross,0,1,0
+Match 42,62:37,Goal,Mohamed Sissoko,FC Pune City,Delhi Dynamos FC,2.69,34.51,5.86,32.06,1,Indirectly from Cross,0,1,0
+Match 42,63:57,On Target,Anibal Rodriguez,FC Pune City,Delhi Dynamos FC,2.44,35.24,24.91,35.98,1,Not from Cross,1,0,0
+Match 42,63:57,Goal,Anibal Rodriguez,FC Pune City,Delhi Dynamos FC,2.44,35.0,24.42,36.71,2,Not from Cross,1,0,0
+Match 42,67:27,On Target,Kean Lewis,Delhi Dynamos FC,FC Pune City,7.81,35.24,25.88,27.66,-2,Not from Cross,1,0,0
+Match 42,68:30,Off Target,Marcelo Pereira,Delhi Dynamos FC,FC Pune City,6.1,43.81,16.6,27.66,-2,Not from Cross,1,0,0
+Match 42,72:24,On Target,Rubén Rocha,Delhi Dynamos FC,FC Pune City,7.81,41.85,13.67,48.46,-2,Not from Cross,1,0,0
+Match 42,77:50,On Target,Bruno Pelissari,Delhi Dynamos FC,FC Pune City,7.08,40.87,26.86,56.29,-2,Not from Cross,1,0,0
+Match 42,78:10,On Target,Florent Malouda,Delhi Dynamos FC,FC Pune City,6.84,40.63,16.12,45.52,-2,Not from Cross,1,0,0
+Match 42,82:20,On Target,Lenny Rodrigues,FC Pune City,Delhi Dynamos FC,3.17,29.86,11.23,22.03,1,Not from Cross,1,0,0
+Match 42,88:42,Off Target,Florent Malouda,Delhi Dynamos FC,FC Pune City,5.13,43.08,15.38,48.46,-1,Not from Cross,1,0,0
+Match 42,91:0,Off Target,Sanju Pradhan,FC Pune City,Delhi Dynamos FC,2.93,35.49,21.98,9.3,1,Directly from Cross,0,0,1
+Match 42,92:0,On Target,Lenny Rodrigues,FC Pune City,Delhi Dynamos FC,2.2,29.86,8.79,34.27,1,Not from Cross,1,0,0
+Match 42,92:0,Goal,Lenny Rodrigues,FC Pune City,Delhi Dynamos FC,2.2,29.86,8.06,37.2,2,Not from Cross,1,0,0
+Match 42,93:0,On Target,Florent Malouda,Delhi Dynamos FC,FC Pune City,7.08,40.87,15.38,52.87,-2,Directly from Cross,0,0,1
+Match 42,94:0,On Target,M'wmzuala,Delhi Dynamos FC,FC Pune City,5.37,35.0,11.97,41.85,-2,Not from Cross,1,0,0
+Match 42,94:0,Goal,M'wmzuala,Delhi Dynamos FC,FC Pune City,5.37,35.0,11.48,43.81,-1,Not from Cross,1,0,0
+Match 42,96:0,Off Target,Bruno Pelissari,Delhi Dynamos FC,FC Pune City,4.88,43.08,26.13,57.03,-1,Not from Cross,1,0,0
+Match 43,2:11,Off Target,Didier Kadio,Kerala Blasters FC,Mumbai City FC,2.93,24.97,21.0,23.25,0,Not from Cross,1,0,0
+Match 43,5:37,On Target,Diego Forlán,Mumbai City FC,Kerala Blasters FC,5.62,39.65,13.92,30.35,0,Not from Cross,1,0,0
+Match 43,5:37,Goal,Diego Forlán,Mumbai City FC,Kerala Blasters FC,5.62,39.65,13.92,30.35,1,Not from Cross,1,0,0
+Match 43,12:50,On Target,Diego Forlán,Mumbai City FC,Kerala Blasters FC,5.62,35.24,31.5,53.11,1,Not from Cross,1,0,0
+Match 43,14:6,On Target,Sunil Chhetri,Mumbai City FC,Kerala Blasters FC,5.62,34.76,8.3,32.55,1,Not from Cross,1,0,0
+Match 43,14:45,On Target,Diego Forlán,Mumbai City FC,Kerala Blasters FC,5.13,39.9,29.79,58.01,1,Not from Cross,1,0,0
+Match 43,14:46,Goal,Diego Forlán,Mumbai City FC,Kerala Blasters FC,5.13,40.14,29.55,57.27,2,Not from Cross,1,0,0
+Match 43,30:48,On Target,Diego Forlán,Mumbai City FC,Kerala Blasters FC,6.1,40.87,26.37,55.56,2,Not from Cross,1,0,0
+Match 43,40:8,Off Target,Didier Kadio,Kerala Blasters FC,Mumbai City FC,2.69,34.51,22.71,41.12,-2,Not from Cross,1,0,0
+Match 43,41:12,Off Target,Sehnaj Singh,Mumbai City FC,Kerala Blasters FC,4.64,31.08,31.74,21.05,2,Not from Cross,1,0,0
+Match 43,42:44,Off Target,Antonio German,Kerala Blasters FC,Mumbai City FC,2.69,26.68,17.58,22.27,-2,Not from Cross,1,0,0
+Match 43,49:25,Off Target,T'gkoisiem Haokip,Kerala Blasters FC,Mumbai City FC,5.13,44.79,16.6,24.72,-2,Not from Cross,1,0,0
+Match 43,51:59,Off Target,Diego Forlán,Mumbai City FC,Kerala Blasters FC,2.69,38.92,25.64,26.68,2,Not from Cross,1,0,0
+Match 43,57:56,On Target,Matías Defederico,Mumbai City FC,Kerala Blasters FC,5.13,30.1,9.52,25.7,2,Not from Cross,1,0,0
+Match 43,58:1,Off Target,Krisztián Vadócz,Mumbai City FC,Kerala Blasters FC,2.44,38.43,20.51,36.71,2,Not from Cross,1,0,0
+Match 43,62:28,On Target,CK Vineeth,Kerala Blasters FC,Mumbai City FC,6.59,34.76,14.9,28.64,-2,Not from Cross,1,0,0
+Match 43,63:6,On Target,Diego Forlán,Mumbai City FC,Kerala Blasters FC,1.95,30.1,9.03,34.27,2,Not from Cross,1,0,0
+Match 43,63:6,Goal,Diego Forlán,Mumbai City FC,Kerala Blasters FC,2.2,31.08,8.79,35.24,3,Not from Cross,1,0,0
+Match 43,69:25,On Target,Otacilio Alves,Mumbai City FC,Kerala Blasters FC,2.69,29.86,23.44,38.92,3,Not from Cross,1,0,0
+Match 43,69:25,Goal,Otacilio Alves,Mumbai City FC,Kerala Blasters FC,2.69,30.35,24.42,37.94,4,Not from Cross,1,0,0
+Match 43,73:39,On Target,Lucian Goian,Mumbai City FC,Kerala Blasters FC,2.2,33.04,8.3,34.02,4,Not from Cross,1,0,0
+Match 43,73:39,Goal,Lucian Goian,Mumbai City FC,Kerala Blasters FC,2.69,33.04,8.55,33.04,5,Not from Cross,1,0,0
+Match 43,80:19,On Target,Sunil Chhetri,Mumbai City FC,Kerala Blasters FC,3.91,36.96,9.52,39.65,5,Not from Cross,1,0,0
+Match 43,91:0,On Target,Josu Currais,Kerala Blasters FC,Mumbai City FC,6.35,35.24,29.55,35.0,-5,Not from Cross,1,0,0
+Match 44,2:40,On Target,Javier Grande,Atlético de Kolkata,Chennaiyin FC,10.74,29.37,23.93,18.85,0,Not from Cross,1,0,0
+Match 44,3:39,Off Target,Hélder Postiga,Atlético de Kolkata,Chennaiyin FC,2.69,37.2,9.77,28.88,0,Not from Cross,1,0,0
+Match 44,5:22,Off Target,Juan Belencoso,Atlético de Kolkata,Chennaiyin FC,2.69,24.97,8.55,30.1,0,Not from Cross,1,0,0
+Match 44,5:33,Off Target,Jeje Lalpekhlua,Chennaiyin FC,Atlético de Kolkata,5.13,46.99,27.1,45.03,0,Not from Cross,1,0,0
+Match 44,8:16,Off Target,Zakeer Mundampara,Chennaiyin FC,Atlético de Kolkata,5.37,30.59,32.48,36.22,0,Not from Cross,1,0,0
+Match 44,10:6,Off Target,Stephen Pearson,Atlético de Kolkata,Chennaiyin FC,2.44,35.73,9.77,33.29,0,Not from Cross,1,0,0
+Match 44,10:55,On Target,Hans Mulder,Chennaiyin FC,Atlético de Kolkata,6.59,37.2,19.05,37.2,0,Not from Cross,1,0,0
+Match 44,27:55,Off Target,Raphael Augusto,Chennaiyin FC,Atlético de Kolkata,5.13,33.78,34.67,23.99,0,Not from Cross,1,0,0
+Match 44,39:56,On Target,Hélder Postiga,Atlético de Kolkata,Chennaiyin FC,2.2,35.73,8.55,31.82,0,Indirectly from Cross,0,1,0
+Match 44,39:56,Goal,Hélder Postiga,Atlético de Kolkata,Chennaiyin FC,2.69,35.24,8.06,32.55,1,Indirectly from Cross,0,1,0
+Match 44,42:17,On Target,Bernard Mendy,Chennaiyin FC,Atlético de Kolkata,8.3,38.67,25.4,47.48,-1,Indirectly from Cross,0,1,0
+Match 44,46:0,Off Target,Javier Grande,Atlético de Kolkata,Chennaiyin FC,2.93,36.22,26.86,54.58,1,Not from Cross,1,0,0
+Match 44,47:52,Off Target,Zakeer Mundampara,Chennaiyin FC,Atlético de Kolkata,3.17,26.19,26.62,27.17,-1,Not from Cross,1,0,0
+Match 44,51:53,Off Target,Bernard Mendy,Chennaiyin FC,Atlético de Kolkata,2.2,38.67,10.5,48.71,-1,Not from Cross,1,0,0
+Match 44,55:29,Off Target,Borja Fernández,Atlético de Kolkata,Chennaiyin FC,4.88,36.96,10.74,34.51,1,Not from Cross,1,0,0
+Match 44,56:16,Off Target,Davide Succi,Chennaiyin FC,Atlético de Kolkata,4.64,64.13,6.35,20.8,-1,Not from Cross,1,0,0
+Match 44,66:57,Off Target,Bernard Mendy,Chennaiyin FC,Atlético de Kolkata,2.93,32.8,8.3,34.02,-1,Directly from Cross,0,0,1
+Match 44,70:9,On Target,Daniel L'hlimpuia,Chennaiyin FC,Atlético de Kolkata,10.74,34.02,17.58,41.36,-1,Not from Cross,1,0,0
+Match 44,71:35,Off Target,Davide Succi,Chennaiyin FC,Atlético de Kolkata,3.17,26.68,6.59,25.45,-1,Not from Cross,1,0,0
+Match 44,73:50,Off Target,Raphael Augusto,Chennaiyin FC,Atlético de Kolkata,2.69,38.67,24.42,36.71,-1,Not from Cross,1,0,0
+Match 44,77:41,On Target,Davide Succi,Chennaiyin FC,Atlético de Kolkata,2.69,35.49,8.06,32.06,-1,Directly from Cross,0,0,1
+Match 44,77:41,Goal,Davide Succi,Chennaiyin FC,Atlético de Kolkata,2.93,35.0,8.06,32.55,0,Directly from Cross,0,0,1
+Match 44,81:21,Off Target,Javier Grande,Atlético de Kolkata,Chennaiyin FC,5.37,40.14,28.81,45.52,0,Not from Cross,1,0,0
+Match 44,82:43,Off Target,Raphael Augusto,Chennaiyin FC,Atlético de Kolkata,3.66,27.17,24.91,28.64,0,Not from Cross,1,0,0
+Match 44,88:20,Off Target,Manuele Blasi,Chennaiyin FC,Atlético de Kolkata,2.93,25.7,22.95,43.32,0,Not from Cross,1,0,0
+Match 44,90:13,Off Target,Davide Succi,Chennaiyin FC,Atlético de Kolkata,2.44,35.49,20.51,35.49,0,Not from Cross,1,0,0
+Match 44,91:0,Off Target,Zakeer Mundampara,Chennaiyin FC,Atlético de Kolkata,2.44,41.61,23.93,30.35,0,Not from Cross,1,0,0
+Match 45,11:40,Off Target,Emiliano Alfaro,NorthEast United FC,FC Pune City,2.2,38.43,21.0,42.1,0,Not from Cross,1,0,0
+Match 45,12:15,Off Target,Koffi N'dri,NorthEast United FC,FC Pune City,2.2,37.45,8.79,31.82,0,Not from Cross,1,0,0
+Match 45,18:15,Off Target,Anibal Rodriguez,FC Pune City,NorthEast United FC,5.37,44.79,42.49,55.8,0,Not from Cross,1,0,0
+Match 45,19:22,Off Target,Koffi N'dri,NorthEast United FC,FC Pune City,2.2,32.8,21.49,35.0,0,Indirectly from Cross,0,1,0
+Match 45,20:43,On Target,Katsumi Yusa,NorthEast United FC,FC Pune City,4.15,36.96,13.43,55.8,0,Not from Cross,1,0,0
+Match 45,21:17,Off Target,Jonatan Lucca,FC Pune City,NorthEast United FC,5.86,43.81,20.27,30.1,0,Not from Cross,1,0,0
+Match 45,44:25,On Target,Gustavo Oberman,FC Pune City,NorthEast United FC,6.84,40.14,20.02,52.62,0,Not from Cross,1,0,0
+Match 45,59:59,Off Target,Mohamed Sissoko,FC Pune City,NorthEast United FC,2.44,39.9,23.2,36.71,0,Indirectly from Cross,0,1,0
+Match 45,65:57,On Target,Katsumi Yusa,NorthEast United FC,FC Pune City,7.81,34.76,23.93,25.7,0,Indirectly from Cross,0,1,0
+Match 45,69:43,Off Target,Salam Singh,NorthEast United FC,FC Pune City,5.86,30.59,26.86,27.66,0,Not from Cross,1,0,0
+Match 45,70:39,Off Target,Lenny Rodrigues,FC Pune City,NorthEast United FC,2.69,36.96,24.42,19.09,0,Not from Cross,1,0,0
+Match 45,77:27,On Target,Koffi N'dri,NorthEast United FC,FC Pune City,6.1,37.45,14.16,38.43,0,Not from Cross,1,0,0
+Match 45,78:6,On Target,Pitu,FC Pune City,NorthEast United FC,3.17,35.0,9.03,38.92,0,Indirectly from Cross,0,1,0
+Match 45,79:4,Off Target,Gustavo Oberman,FC Pune City,NorthEast United FC,2.44,39.16,6.84,49.44,0,Not from Cross,1,0,0
+Match 45,81:59,On Target,Koffi N'dri,NorthEast United FC,FC Pune City,NaN,NaN,29.55,37.45,0,Not from Cross,1,0,0
+Match 45,81:59,Goal,Koffi N'dri,NorthEast United FC,FC Pune City,5.13,39.9,29.06,35.73,1,Not from Cross,1,0,0
+Match 45,92:0,On Target,Pitu,FC Pune City,NorthEast United FC,3.91,29.86,11.72,17.87,-1,Not from Cross,1,0,0
+Match 46,13:34,Off Target,Diego Forlán,Mumbai City FC,Chennaiyin FC,2.0,25.0,21.0,35.0,0,Not from Cross,1,0,0
+Match 46,14:20,On Target,Sunil Chhetri,Mumbai City FC,Chennaiyin FC,4.0,33.0,10.0,26.0,0,Indirectly from Cross,0,1,0
+Match 46,32:15,On Target,Matías Defederico,Mumbai City FC,Chennaiyin FC,2.0,36.0,9.0,31.0,0,Not from Cross,1,0,0
+Match 46,32:15,Goal,Matías Defederico,Mumbai City FC,Chennaiyin FC,3.0,35.0,9.0,30.0,1,Not from Cross,1,0,0
+Match 46,37:58,On Target,Raphael Augusto,Chennaiyin FC,Mumbai City FC,6.0,40.0,26.0,57.0,-1,Not from Cross,1,0,0
+Match 46,39:57,On Target,Davide Succi,Chennaiyin FC,Mumbai City FC,9.0,37.0,16.0,43.0,-1,Indirectly from Cross,0,1,0
+Match 46,40:19,On Target,Otacilio Alves,Mumbai City FC,Chennaiyin FC,11.0,33.0,25.0,35.0,1,Not from Cross,1,0,0
+Match 46,40:36,Off Target,Diego Forlán,Mumbai City FC,Chennaiyin FC,3.0,26.0,21.0,14.0,1,Not from Cross,1,0,0
+Match 46,45:10,On Target,Diego Forlán,Mumbai City FC,Chennaiyin FC,3.0,29.0,24.0,13.0,1,Not from Cross,1,0,0
+Match 46,56:29,Off Target,Eli Sabiá,Chennaiyin FC,Mumbai City FC,3.0,26.0,9.0,29.0,-1,Indirectly from Cross,0,1,0
+Match 46,59:48,Off Target,Raphael Augusto,Chennaiyin FC,Mumbai City FC,3.0,23.0,23.0,37.0,-1,Not from Cross,1,0,0
+Match 46,60:48,Goal,Krisztián Vadócz,Mumbai City FC,Chennaiyin FC,6.0,40.0,26.0,41.0,2,Indirectly from Cross,0,1,0
+Match 46,60:48,On Target,Krisztián Vadócz,Mumbai City FC,Chennaiyin FC,6.0,40.0,25.0,44.0,2,Indirectly from Cross,0,1,0
+Match 46,66:51,Off Target,Raphael Augusto,Chennaiyin FC,Mumbai City FC,0.0,33.0,14.0,34.0,-2,Not from Cross,1,0,0
+Match 46,71:19,On Target,Hans Mulder,Chennaiyin FC,Mumbai City FC,10.0,33.0,24.0,38.0,-2,Not from Cross,1,0,0
+Match 46,80:29,Off Target,Sunil Chhetri,Mumbai City FC,Chennaiyin FC,6.0,32.0,21.0,36.0,2,Not from Cross,1,0,0
+Match 46,80:48,Off Target,Sunil Chhetri,Mumbai City FC,Chennaiyin FC,6.0,44.0,21.0,47.0,2,Not from Cross,1,0,0
+Match 46,81:39,On Target,Davide Succi,Chennaiyin FC,Mumbai City FC,4.0,30.0,24.0,32.0,-2,Indirectly from Cross,0,1,0
+Match 46,85:14,Off Target,Davide Succi,Chennaiyin FC,Mumbai City FC,2.0,39.0,21.0,24.0,-2,Not from Cross,1,0,0
+Match 46,89:30,Off Target,Sehnaj Singh,Mumbai City FC,Chennaiyin FC,5.0,50.0,33.0,26.0,2,Indirectly from Cross,0,1,0
+Match 46,90:12,On Target,Thiago Cunha,Mumbai City FC,Chennaiyin FC,8.0,38.0,19.0,43.0,2,Not from Cross,1,0,0
+Match 47,7:29,On Target,Stephen Pearson,Atlético de Kolkata,FC Goa,10.0,40.0,15.0,45.0,0,Not from Cross,1,0,0
+Match 47,7:31,On Target,Javier Grande,Atlético de Kolkata,FC Goa,6.0,37.0,12.0,33.0,0,Not from Cross,1,0,0
+Match 47,11:48,On Target,Javier Grande,Atlético de Kolkata,FC Goa,6.0,37.0,17.0,24.0,0,Not from Cross,1,0,0
+Match 47,14:30,Off Target,Trindade Goncalves,FC Goa,Atlético de Kolkata,1.0,33.0,31.0,40.0,0,Not from Cross,1,0,0
+Match 47,26:23,Off Target,Rafael Luiz,FC Goa,Atlético de Kolkata,1.0,27.0,13.0,21.0,0,Not from Cross,1,0,0
+Match 47,28:53,On Target,Juan Belencoso,Atlético de Kolkata,FC Goa,5.0,35.0,11.0,34.0,0,Not from Cross,1,0,0
+Match 47,28:53,Goal,Juan Belencoso,Atlético de Kolkata,FC Goa,5.0,35.0,11.0,34.0,1,Not from Cross,1,0,0
+Match 47,31:47,On Target,Stephen Pearson,Atlético de Kolkata,FC Goa,9.0,38.0,16.0,38.0,1,Not from Cross,1,0,0
+Match 47,37:45,Off Target,Romeo Fernandes,FC Goa,Atlético de Kolkata,1.0,27.0,17.0,22.0,-1,Not from Cross,1,0,0
+Match 47,38:43,Off Target,Joffre Gonzalez,FC Goa,Atlético de Kolkata,2.0,38.0,28.0,27.0,-1,Not from Cross,1,0,0
+Match 47,41:17,Off Target,Hélder Postiga,Atlético de Kolkata,FC Goa,5.0,35.0,15.0,40.0,1,Not from Cross,1,0,0
+Match 47,49:48,Off Target,Hélder Postiga,Atlético de Kolkata,FC Goa,1.0,33.0,16.0,18.0,1,Not from Cross,1,0,0
+Match 47,52:0,Off Target,Hélder Postiga,Atlético de Kolkata,FC Goa,1.0,32.0,17.0,28.0,1,Not from Cross,1,0,0
+Match 47,55:48,On Target,Hélder Postiga,Atlético de Kolkata,FC Goa,2.0,30.0,25.0,20.0,1,Not from Cross,1,0,0
+Match 47,62:26,Off Target,Stephen Pearson,Atlético de Kolkata,FC Goa,1.0,27.0,6.0,31.0,1,Not from Cross,1,0,0
+Match 47,66:16,Off Target,Keenan Almeida,FC Goa,Atlético de Kolkata,5.0,47.0,30.0,19.0,-1,Not from Cross,1,0,0
+Match 47,68:18,Off Target,Romeo Fernandes,FC Goa,Atlético de Kolkata,4.0,44.0,27.0,24.0,-1,Not from Cross,1,0,0
+Match 47,70:39,On Target,Robin Singh,FC Goa,Atlético de Kolkata,5.0,36.0,11.0,35.0,-1,Indirectly from Cross,0,1,0
+Match 47,72:12,Off Target,Borja Fernández,Atlético de Kolkata,FC Goa,1.0,25.0,27.0,35.0,1,Not from Cross,1,0,0
+Match 47,73:57,Off Target,Rafael Luiz,FC Goa,Atlético de Kolkata,4.0,41.0,14.0,29.0,-1,Not from Cross,1,0,0
+Match 47,74:56,Off Target,Rafael Luiz,FC Goa,Atlético de Kolkata,3.0,41.0,16.0,29.0,-1,Indirectly from Cross,0,1,0
+Match 47,80:8,On Target,Mandar Dessai,FC Goa,Atlético de Kolkata,4.0,35.0,27.0,50.0,-1,Not from Cross,1,0,0
+Match 47,80:8,Goal,Mandar Dessai,FC Goa,Atlético de Kolkata,4.0,35.0,27.0,50.0,0,Not from Cross,1,0,0
+Match 47,83:22,Off Target,Joffre Gonzalez,FC Goa,Atlético de Kolkata,3.0,37.0,29.0,46.0,0,Not from Cross,1,0,0
+Match 47,85:48,Off Target,Raju Gaikwad,FC Goa,Atlético de Kolkata,2.0,39.0,34.0,16.0,0,Not from Cross,1,0,0
+Match 47,87:21,On Target,Stephen Pearson,Atlético de Kolkata,FC Goa,2.0,35.0,17.0,26.0,0,Directly from Cross,0,0,1
+Match 47,90:22,On Target,Rafael Dumas,FC Goa,Atlético de Kolkata,5.0,38.0,34.0,40.0,0,Not from Cross,1,0,0
+Match 47,91:0,Off Target,Sameehg Doutie,Atlético de Kolkata,FC Goa,2.0,34.0,14.0,23.0,0,Not from Cross,1,0,0
+Match 47,91:0,On Target,Stephen Pearson,Atlético de Kolkata,FC Goa,1.0,32.0,16.0,32.0,0,Directly from Cross,0,0,1
+Match 47,91:0,Goal,Stephen Pearson,Atlético de Kolkata,FC Goa,1.0,32.0,16.0,32.0,1,Directly from Cross,0,0,1
+Match 48,7:5,Off Target,CK Vineeth,Kerala Blasters FC,FC Pune City,6.0,46.0,18.0,40.0,0,Indirectly from Cross,0,1,0
+Match 48,7:38,On Target,Duckens Nazon,Kerala Blasters FC,FC Pune City,5.0,35.0,16.0,44.0,0,Not from Cross,1,0,0
+Match 48,7:38,Goal,Duckens Nazon,Kerala Blasters FC,FC Pune City,6.0,34.0,16.0,46.0,1,Not from Cross,1,0,0
+Match 48,10:25,Off Target,Mohammed Rafi,Kerala Blasters FC,FC Pune City,5.0,29.0,24.0,28.0,1,Not from Cross,1,0,0
+Match 48,18:12,Off Target,Jonatan Lucca,FC Pune City,Kerala Blasters FC,2.0,23.0,31.0,24.0,-1,Indirectly from Cross,0,1,0
+Match 48,25:49,Off Target,Anibal Rodriguez,FC Pune City,Kerala Blasters FC,2.0,41.0,30.0,22.0,-1,Not from Cross,1,0,0
+Match 48,30:1,Off Target,Josu Currais,Kerala Blasters FC,FC Pune City,3.0,41.0,34.0,44.0,1,Not from Cross,1,0,0
+Match 48,32:55,Off Target,CK Vineeth,Kerala Blasters FC,FC Pune City,4.0,46.0,10.0,45.0,1,Indirectly from Cross,0,1,0
+Match 48,34:44,Off Target,Duckens Nazon,Kerala Blasters FC,FC Pune City,5.0,31.0,9.0,26.0,1,Not from Cross,1,0,0
+Match 48,37:26,Off Target,Arata Izumi,FC Pune City,Kerala Blasters FC,0.0,33.0,7.0,32.0,-1,Not from Cross,1,0,0
+Match 48,38:26,On Target,Mohammed Rafi,Kerala Blasters FC,FC Pune City,7.0,32.0,12.0,27.0,1,Not from Cross,1,0,0
+Match 48,41:58,Off Target,Arata Izumi,FC Pune City,Kerala Blasters FC,3.0,40.0,3.0,36.0,-1,Directly from Cross,0,0,1
+Match 48,43:6,On Target,CK Vineeth,Kerala Blasters FC,FC Pune City,13.0,42.0,20.0,47.0,1,Not from Cross,1,0,0
+Match 48,54:41,On Target,Kervens Belfort,Kerala Blasters FC,FC Pune City,5.0,33.0,21.0,33.0,1,Not from Cross,1,0,0
+Match 48,56:44,On Target,Mohammed Rafi,Kerala Blasters FC,FC Pune City,6.0,29.0,13.0,21.0,1,Not from Cross,1,0,0
+Match 48,57:33,On Target,Aaron Hughes,Kerala Blasters FC,FC Pune City,2.0,31.0,5.0,31.0,1,Indirectly from Cross,0,1,0
+Match 48,57:33,Goal,Aaron Hughes,Kerala Blasters FC,FC Pune City,2.0,31.0,5.0,31.0,2,Indirectly from Cross,0,1,0
+Match 48,64:52,Off Target,Josu Currais,Kerala Blasters FC,FC Pune City,2.0,39.0,23.0,40.0,2,Not from Cross,1,0,0
+Match 48,67:3,On Target,Antonio German,Kerala Blasters FC,FC Pune City,3.0,30.0,25.0,34.0,2,Not from Cross,1,0,0
+Match 48,67:57,Off Target,Kervens Belfort,Kerala Blasters FC,FC Pune City,3.0,25.0,10.0,30.0,2,Not from Cross,1,0,0
+Match 48,68:25,Off Target,Pitu,FC Pune City,Kerala Blasters FC,2.0,40.0,24.0,38.0,-2,Not from Cross,1,0,0
+Match 48,71:22,On Target,Antonio German,Kerala Blasters FC,FC Pune City,8.0,28.0,13.0,27.0,2,Not from Cross,1,0,0
+Match 48,74:39,Off Target,Mohamed Sissoko,FC Pune City,Kerala Blasters FC,5.0,29.0,27.0,49.0,-2,Not from Cross,1,0,0
+Match 48,76:46,Off Target,CK Vineeth,Kerala Blasters FC,FC Pune City,3.0,24.0,13.0,27.0,2,Not from Cross,1,0,0
+Match 48,83:31,Off Target,Mohamed Sissoko,FC Pune City,Kerala Blasters FC,5.0,30.0,16.0,33.0,-2,Indirectly from Cross,0,1,0
+Match 48,85:7,On Target,Dramane Traore,FC Pune City,Kerala Blasters FC,8.0,37.0,16.0,34.0,-2,Not from Cross,1,0,0
+Match 48,93:0,Goal,Anibal Rodriguez,FC Pune City,Kerala Blasters FC,5.0,35.0,24.0,41.0,-1,Not from Cross,1,0,0
+Match 48,94:0,On Target,Anibal Rodriguez,FC Pune City,Kerala Blasters FC,5.0,35.0,24.0,41.0,-1,Not from Cross,1,0,0
+Match 49,2:40,Off Target,Hans Mulder,Chennaiyin FC,NorthEast United FC,0.0,24.0,29.0,29.0,0,Not from Cross,1,0,0
+Match 49,5:49,Off Target,Fanai Lalrempuia,NorthEast United FC,Chennaiyin FC,4.0,44.0,30.0,42.0,0,Not from Cross,1,0,0
+Match 49,6:28,Off Target,Davide Succi,Chennaiyin FC,NorthEast United FC,1.0,39.0,17.0,18.0,0,Not from Cross,1,0,0
+Match 49,10:54,Off Target,Seityasen Singh,NorthEast United FC,Chennaiyin FC,3.0,35.0,32.0,38.0,0,Not from Cross,1,0,0
+Match 49,13:29,On Target,John Riise,Chennaiyin FC,NorthEast United FC,2.0,30.0,31.0,37.0,0,Not from Cross,1,0,0
+Match 49,19:54,Off Target,Nicolas Velez,NorthEast United FC,Chennaiyin FC,4.0,30.0,24.0,51.0,0,Not from Cross,1,0,0
+Match 49,22:39,On Target,Koffi N'dri,NorthEast United FC,Chennaiyin FC,6.0,40.0,32.0,28.0,0,Not from Cross,1,0,0
+Match 49,26:23,On Target,Emiliano Alfaro,NorthEast United FC,Chennaiyin FC,4.0,38.0,13.0,38.0,0,Not from Cross,1,0,0
+Match 49,27:2,On Target,Emiliano Alfaro,NorthEast United FC,Chennaiyin FC,6.0,39.0,16.0,41.0,0,Not from Cross,1,0,0
+Match 49,32:13,Off Target,Raphael Augusto,Chennaiyin FC,NorthEast United FC,0.0,38.0,25.0,39.0,0,Not from Cross,1,0,0
+Match 49,34:13,On Target,MacPherlin Omagbemi,Chennaiyin FC,NorthEast United FC,1.0,33.0,3.0,29.0,0,Not from Cross,1,0,0
+Match 49,34:13,Goal,MacPherlin Omagbemi,Chennaiyin FC,NorthEast United FC,1.0,33.0,4.0,29.0,1,Not from Cross,1,0,0
+Match 49,38:32,On Target,Nicolas Velez,NorthEast United FC,Chennaiyin FC,4.0,41.0,20.0,32.0,-1,Not from Cross,1,0,0
+Match 49,38:32,Goal,Nicolas Velez,NorthEast United FC,Chennaiyin FC,4.0,41.0,19.0,33.0,0,Not from Cross,1,0,0
+Match 49,40:49,On Target,Davide Succi,Chennaiyin FC,NorthEast United FC,2.0,32.0,11.0,31.0,0,Directly from Cross,0,0,1
+Match 49,45:0,Off Target,Nicolas Velez,NorthEast United FC,Chennaiyin FC,4.0,24.0,13.0,27.0,0,Directly from Cross,0,0,1
+Match 49,45:0,Goal,MacPherlin Omagbemi,Chennaiyin FC,NorthEast United FC,1.0,32.0,7.0,35.0,1,Directly from Cross,0,0,1
+Match 49,45:0,On Target,MacPherlin Omagbemi,Chennaiyin FC,NorthEast United FC,1.0,33.0,8.0,35.0,1,Directly from Cross,0,0,1
+Match 49,48:55,On Target,Hans Mulder,Chennaiyin FC,NorthEast United FC,6.0,37.0,28.0,52.0,1,Not from Cross,1,0,0
+Match 49,51:50,On Target,Nicolas Velez,NorthEast United FC,Chennaiyin FC,2.0,30.0,27.0,31.0,-1,Indirectly from Cross,0,1,0
+Match 49,51:50,Goal,Nicolas Velez,NorthEast United FC,Chennaiyin FC,1.0,30.0,27.0,34.0,0,Indirectly from Cross,0,1,0
+Match 49,56:10,Off Target,Davide Succi,Chennaiyin FC,NorthEast United FC,3.0,44.0,33.0,36.0,0,Not from Cross,1,0,0
+Match 49,58:21,Off Target,Eli Sabiá,Chennaiyin FC,NorthEast United FC,2.0,39.0,13.0,38.0,0,Not from Cross,1,0,0
+Match 49,70:45,Off Target,Davide Succi,Chennaiyin FC,NorthEast United FC,3.0,38.0,18.0,30.0,0,Not from Cross,1,0,0
+Match 49,81:32,On Target,MacPherlin Omagbemi,Chennaiyin FC,NorthEast United FC,3.0,38.0,11.0,34.0,0,Not from Cross,1,0,0
+Match 49,81:32,Goal,MacPherlin Omagbemi,Chennaiyin FC,NorthEast United FC,4.0,38.0,11.0,34.0,1,Not from Cross,1,0,0
+Match 49,83:24,Off Target,Bernard Mendy,Chennaiyin FC,NorthEast United FC,4.0,29.0,58.0,11.0,1,Not from Cross,1,0,0
+Match 49,95:0,On Target,Nicolas Velez,NorthEast United FC,Chennaiyin FC,3.0,34.0,12.0,44.0,-1,Directly from Cross,0,0,1
+Match 49,95:0,On Target,Shouvik Ghosh,NorthEast United FC,Chennaiyin FC,1.0,33.0,8.0,31.0,-1,Directly from Cross,0,0,1
+Match 49,95:0,Goal,Shouvik Ghosh,NorthEast United FC,Chennaiyin FC,1.0,32.0,8.0,31.0,0,Directly from Cross,0,0,1
+Match 50,8:22,On Target,Richard Gadze,Delhi Dynamos FC,FC Goa,10.0,38.0,12.0,40.0,0,Not from Cross,1,0,0
+Match 50,9:41,Off Target,Marcelo Pereira,Delhi Dynamos FC,FC Goa,4.0,31.0,10.0,30.0,0,Not from Cross,1,0,0
+Match 50,16:55,Off Target,Florent Malouda,Delhi Dynamos FC,FC Goa,3.0,38.0,34.0,38.0,0,Not from Cross,1,0,0
+Match 50,20:34,On Target,Marcelo Pereira,Delhi Dynamos FC,FC Goa,6.0,39.0,32.0,48.0,0,Not from Cross,1,0,0
+Match 50,21:39,Off Target,Sahil Tavora,FC Goa,Delhi Dynamos FC,1.0,28.0,22.0,25.0,0,Not from Cross,1,0,0
+Match 50,31:40,On Target,Julio Cesar,FC Goa,Delhi Dynamos FC,3.0,35.0,5.0,41.0,0,Not from Cross,1,0,0
+Match 50,31:45,On Target,Fulganco Cardozo,FC Goa,Delhi Dynamos FC,1.0,34.0,5.0,36.0,0,Not from Cross,1,0,0
+Match 50,31:45,Goal,Fulganco Cardozo,FC Goa,Delhi Dynamos FC,1.0,34.0,5.0,36.0,1,Not from Cross,1,0,0
+Match 50,33:8,On Target,Richard Gadze,Delhi Dynamos FC,FC Goa,6.0,41.0,31.0,38.0,-1,Not from Cross,1,0,0
+Match 50,33:45,On Target,Marcelo Pereira,Delhi Dynamos FC,FC Goa,6.0,38.0,32.0,31.0,-1,Not from Cross,1,0,0
+Match 50,35:9,On Target,Marcelo Pereira,Delhi Dynamos FC,FC Goa,11.0,37.0,14.0,39.0,-1,Not from Cross,1,0,0
+Match 50,38:7,On Target,Marcelo Pereira,Delhi Dynamos FC,FC Goa,5.0,38.0,11.0,46.0,-1,Not from Cross,1,0,0
+Match 50,38:7,Goal,Marcelo Pereira,Delhi Dynamos FC,FC Goa,5.0,38.0,11.0,46.0,0,Not from Cross,1,0,0
+Match 50,45:0,On Target,Kean Lewis,Delhi Dynamos FC,FC Goa,11.0,40.0,21.0,43.0,0,Directly from Cross,0,0,1
+Match 50,48:53,On Target,Marcelo Pereira,Delhi Dynamos FC,FC Goa,2.0,34.0,24.0,25.0,0,Not from Cross,1,0,0
+Match 50,49:2,Goal,Marcelo Pereira,Delhi Dynamos FC,FC Goa,2.0,34.0,24.0,25.0,1,Not from Cross,1,0,0
+Match 50,51:51,On Target,Richard Gadze,Delhi Dynamos FC,FC Goa,2.0,35.0,10.0,24.0,1,Not from Cross,1,0,0
+Match 50,51:51,Goal,Richard Gadze,Delhi Dynamos FC,FC Goa,2.0,35.0,10.0,24.0,2,Not from Cross,1,0,0
+Match 50,53:30,Off Target,Luciano Sobrosa,FC Goa,Delhi Dynamos FC,5.0,43.0,18.0,44.0,-2,Not from Cross,1,0,0
+Match 50,55:44,On Target,Kean Lewis,Delhi Dynamos FC,FC Goa,4.0,35.0,23.0,25.0,2,Not from Cross,1,0,0
+Match 50,56:10,On Target,Marcelo Pereira,Delhi Dynamos FC,FC Goa,1.0,36.0,9.0,25.0,2,Not from Cross,1,0,0
+Match 50,56:10,Goal,Marcelo Pereira,Delhi Dynamos FC,FC Goa,1.0,36.0,9.0,25.0,3,Not from Cross,1,0,0
+Match 50,57:57,On Target,Richard Gadze,Delhi Dynamos FC,FC Goa,2.0,33.0,7.0,27.0,3,Not from Cross,1,0,0
+Match 50,58:3,Goal,Richard Gadze,Delhi Dynamos FC,FC Goa,2.0,33.0,7.0,27.0,4,Not from Cross,1,0,0
+Match 50,61:15,Off Target,Julio Cesar,FC Goa,Delhi Dynamos FC,5.0,32.0,34.0,49.0,-4,Not from Cross,1,0,0
+Match 50,70:27,Off Target,Badara Badji,Delhi Dynamos FC,FC Goa,1.0,28.0,24.0,25.0,4,Not from Cross,1,0,0
+Match 50,80:19,Off Target,Julio Cesar,FC Goa,Delhi Dynamos FC,5.0,43.0,31.0,44.0,-4,Not from Cross,1,0,0
+Match 50,84:36,On Target,Fulganco Cardozo,FC Goa,Delhi Dynamos FC,7.0,41.0,11.0,49.0,-4,Not from Cross,1,0,0
+Match 50,86:13,Off Target,Kean Lewis,Delhi Dynamos FC,FC Goa,2.0,39.0,9.0,23.0,4,Not from Cross,1,0,0
+Match 50,88:52,Off Target,Sahil Tavora,FC Goa,Delhi Dynamos FC,5.0,45.0,31.0,30.0,-4,Not from Cross,1,0,0
+Match 50,93:0,On Target,Bruno Pelissari,Delhi Dynamos FC,FC Goa,2.0,35.0,17.0,39.0,4,Not from Cross,1,0,0
+Match 51,6:24,On Target,Sandesh Jhingan,Kerala Blasters FC,Atlético de Kolkata,4.0,31.0,10.0,28.0,0,Not from Cross,1,0,0
+Match 51,8:49,On Target,CK Vineeth,Kerala Blasters FC,Atlético de Kolkata,3.0,33.0,9.0,29.0,0,Not from Cross,1,0,0
+Match 51,8:49,Goal,CK Vineeth,Kerala Blasters FC,Atlético de Kolkata,3.0,33.0,9.0,29.0,1,Not from Cross,1,0,0
+Match 51,17:50,Off Target,Hélder Postiga,Atlético de Kolkata,Kerala Blasters FC,5.0,45.0,29.0,27.0,-1,Not from Cross,1,0,0
+Match 51,18:46,On Target,Stephen Pearson,Atlético de Kolkata,Kerala Blasters FC,5.0,39.0,14.0,44.0,-1,Not from Cross,1,0,0
+Match 51,18:46,Goal,Stephen Pearson,Atlético de Kolkata,Kerala Blasters FC,5.0,39.0,15.0,43.0,0,Not from Cross,1,0,0
+Match 51,27:20,On Target,Kervens Belfort,Kerala Blasters FC,Atlético de Kolkata,4.0,30.0,24.0,40.0,0,Not from Cross,1,0,0
+Match 51,41:58,Off Target,Hélder Postiga,Atlético de Kolkata,Kerala Blasters FC,5.0,30.0,14.0,40.0,0,Not from Cross,1,0,0
+Match 51,44:9,Off Target,Mohammed Rafi,Kerala Blasters FC,Atlético de Kolkata,0.0,37.0,11.0,31.0,0,Not from Cross,1,0,0
+Match 51,45:0,Off Target,Elhadji Ndoye,Kerala Blasters FC,Atlético de Kolkata,2.0,40.0,11.0,29.0,0,Not from Cross,1,0,0
+Match 51,65:10,Off Target,Cedric Hengbart,Kerala Blasters FC,Atlético de Kolkata,3.0,34.0,11.0,44.0,0,Not from Cross,1,0,0
+Match 51,66:26,On Target,Kervens Belfort,Kerala Blasters FC,Atlético de Kolkata,8.0,38.0,25.0,38.0,0,Not from Cross,1,0,0
+Match 51,75:13,Off Target,Mohammed Rafi,Kerala Blasters FC,Atlético de Kolkata,5.0,29.0,11.0,43.0,0,Not from Cross,1,0,0
+Match 51,77:43,On Target,Mohammed Rafi,Kerala Blasters FC,Atlético de Kolkata,6.0,36.0,11.0,34.0,0,Not from Cross,1,0,0
+Match 51,78:8,Off Target,Kervens Belfort,Kerala Blasters FC,Atlético de Kolkata,5.0,32.0,19.0,47.0,0,Not from Cross,1,0,0
+Match 51,80:27,Off Target,Mehtab Hossain,Kerala Blasters FC,Atlético de Kolkata,3.0,39.0,27.0,40.0,0,Not from Cross,1,0,0
+Match 51,82:1,Off Target,Stephen Pearson,Atlético de Kolkata,Kerala Blasters FC,3.0,25.0,16.0,24.0,0,Not from Cross,1,0,0
+Match 51,87:29,On Target,Mohammed Rafi,Kerala Blasters FC,Atlético de Kolkata,7.0,40.0,29.0,43.0,0,Not from Cross,1,0,0
+Match 51,89:12,Off Target,Hélder Postiga,Atlético de Kolkata,Kerala Blasters FC,3.0,19.0,24.0,19.0,0,Not from Cross,1,0,0
+Match 52,3:9,Off Target,Richard Gadze,Delhi Dynamos FC,NorthEast United FC,5.0,43.0,21.0,38.0,0,Not from Cross,1,0,0
+Match 52,17:30,Off Target,Marcelo Pereira,Delhi Dynamos FC,NorthEast United FC,5.0,48.0,11.0,23.0,0,Not from Cross,1,0,0
+Match 52,18:28,On Target,Emiliano Alfaro,NorthEast United FC,Delhi Dynamos FC,5.0,36.0,12.0,38.0,0,Not from Cross,1,0,0
+Match 52,26:26,Off Target,Robert Cullen,NorthEast United FC,Delhi Dynamos FC,2.0,23.0,17.0,38.0,0,Not from Cross,1,0,0
+Match 52,33:31,On Target,Richard Gadze,Delhi Dynamos FC,NorthEast United FC,7.0,34.0,10.0,21.0,0,Not from Cross,1,0,0
+Match 52,37:40,On Target,Seityasen Singh,NorthEast United FC,Delhi Dynamos FC,6.0,35.0,25.0,33.0,0,Not from Cross,1,0,0
+Match 52,39:43,Off Target,Kean Lewis,Delhi Dynamos FC,NorthEast United FC,6.0,29.0,16.0,52.0,0,Not from Cross,1,0,0
+Match 52,60:49,On Target,Seityasen Singh,NorthEast United FC,Delhi Dynamos FC,5.0,41.0,8.0,28.0,0,Not from Cross,1,0,0
+Match 52,60:49,Goal,Seityasen Singh,NorthEast United FC,Delhi Dynamos FC,5.0,40.0,7.0,28.0,1,Not from Cross,1,0,0
+Match 52,70:15,Off Target,Rowllin Borges,NorthEast United FC,Delhi Dynamos FC,4.0,32.0,11.0,36.0,1,Not from Cross,1,0,0
+Match 52,71:58,On Target,Koffi N'dri,NorthEast United FC,Delhi Dynamos FC,6.0,38.0,16.0,45.0,1,Not from Cross,1,0,0
+Match 52,71:58,Goal,Koffi N'dri,NorthEast United FC,Delhi Dynamos FC,5.0,38.0,17.0,46.0,2,Not from Cross,1,0,0
+Match 52,81:39,On Target,Bruno Pelissari,Delhi Dynamos FC,NorthEast United FC,5.0,29.0,21.0,15.0,-2,Not from Cross,1,0,0
+Match 52,82:52,On Target,Koffi N'dri,NorthEast United FC,Delhi Dynamos FC,8.0,34.0,39.0,22.0,2,Not from Cross,1,0,0
+Match 52,84:53,Off Target,Katsumi Yusa,NorthEast United FC,Delhi Dynamos FC,5.0,44.0,16.0,40.0,2,Not from Cross,1,0,0
+Match 52,85:52,On Target,Rubén Rocha,Delhi Dynamos FC,NorthEast United FC,5.0,30.0,21.0,18.0,-2,Not from Cross,1,0,0
+Match 52,86:17,Off Target,Marcelo Pereira,Delhi Dynamos FC,NorthEast United FC,0.0,30.0,22.0,20.0,-2,Not from Cross,1,0,0
+Match 52,91:0,Off Target,Souvik C'kraborty,Delhi Dynamos FC,NorthEast United FC,2.0,24.0,22.0,47.0,-2,Not from Cross,1,0,0
+Match 52,92:0,Off Target,Emiliano Alfaro,NorthEast United FC,Delhi Dynamos FC,7.0,32.0,11.0,35.0,2,Directly from Cross,0,0,1
+Match 52,92:0,On Target,Marcelo Pereira,Delhi Dynamos FC,NorthEast United FC,2.0,29.0,10.0,25.0,-2,Directly from Cross,0,0,1
+Match 52,92:0,Goal,Marcelo Pereira,Delhi Dynamos FC,NorthEast United FC,2.0,30.0,10.0,24.0,-1,Directly from Cross,0,0,1
+Match 53,4:30,On Target,Jerry L'rinzuala,Chennaiyin FC,FC Goa,NaN,NaN,NaN,NaN,0,Not from Cross,1,0,0
+Match 53,4:30,Goal,Jerry L'rinzuala,Chennaiyin FC,FC Goa,5.0,35.0,27.0,32.0,1,Not from Cross,1,0,0
+Match 53,6:3,On Target,Rafael Luiz,FC Goa,Chennaiyin FC,2.0,30.0,14.0,33.0,-1,Not from Cross,1,0,0
+Match 53,6:3,Goal,Rafael Luiz,FC Goa,Chennaiyin FC,3.0,30.0,13.0,33.0,0,Not from Cross,1,0,0
+Match 53,9:57,Off Target,MacPherlin Omagbemi,Chennaiyin FC,FC Goa,6.0,34.0,24.0,37.0,0,Not from Cross,1,0,0
+Match 53,13:46,On Target,Thoi Singh,Chennaiyin FC,FC Goa,7.0,37.0,12.0,24.0,0,Not from Cross,1,0,0
+Match 53,14:17,Off Target,Anrirudh Thapa,Chennaiyin FC,FC Goa,5.0,41.0,8.0,44.0,1,Not from Cross,1,0,0
+Match 53,15:19,Off Target,Siam Hanghal,Chennaiyin FC,FC Goa,6.0,43.0,19.0,46.0,1,Not from Cross,1,0,0
+Match 53,21:46,On Target,Joffre Gonzalez,FC Goa,Chennaiyin FC,3.0,30.0,14.0,33.0,-1,Not from Cross,1,0,0
+Match 53,28:56,On Target,MacPherlin Omagbemi,Chennaiyin FC,FC Goa,5.0,38.0,15.0,46.0,0,Not from Cross,1,0,0
+Match 53,28:56,Goal,MacPherlin Omagbemi,Chennaiyin FC,FC Goa,5.0,38.0,15.0,46.0,1,Not from Cross,1,0,0
+Match 53,42:15,On Target,Daniel L'hlimpuia,Chennaiyin FC,FC Goa,6.0,38.0,18.0,43.0,1,Not from Cross,1,0,0
+Match 53,45:55,On Target,Daniel L'hlimpuia,Chennaiyin FC,FC Goa,5.0,38.0,22.0,39.0,1,Not from Cross,1,0,0
+Match 53,46:0,Off Target,Bernard Mendy,Chennaiyin FC,FC Goa,3.0,36.0,31.0,40.0,1,Not from Cross,1,0,0
+Match 53,47:44,On Target,Gregory Arnolin,FC Goa,Chennaiyin FC,7.0,40.0,15.0,40.0,-1,Not from Cross,1,0,0
+Match 53,62:23,On Target,Siam Hanghal,Chennaiyin FC,FC Goa,10.0,33.0,17.0,32.0,1,Not from Cross,1,0,0
+Match 53,65:14,Off Target,Trindade Goncalves,FC Goa,Chennaiyin FC,5.0,30.0,18.0,40.0,-1,Not from Cross,1,0,0
+Match 53,68:46,On Target,Sahil Tavora,FC Goa,Chennaiyin FC,6.0,38.0,9.0,37.0,-1,Not from Cross,1,0,0
+Match 53,69:3,Goal,Sahil Tavora,FC Goa,Chennaiyin FC,4.0,38.0,9.0,39.0,0,Not from Cross,1,0,0
+Match 53,76:7,Off Target,John Riise,Chennaiyin FC,FC Goa,5.0,30.0,24.0,41.0,0,Not from Cross,1,0,0
+Match 53,76:28,On Target,Rafael Luiz,FC Goa,Chennaiyin FC,5.0,40.0,16.0,29.0,0,Not from Cross,1,0,0
+Match 53,76:28,Goal,Rafael Luiz,FC Goa,Chennaiyin FC,5.0,41.0,16.0,29.0,1,Not from Cross,1,0,0
+Match 53,82:42,On Target,Bernard Mendy,Chennaiyin FC,FC Goa,3.0,30.0,8.0,33.0,-1,Not from Cross,1,0,0
+Match 53,84:10,Off Target,Rafael Luiz,FC Goa,Chennaiyin FC,3.0,34.0,15.0,43.0,1,Not from Cross,1,0,0
+Match 53,88:11,On Target,John Riise,Chennaiyin FC,FC Goa,3.0,30.0,14.0,33.0,-1,Not from Cross,1,0,0
+Match 53,89:57,Off Target,Daniel L'hlimpuia,Chennaiyin FC,FC Goa,0.0,30.0,26.0,33.0,0,Not from Cross,1,0,0
+Match 53,94:0,On Target,Sahil Tavora,FC Goa,Chennaiyin FC,5.0,35.0,16.0,55.0,0,Not from Cross,1,0,0
+Match 53,94:0,Goal,Sahil Tavora,FC Goa,Chennaiyin FC,5.0,35.0,16.0,55.0,1,Not from Cross,1,0,0
+Match 53,95:0,On Target,Davide Succi,Chennaiyin FC,FC Goa,17.0,35.0,22.0,34.0,-1,Not from Cross,1,0,0
+Match 54,5:28,On Target,Javier Grande,Atlético de Kolkata,FC Pune City,7.0,38.0,20.0,63.0,0,Not from Cross,1,0,0
+Match 54,7:30,Off Target,Jewel Shaikh,Atlético de Kolkata,FC Pune City,5.0,31.0,25.0,28.0,0,Not from Cross,1,0,0
+Match 54,12:42,Off Target,Ofentse Nato,Atlético de Kolkata,FC Pune City,5.0,44.0,26.0,26.0,0,Not from Cross,1,0,0
+Match 54,17:56,On Target,Javier Grande,Atlético de Kolkata,FC Pune City,8.0,42.0,30.0,46.0,0,Not from Cross,1,0,0
+Match 54,19:58,Off Target,Juan Belencoso,Atlético de Kolkata,FC Pune City,5.0,43.0,9.0,44.0,0,Directly from Cross,0,0,1
+Match 54,22:23,Off Target,Juan Belencoso,Atlético de Kolkata,FC Pune City,5.0,44.0,11.0,42.0,0,Not from Cross,1,0,0
+Match 54,24:59,On Target,Mohamed Sissoko,FC Pune City,Atlético de Kolkata,3.0,33.0,25.0,30.0,0,Not from Cross,1,0,0
+Match 54,30:54,On Target,Keegan Pereira,Atlético de Kolkata,FC Pune City,7.0,40.0,27.0,45.0,0,Not from Cross,1,0,0
+Match 54,32:41,Off Target,Anibal Rodriguez,FC Pune City,Atlético de Kolkata,2.0,38.0,18.0,16.0,0,Not from Cross,1,0,0
+Match 54,34:57,Off Target,Momar Ndoye,FC Pune City,Atlético de Kolkata,2.0,27.0,21.0,18.0,0,Not from Cross,1,0,0
+Match 54,44:46,Off Target,Jewel Shaikh,Atlético de Kolkata,FC Pune City,5.0,37.0,29.0,36.0,0,Not from Cross,1,0,0
+Match 54,49:7,Off Target,Lenny Rodrigues,FC Pune City,Atlético de Kolkata,3.0,34.0,30.0,35.0,0,Not from Cross,1,0,0
+Match 54,55:53,Off Target,Anibal Rodriguez,FC Pune City,Atlético de Kolkata,3.0,38.0,13.0,37.0,0,Not from Cross,1,0,0
+Match 54,62:56,Off Target,Pitu,FC Pune City,Atlético de Kolkata,6.0,31.0,25.0,47.0,0,Not from Cross,1,0,0
+Match 54,65:17,On Target,Momar Ndoye,FC Pune City,Atlético de Kolkata,8.0,41.0,25.0,46.0,0,Not from Cross,1,0,0
+Match 54,69:4,Off Target,Jonatan Lucca,FC Pune City,Atlético de Kolkata,6.0,28.0,28.0,47.0,0,Not from Cross,1,0,0
+Match 54,72:52,On Target,Dramane Traore,FC Pune City,Atlético de Kolkata,7.0,34.0,26.0,29.0,0,Not from Cross,1,0,0
+Match 54,73:56,Off Target,Sanju Pradhan,FC Pune City,Atlético de Kolkata,3.0,40.0,20.0,26.0,0,Not from Cross,1,0,0
+Match 54,78:21,On Target,Stephen Pearson,Atlético de Kolkata,FC Pune City,4.0,33.0,16.0,40.0,0,Not from Cross,1,0,0
+Match 54,78:31,Off Target,Juan Belencoso,Atlético de Kolkata,FC Pune City,2.0,25.0,12.0,33.0,0,Not from Cross,1,0,0
+Match 54,88:36,Off Target,Juan Belencoso,Atlético de Kolkata,FC Pune City,2.0,26.0,9.0,24.0,0,Not from Cross,1,0,0
+Match 54,90:5,On Target,Pitu,FC Pune City,Atlético de Kolkata,6.0,39.0,30.0,51.0,0,Not from Cross,1,0,0
+Match 54,92:0,Off Target,Iain Hume,Atlético de Kolkata,FC Pune City,2.0,40.0,9.0,28.0,0,Directly from Cross,0,0,1
+Match 55,22:4,On Target,Diego Forlán,Mumbai City FC,Delhi Dynamos FC,6.0,40.0,7.0,53.0,0,Not from Cross,1,0,0
+Match 55,22:42,Off Target,Otacilio Alves,Mumbai City FC,Delhi Dynamos FC,3.0,42.0,24.0,21.0,0,Not from Cross,1,0,0
+Match 55,24:55,Off Target,Diego Forlán,Mumbai City FC,Delhi Dynamos FC,3.0,30.0,28.0,28.0,0,Not from Cross,1,0,0
+Match 55,36:28,Off Target,Krisztián Vadócz,Mumbai City FC,Delhi Dynamos FC,4.0,45.0,29.0,32.0,0,Not from Cross,1,0,0
+Match 55,39:48,Off Target,Bruno Pelissari,Delhi Dynamos FC,Mumbai City FC,0.0,34.0,10.0,57.0,0,Not from Cross,1,0,0
+Match 55,45:0,On Target,Sehnaj Singh,Mumbai City FC,Delhi Dynamos FC,5.0,35.0,14.0,23.0,0,Not from Cross,1,0,0
+Match 55,46:0,Off Target,Lucian Goian,Mumbai City FC,Delhi Dynamos FC,3.0,38.0,12.0,37.0,0,Not from Cross,1,0,0
+Match 55,57:21,Off Target,Kean Lewis,Delhi Dynamos FC,Mumbai City FC,3.0,30.0,28.0,48.0,0,Not from Cross,1,0,0
+Match 55,70:15,Off Target,Badara Badji,Delhi Dynamos FC,Mumbai City FC,3.0,27.0,28.0,49.0,0,Not from Cross,1,0,0
+Match 55,72:9,Off Target,Otacilio Alves,Mumbai City FC,Delhi Dynamos FC,2.0,32.0,28.0,25.0,0,Not from Cross,1,0,0
+Match 55,72:46,Off Target,Bruno Pelissari,Delhi Dynamos FC,Mumbai City FC,5.0,33.0,32.0,32.0,0,Not from Cross,1,0,0
+Match 55,74:51,Off Target,Florent Malouda,Delhi Dynamos FC,Mumbai City FC,4.0,31.0,27.0,50.0,0,Not from Cross,1,0,0
+Match 55,78:58,On Target,Sony Norde,Mumbai City FC,Delhi Dynamos FC,3.0,32.0,17.0,37.0,0,Not from Cross,1,0,0
+Match 55,89:38,Off Target,Udanta Singh,Mumbai City FC,Delhi Dynamos FC,1.0,26.0,17.0,22.0,0,Not from Cross,1,0,0
+Match 56,4:56,On Target,Duckens Nazon,Kerala Blasters FC,NorthEast United FC,7.0,41.0,11.0,51.0,0,Not from Cross,1,0,0
+Match 56,18:50,On Target,Seityasen Singh,NorthEast United FC,Kerala Blasters FC,4.0,32.0,23.0,26.0,0,Not from Cross,1,0,0
+Match 56,22:30,Off Target,Koffi N'dri,NorthEast United FC,Kerala Blasters FC,2.0,39.0,23.0,42.0,0,Not from Cross,1,0,0
+Match 56,23:48,Off Target,Rowllin Borges,NorthEast United FC,Kerala Blasters FC,2.0,26.0,23.0,42.0,0,Not from Cross,1,0,0
+Match 56,34:38,Off Target,Koffi N'dri,NorthEast United FC,Kerala Blasters FC,0.0,30.0,22.0,16.0,0,Not from Cross,1,0,0
+Match 56,46:0,Off Target,Seityasen Singh,NorthEast United FC,Kerala Blasters FC,2.0,25.0,21.0,30.0,0,Not from Cross,1,0,0
+Match 56,47:2,Off Target,Seityasen Singh,NorthEast United FC,Kerala Blasters FC,2.0,34.0,19.0,27.0,0,Not from Cross,1,0,0
+Match 56,60:5,On Target,Emiliano Alfaro,NorthEast United FC,Kerala Blasters FC,7.0,37.0,17.0,30.0,0,Not from Cross,1,0,0
+Match 56,66:19,On Target,CK Vineeth,Kerala Blasters FC,NorthEast United FC,2.0,30.0,22.0,42.0,0,Not from Cross,1,0,0
+Match 56,66:19,Goal,CK Vineeth,Kerala Blasters FC,NorthEast United FC,2.0,30.0,22.0,41.0,1,Not from Cross,1,0,0
+Match 56,69:1,On Target,Kervens Belfort,Kerala Blasters FC,NorthEast United FC,4.0,32.0,21.0,26.0,1,Not from Cross,1,0,0
+Match 56,70:5,Off Target,Mailson Alves,NorthEast United FC,Kerala Blasters FC,3.0,39.0,9.0,44.0,-1,Not from Cross,1,0,0
+Match 56,72:38,On Target,Kervens Belfort,Kerala Blasters FC,NorthEast United FC,5.0,36.0,12.0,40.0,1,Not from Cross,1,0,0
+Match 56,75:41,On Target,Antonio German,Kerala Blasters FC,NorthEast United FC,4.0,32.0,21.0,31.0,1,Indirectly from Cross,0,1,0
+Match 56,78:0,Off Target,Robert Cullen,NorthEast United FC,Kerala Blasters FC,5.0,43.0,29.0,39.0,-1,Not from Cross,1,0,0
+Match 56,80:57,On Target,CK Vineeth,Kerala Blasters FC,NorthEast United FC,6.0,35.0,23.0,39.0,1,Not from Cross,1,0,0
+Match 56,81:49,On Target,Mailson Alves,NorthEast United FC,Kerala Blasters FC,5.0,35.0,13.0,38.0,-1,Not from Cross,1,0,0
+Match 56,84:3,Off Target,Seityasen Singh,NorthEast United FC,Kerala Blasters FC,2.0,38.0,31.0,37.0,-1,Not from Cross,1,0,0
+Match 56,84:57,Off Target,Emiliano Alfaro,NorthEast United FC,Kerala Blasters FC,5.0,45.0,27.0,42.0,-1,Not from Cross,1,0,0
+Match 56,87:4,On Target,Antonio German,Kerala Blasters FC,NorthEast United FC,2.0,30.0,22.0,42.0,1,Not from Cross,1,0,0
+Match 56,87:45,On Target,Mohammed Rafi,Kerala Blasters FC,NorthEast United FC,3.0,32.0,9.0,33.0,1,Not from Cross,1,0,0
+Match 56,89:35,Off Target,Ishfaq Ahmed,Kerala Blasters FC,NorthEast United FC,0.0,30.0,23.0,21.0,1,Not from Cross,1,0,0
+Semi-Final 1 - 1st Leg,3:7,On Target,Lalrindika Ralte,Atlético de Kolkata,Mumbai City FC,5.0,35.0,13.0,42.0,0,Directly from Cross,0,0,1
+Semi-Final 1 - 1st Leg,3:8,Goal,Lalrindika Ralte,Atlético de Kolkata,Mumbai City FC,5.0,35.0,13.0,40.0,1,Indirectly from Cross,0,1,0
+Semi-Final 1 - 1st Leg,10:44,On Target,Léo Costa,Mumbai City FC,Atlético de Kolkata,2.0,35.0,13.0,18.0,-1,Not from Cross,1,0,0
+Semi-Final 1 - 1st Leg,10:44,Goal,Léo Costa,Mumbai City FC,Atlético de Kolkata,2.0,35.0,14.0,19.0,0,Not from Cross,1,0,0
+Semi-Final 1 - 1st Leg,19:34,On Target,Gerson Vieira,Mumbai City FC,Atlético de Kolkata,1.0,30.0,9.0,31.0,0,Not from Cross,1,0,0
+Semi-Final 1 - 1st Leg,19:34,Goal,Gerson Vieira,Mumbai City FC,Atlético de Kolkata,1.0,31.0,9.0,32.0,1,Not from Cross,1,0,0
+Semi-Final 1 - 1st Leg,21:27,Off Target,Borja Fernández,Atlético de Kolkata,Mumbai City FC,3.0,34.0,30.0,30.0,-1,Not from Cross,1,0,0
+Semi-Final 1 - 1st Leg,29:58,On Target,Sameehg Doutie,Atlético de Kolkata,Mumbai City FC,7.0,37.0,20.0,25.0,-1,Not from Cross,1,0,0
+Semi-Final 1 - 1st Leg,39:22,On Target,Iain Hume,Atlético de Kolkata,Mumbai City FC,4.0,35.0,17.0,46.0,-1,Indirectly from Cross,0,1,0
+Semi-Final 1 - 1st Leg,39:22,Goal,Iain Hume,Atlético de Kolkata,Mumbai City FC,5.0,34.0,15.0,45.0,0,Indirectly from Cross,0,1,0
+Semi-Final 1 - 1st Leg,43:18,Off Target,Léo Costa,Mumbai City FC,Atlético de Kolkata,-1.0,25.0,26.0,38.0,0,Not from Cross,1,0,0
+Semi-Final 1 - 1st Leg,45:25,On Target,Diego Forlán,Mumbai City FC,Atlético de Kolkata,5.0,32.0,29.0,40.0,0,Not from Cross,1,0,0
+Semi-Final 1 - 1st Leg,48:0,On Target,Iain Hume,Atlético de Kolkata,Mumbai City FC,4.0,35.0,17.0,38.0,0,Not from Cross,1,0,0
+Semi-Final 1 - 1st Leg,49:41,Off Target,Sunil Chhetri,Mumbai City FC,Atlético de Kolkata,2.0,43.0,17.0,40.0,-1,Directly from Cross,0,0,1
+Semi-Final 1 - 1st Leg,53:25,On Target,Iain Hume,Atlético de Kolkata,Mumbai City FC,4.0,30.0,9.0,30.0,1,Indirectly from Cross,0,1,0
+Semi-Final 1 - 1st Leg,56:38,Off Target,Léo Costa,Mumbai City FC,Atlético de Kolkata,3.0,30.0,18.0,46.0,-1,Not from Cross,1,0,0
+Semi-Final 1 - 1st Leg,58:58,On Target,Léo Costa,Mumbai City FC,Atlético de Kolkata,7.0,33.0,20.0,23.0,-1,Not from Cross,1,0,0
+Semi-Final 1 - 1st Leg,59:40,Off Target,Iain Hume,Atlético de Kolkata,Mumbai City FC,2.0,27.0,5.0,27.0,1,Not from Cross,1,0,0
+Semi-Final 1 - 1st Leg,61:46,On Target,Diego Forlán,Mumbai City FC,Atlético de Kolkata,6.0,35.0,37.0,52.0,-1,Not from Cross,1,0,0
+Semi-Final 1 - 1st Leg,67:48,Off Target,Lalrindika Ralte,Atlético de Kolkata,Mumbai City FC,0.0,39.0,17.0,41.0,1,Not from Cross,1,0,0
+Semi-Final 1 - 1st Leg,72:19,Off Target,Diego Forlán,Mumbai City FC,Atlético de Kolkata,3.0,45.0,27.0,53.0,-1,Not from Cross,1,0,0
+Semi-Final 1 - 1st Leg,78:7,On Target,Sameehg Doutie,Atlético de Kolkata,Mumbai City FC,4.0,31.0,21.0,32.0,1,Not from Cross,1,0,0
+Semi-Final 1 - 1st Leg,84:9,Off Target,Matías Defederico,Mumbai City FC,Atlético de Kolkata,2.0,30.0,27.0,55.0,-1,Not from Cross,1,0,0
+Semi-Final 1 - 1st Leg,94:0,Off Target,Iain Hume,Atlético de Kolkata,Mumbai City FC,0.0,41.0,16.0,20.0,1,Not from Cross,1,0,0
+Semi-Final 2 - 1st Leg,1:59,On Target,Kean Lewis,Delhi Dynamos FC,Kerala Blasters FC,12.0,37.0,17.0,38.0,0,Not from Cross,1,0,0
+Semi-Final 2 - 1st Leg,2:50,Off Target,CK Vineeth,Kerala Blasters FC,Delhi Dynamos FC,3.0,32.0,16.0,26.0,0,Not from Cross,1,0,0
+Semi-Final 2 - 1st Leg,25:59,On Target,Florent Malouda,Delhi Dynamos FC,Kerala Blasters FC,4.0,28.0,17.0,9.0,0,Not from Cross,1,0,0
+Semi-Final 2 - 1st Leg,30:50,Off Target,Marcelo Pereira,Delhi Dynamos FC,Kerala Blasters FC,2.0,25.0,29.0,42.0,0,Not from Cross,1,0,0
+Semi-Final 2 - 1st Leg,35:41,On Target,Marcelo Pereira,Delhi Dynamos FC,Kerala Blasters FC,4.0,29.0,8.0,16.0,0,Not from Cross,1,0,0
+Semi-Final 2 - 1st Leg,43:22,On Target,Duckens Nazon,Kerala Blasters FC,Delhi Dynamos FC,13.0,41.0,17.0,43.0,0,Not from Cross,1,0,0
+Semi-Final 2 - 1st Leg,43:51,Off Target,Duckens Nazon,Kerala Blasters FC,Delhi Dynamos FC,4.0,31.0,15.0,32.0,0,Not from Cross,1,0,0
+Semi-Final 2 - 1st Leg,51:55,Off Target,Aaron Hughes,Kerala Blasters FC,Delhi Dynamos FC,0.0,26.0,21.0,33.0,0,Not from Cross,1,0,0
+Semi-Final 2 - 1st Leg,64:8,On Target,Duckens Nazon,Kerala Blasters FC,Delhi Dynamos FC,3.0,30.0,5.0,17.0,0,Not from Cross,1,0,0
+Semi-Final 2 - 1st Leg,65:1,On Target,Kervens Belfort,Kerala Blasters FC,Delhi Dynamos FC,2.0,35.0,13.0,39.0,0,Not from Cross,1,0,0
+Semi-Final 2 - 1st Leg,65:1,Goal,Kervens Belfort,Kerala Blasters FC,Delhi Dynamos FC,1.0,35.0,10.0,39.0,1,Not from Cross,1,0,0
+Semi-Final 2 - 1st Leg,68:57,On Target,Florent Malouda,Delhi Dynamos FC,Kerala Blasters FC,8.0,38.0,27.0,28.0,-1,Not from Cross,1,0,0
+Semi-Final 2 - 1st Leg,75:26,On Target,Marcelo Pereira,Delhi Dynamos FC,Kerala Blasters FC,5.0,35.0,11.0,42.0,-1,Not from Cross,1,0,0
+Semi-Final 2 - 1st Leg,75:56,Off Target,Souvik C'kraborty,Delhi Dynamos FC,Kerala Blasters FC,2.0,30.0,32.0,53.0,-1,Not from Cross,1,0,0
+Semi-Final 2 - 1st Leg,84:41,On Target,CK Vineeth,Kerala Blasters FC,Delhi Dynamos FC,5.0,30.0,11.0,18.0,1,Not from Cross,1,0,0
+Semi-Final 2 - 1st Leg,88:51,Off Target,Marcelo Pereira,Delhi Dynamos FC,Kerala Blasters FC,3.0,50.0,29.0,23.0,-1,Not from Cross,1,0,0
+Semi-Final 2 - 1st Leg,90:0,Off Target,M'wmzuala,Delhi Dynamos FC,Kerala Blasters FC,4.0,30.0,29.0,39.0,-1,Not from Cross,1,0,0
+Semi-Final 1 - 2nd Leg,6:59,On Target,Sunil Chhetri,Mumbai City FC,Atlético de Kolkata,8.0,34.0,14.0,30.0,0,Not from Cross,1,0,0
+Semi-Final 1 - 2nd Leg,8:10,Off Target,Léo Costa,Mumbai City FC,Atlético de Kolkata,4.0,47.0,32.0,44.0,0,Not from Cross,1,0,0
+Semi-Final 1 - 2nd Leg,11:53,Off Target,Borja Fernández,Atlético de Kolkata,Mumbai City FC,0.0,44.0,26.0,25.0,0,Not from Cross,1,0,0
+Semi-Final 1 - 2nd Leg,15:21,Off Target,Javier Grande,Atlético de Kolkata,Mumbai City FC,1.0,38.0,6.0,47.0,0,Not from Cross,1,0,0
+Semi-Final 1 - 2nd Leg,17:13,Off Target,Lucian Goian,Mumbai City FC,Atlético de Kolkata,2.0,51.0,28.0,49.0,0,Not from Cross,1,0,0
+Semi-Final 1 - 2nd Leg,29:13,On Target,Lalrindika Ralte,Atlético de Kolkata,Mumbai City FC,8.0,33.0,12.0,32.0,0,Indirectly from Cross,0,1,0
+Semi-Final 1 - 2nd Leg,40:50,Off Target,Krisztián Vadócz,Mumbai City FC,Atlético de Kolkata,3.0,46.0,12.0,41.0,0,Indirectly from Cross,0,1,0
+Semi-Final 1 - 2nd Leg,45:0,On Target,Gerson Vieira,Mumbai City FC,Atlético de Kolkata,8.0,35.0,31.0,45.0,0,Directly from Cross,0,0,1
+Semi-Final 1 - 2nd Leg,47:0,Off Target,Matías Defederico,Mumbai City FC,Atlético de Kolkata,2.0,41.0,26.0,26.0,0,Not from Cross,1,0,0
+Semi-Final 1 - 2nd Leg,46:56,Off Target,Sony Norde,Mumbai City FC,Atlético de Kolkata,1.0,41.0,21.0,41.0,0,Not from Cross,1,0,0
+Semi-Final 1 - 2nd Leg,47:38,Off Target,Matías Defederico,Mumbai City FC,Atlético de Kolkata,4.0,25.0,16.0,16.0,0,Not from Cross,1,0,0
+Semi-Final 1 - 2nd Leg,49:39,Off Target,Sehnaj Singh,Mumbai City FC,Atlético de Kolkata,0.0,43.0,22.0,15.0,0,Not from Cross,1,0,0
+Semi-Final 1 - 2nd Leg,63:7,Off Target,Lucian Goian,Mumbai City FC,Atlético de Kolkata,0.0,23.0,27.0,35.0,0,Not from Cross,1,0,0
+Semi-Final 1 - 2nd Leg,64:9,Off Target,Léo Costa,Mumbai City FC,Atlético de Kolkata,1.0,40.0,23.0,43.0,0,Not from Cross,1,0,0
+Semi-Final 1 - 2nd Leg,69:13,Off Target,Lucian Goian,Mumbai City FC,Atlético de Kolkata,0.0,26.0,8.0,31.0,0,Not from Cross,1,0,0
+Semi-Final 1 - 2nd Leg,76:26,Off Target,Stephen Pearson,Atlético de Kolkata,Mumbai City FC,2.0,31.0,10.0,46.0,0,Directly from Cross,0,0,1
+Semi-Final 1 - 2nd Leg,82:45,Off Target,Matías Defederico,Mumbai City FC,Atlético de Kolkata,-1.0,25.0,26.0,32.0,0,Not from Cross,1,0,0
+Semi-Final 1 - 2nd Leg,84:18,Off Target,Lalrindika Ralte,Atlético de Kolkata,Mumbai City FC,2.0,32.0,30.0,32.0,0,Not from Cross,1,0,0
+Semi-Final 1 - 2nd Leg,86:6,Off Target,Lalrindika Ralte,Atlético de Kolkata,Mumbai City FC,4.0,31.0,18.0,52.0,0,Not from Cross,1,0,0
+Semi-Final 1 - 2nd Leg,88:23,Off Target,Jackichand Singh,Mumbai City FC,Atlético de Kolkata,0.0,27.0,10.0,18.0,0,Not from Cross,1,0,0
+Semi-Final 1 - 2nd Leg,89:37,Off Target,Sunil Chhetri,Mumbai City FC,Atlético de Kolkata,-1.0,32.0,10.0,32.0,0,Indirectly from Cross,0,1,0
+Semi-Final 1 - 2nd Leg,90:0,On Target,Lucian Goian,Mumbai City FC,Atlético de Kolkata,6.0,33.0,17.0,39.0,0,Directly from Cross,0,0,1
+Semi-Final 1 - 2nd Leg,91:0,On Target,Lucian Goian,Mumbai City FC,Atlético de Kolkata,5.0,30.0,26.0,41.0,0,Not from Cross,1,0,0
+Semi-Final 2 - 2nd Leg,21:14,On Target,Marcelo Pereira,Delhi Dynamos FC,Kerala Blasters FC,6.0,37.0,15.0,35.0,0,Not from Cross,1,0,0
+Semi-Final 2 - 2nd Leg,21:14,Goal,Marcelo Pereira,Delhi Dynamos FC,Kerala Blasters FC,5.0,37.0,16.0,35.0,1,Not from Cross,1,0,0
+Semi-Final 2 - 2nd Leg,24:12,On Target,Duckens Nazon,Kerala Blasters FC,Delhi Dynamos FC,2.0,30.0,18.0,33.0,-1,Not from Cross,1,0,0
+Semi-Final 2 - 2nd Leg,24:12,Goal,Duckens Nazon,Kerala Blasters FC,Delhi Dynamos FC,2.0,30.0,18.0,34.0,0,Not from Cross,1,0,0
+Semi-Final 2 - 2nd Leg,34:8,Off Target,Didier Kadio,Kerala Blasters FC,Delhi Dynamos FC,0.0,40.0,24.0,29.0,0,Not from Cross,1,0,0
+Semi-Final 2 - 2nd Leg,41:31,On Target,Richard Gadze,Delhi Dynamos FC,Kerala Blasters FC,7.0,35.0,27.0,47.0,0,Not from Cross,1,0,0
+Semi-Final 2 - 2nd Leg,45:0,Off Target,Duckens Nazon,Kerala Blasters FC,Delhi Dynamos FC,1.0,40.0,26.0,34.0,0,Not from Cross,1,0,0
+Semi-Final 2 - 2nd Leg,47:0,Off Target,Marcos Tébar,Delhi Dynamos FC,Kerala Blasters FC,1.0,37.0,29.0,32.0,0,Not from Cross,1,0,0
+Semi-Final 2 - 2nd Leg,51:0,On Target,Rubén Rocha,Delhi Dynamos FC,Kerala Blasters FC,4.0,35.0,10.0,37.0,0,Directly from Cross,0,0,1
+Semi-Final 2 - 2nd Leg,51:0,Goal,Rubén Rocha,Delhi Dynamos FC,Kerala Blasters FC,4.0,35.0,11.0,37.0,1,Directly from Cross,0,0,1
+Semi-Final 2 - 2nd Leg,53:19,Off Target,Florent Malouda,Delhi Dynamos FC,Kerala Blasters FC,0.0,26.0,9.0,25.0,1,Not from Cross,1,0,0
+Semi-Final 2 - 2nd Leg,59:13,On Target,Rubén Rocha,Delhi Dynamos FC,Kerala Blasters FC,3.0,32.0,10.0,25.0,1,Not from Cross,1,0,0
+Semi-Final 2 - 2nd Leg,68:25,Off Target,Marcelo Pereira,Delhi Dynamos FC,Kerala Blasters FC,-1.0,33.0,29.0,23.0,1,Not from Cross,1,0,0
+Semi-Final 2 - 2nd Leg,70:58,Off Target,CK Vineeth,Kerala Blasters FC,Delhi Dynamos FC,3.0,30.0,9.0,31.0,-1,Directly from Cross,0,0,1
+Semi-Final 2 - 2nd Leg,71:53,Off Target,Antonio German,Kerala Blasters FC,Delhi Dynamos FC,2.0,35.0,29.0,47.0,-1,Not from Cross,1,0,0
+Semi-Final 2 - 2nd Leg,78:28,On Target,Florent Malouda,Delhi Dynamos FC,Kerala Blasters FC,3.0,32.0,10.0,28.0,1,Not from Cross,1,0,0
+Semi-Final 2 - 2nd Leg,81:46,Off Target,Emerson Moura,Delhi Dynamos FC,Kerala Blasters FC,0.0,22.0,30.0,29.0,1,Not from Cross,1,0,0
+Semi-Final 2 - 2nd Leg,84:55,Off Target,Marcelo Pereira,Delhi Dynamos FC,Kerala Blasters FC,4.0,64.0,6.0,18.0,1,Not from Cross,1,0,0
+Semi-Final 2 - 2nd Leg,89:32,Off Target,Florent Malouda,Delhi Dynamos FC,Kerala Blasters FC,-1.0,33.0,7.0,24.0,1,Indirectly from Cross,0,1,0
+Semi-Final 2 - 2nd Leg,90:0,On Target,Kervens Belfort,Kerala Blasters FC,Delhi Dynamos FC,6.0,38.0,11.0,40.0,-1,Not from Cross,1,0,0
+Semi-Final 2 - 2nd Leg,91:0,Off Target,Antonio German,Kerala Blasters FC,Delhi Dynamos FC,3.0,54.0,30.0,32.0,-1,Not from Cross,1,0,0
+Semi-Final 2 - 2nd Leg,91:12,Off Target,Antonio German,Kerala Blasters FC,Delhi Dynamos FC,0.0,21.0,10.0,43.0,-1,Not from Cross,1,0,0
+Semi-Final 2 - 2nd Leg,92:57,On Target,Florent Malouda,Delhi Dynamos FC,Kerala Blasters FC,7.0,39.0,18.0,52.0,1,Not from Cross,1,0,0
+Semi-Final 2 - 2nd Leg,92:59,Off Target,Marcelo Pereira,Delhi Dynamos FC,Kerala Blasters FC,2.0,40.0,21.0,36.0,1,Not from Cross,1,0,0
+Semi-Final 2 - 2nd Leg,99:46,On Target,Florent Malouda,Delhi Dynamos FC,Kerala Blasters FC,7.0,40.0,21.0,45.0,1,Not from Cross,1,0,0
+Semi-Final 2 - 2nd Leg,103:17,On Target,Marcelo Pereira,Delhi Dynamos FC,Kerala Blasters FC,8.0,35.0,11.0,27.0,1,Not from Cross,1,0,0
+Semi-Final 2 - 2nd Leg,108:58,Off Target,Emerson Moura,Delhi Dynamos FC,Kerala Blasters FC,0.0,41.0,25.0,35.0,1,Not from Cross,1,0,0
+Semi-Final 2 - 2nd Leg,110:52,Off Target,Emerson Moura,Delhi Dynamos FC,Kerala Blasters FC,0.0,22.0,25.0,32.0,1,Not from Cross,1,0,0
+Semi-Final 2 - 2nd Leg,117:43,On Target,Bruno Pelissari,Delhi Dynamos FC,Kerala Blasters FC,4.0,33.0,26.0,42.0,1,Not from Cross,1,0,0
+Semi-Final 2 - 2nd Leg,119:53,Off Target,Bruno Pelissari,Delhi Dynamos FC,Kerala Blasters FC,2.0,40.0,28.0,33.0,1,Not from Cross,1,0,0
+Final,10:15,On Target,Mohammed Rafi,Kerala Blasters FC,Atlético de Kolkata,12.0,44.0,18.0,49.0,0,Not from Cross,1,0,0
+Final,14:58,Off Target,Hélder Postiga,Atlético de Kolkata,Kerala Blasters FC,1.0,39.0,15.0,40.0,0,Not from Cross,1,0,0
+Final,17:42,On Target,Sameehg Doutie,Atlético de Kolkata,Kerala Blasters FC,4.0,29.0,8.0,16.0,0,Not from Cross,1,0,0
+Final,21:26,Off Target,Kervens Belfort,Kerala Blasters FC,Atlético de Kolkata,2.0,35.0,29.0,28.0,0,Not from Cross,1,0,0
+Final,22:11,Off Target,Hélder Postiga,Atlético de Kolkata,Kerala Blasters FC,-1.0,41.0,25.0,24.0,0,Not from Cross,1,0,0
+Final,23:20,Off Target,Hélder Postiga,Atlético de Kolkata,Kerala Blasters FC,0.0,24.0,18.0,30.0,0,Not from Cross,1,0,0
+Final,27:19,Off Target,Lalrindika Ralte,Atlético de Kolkata,Kerala Blasters FC,0.0,40.0,22.0,36.0,0,Not from Cross,1,0,0
+Final,35:34,On Target,Hélder Postiga,Atlético de Kolkata,Kerala Blasters FC,3.0,34.0,6.0,47.0,0,Not from Cross,1,0,0
+Final,36:51,On Target,CK Vineeth,Kerala Blasters FC,Atlético de Kolkata,7.0,35.0,27.0,28.0,0,Not from Cross,1,0,0
+Final,37:51,On Target,Mohammed Rafi,Kerala Blasters FC,Atlético de Kolkata,4.0,36.0,11.0,39.0,0,Not from Cross,1,0,0
+Final,37:51,Goal,Mohammed Rafi,Kerala Blasters FC,Atlético de Kolkata,4.0,35.0,11.0,40.0,1,Not from Cross,1,0,0
+Final,44:22,On Target,Henrique Sereno,Atlético de Kolkata,Kerala Blasters FC,2.0,35.0,8.0,32.0,-1,Not from Cross,1,0,0
+Final,44:22,Goal,Henrique Sereno,Atlético de Kolkata,Kerala Blasters FC,2.0,35.0,9.0,30.0,0,Not from Cross,1,0,0
+Final,48:57,Off Target,Kervens Belfort,Kerala Blasters FC,Atlético de Kolkata,0.0,17.0,12.0,45.0,0,Not from Cross,1,0,0
+Final,64:57,On Target,Duckens Nazon,Kerala Blasters FC,Atlético de Kolkata,5.0,33.0,26.0,44.0,0,Not from Cross,1,0,0
+Final,66:56,On Target,Hélder Postiga,Atlético de Kolkata,Kerala Blasters FC,7.0,34.0,31.0,27.0,0,Not from Cross,1,0,0
+Final,76:58,Off Target,Duckens Nazon,Kerala Blasters FC,Atlético de Kolkata,0.0,40.0,15.0,42.0,0,Not from Cross,1,0,0
+Final,81:3,Off Target,Lalrindika Ralte,Atlético de Kolkata,Kerala Blasters FC,3.0,31.0,24.0,51.0,0,Not from Cross,1,0,0
+Final,86:49,Off Target,Borja Fernández,Atlético de Kolkata,Kerala Blasters FC,3.0,46.0,27.0,35.0,0,Not from Cross,1,0,0

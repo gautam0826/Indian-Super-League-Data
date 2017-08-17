@@ -19,14 +19,14 @@ public class MatchDataScraper
 
     public static void main(String args[]) throws Exception
     {
-    	//MatchDataScraper f = new MatchDataScraper();
-    	//f.getFixtures();
-    	//f.scrapeMatchData();
+    	//MatchDataScraper m = new MatchDataScraper();
+    	//m.scrapeFixtures();
+    	//m.scrapeMatchData();
     }
     
-    public void getFixtures() throws IOException
+    public void scrapeFixtures() throws IOException
     {
-    	//Manually check url by using Chrome DevTools Network on http://www.indiansuperleague.com/Fantasy/stats?iswv=0
+    	//manually check url by using Chrome DevTools Network on http://www.indiansuperleague.com/Fantasy/stats?iswv=0
     	String url = "http://www.indiansuperleague.com/FantasyData/Fixtures/Fixtures_tId_2.json";
     	String json_contents = Jsoup.connect( url )
     			.referrer("http://www.indiansuperleague.com/Fantasy/stats?iswv=0")
@@ -40,6 +40,7 @@ public class MatchDataScraper
     	out.close();
     }
     
+    //needs fixture file before scraping data
     public void scrapeMatchData() throws IOException, JSONException
     {
     	//read the fixtures file to get match ids
@@ -55,7 +56,7 @@ public class MatchDataScraper
         new File(fantasy_match_directory).mkdir();
         new File(detailed_match_directory).mkdir();
 
-        //iterate through matches
+        //loop through through matches
         JSONArray fixture_arr = new JSONArray(file_contents);
         for (int match_index = 0; match_index < fixture_arr.length(); match_index++)
         {
