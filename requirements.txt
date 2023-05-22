@@ -1,4 +1,4 @@
 pandas==0.25.3
 prefect==0.10.0
-requests==2.23.0
+requests==2.31.0
 Unidecode==1.0.22
